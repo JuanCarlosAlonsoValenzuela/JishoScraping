@@ -33,6 +33,11 @@ def obtain_page(words, level, index):
         furigana = remove_tags(furigana)
         element.append(furigana)
 
+        # Obtenemos la categoría gramatical
+        category = word.find('div', {'class': 'meaning-tags'})
+        category = remove_tags(category)
+        element.append(category)
+
         # Obtenemos las definiciones
         definitions = word.findAll('span', {'class': 'meaning-meaning'})
 

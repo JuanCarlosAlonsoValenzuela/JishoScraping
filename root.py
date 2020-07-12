@@ -25,6 +25,7 @@ for i in range(n_pages):
     words = bs.findAll('div', {'class':'concept_light clearfix'})
 
     # Obtenemos la lista de términos
+    print('Obteniendo página {} de {}'.format(i+1, n_pages))
     page = functions.obtain_page(words, level, index)
     index = index + len(words)
 
@@ -35,4 +36,4 @@ print(final_result)
 print(len(final_result))
 
 document = DataFrame.from_records(final_result)
-document.to_csv('N' + str(level) + '.txt', index=False, sep='\t')
+document.to_csv('csv/N' + str(level) + '.txt', index=False, sep='\t')

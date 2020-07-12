@@ -1,0 +1,680 @@
+
+\documentclass[frontgrid,backgrid,a4paper,11pt]{flacards}
+\usepackage{etoolbox}
+\pretocmd{\card}{\def\curhint{#1}}{}{}
+
+\pagesetup{3}{7}
+
+\usepackage{xeCJK}
+\setCJKmainfont{IPAMincho}
+\setmainfont{Linux Libertine O}
+
+\renewcommand{\cardtextstylef}{\small}
+\renewcommand{\brfoot}{JLPT-N5}
+
+
+\renewcommand{\flhead}{\footnotesize\thecardno}
+\renewcommand{\brhead}{\footnotesize\thecardno}
+
+\begin{document}
+
+\card{Noun \\ 1.-school \\ 2.-Gakkou \\ 3.-School} {\large{がっこう} \\ \Huge{学校}} 
+\card{Noun \\ 1.-river; stream \\ 2.-River; the ... river \\ 3.-Gawa \\ 4.-River} {\large{かわ} \\ \Huge{川}} 
+\card{Noun \\ 1.-hand; arm \\ 2.-forepaw; foreleg \\ 3.-handle \\ 4.-hand; worker; help \\ 5.-trouble; care; effort} {\large{て} \\ \Huge{手}} 
+\card{Noun \\ 1.-door (esp. Japanese-style) \\ 2.-shutter; window shutter \\ 3.-entrance (to a home) \\ 4.-narrows \\ 5.-To} {\large{と} \\ \Huge{戸}} 
+\card{Noun \\ 1.-glasses; eyeglasses; spectacles \\ 2.-judgment; judgement; discrimination; discernment; insight \\ 3.-Megane \\ 4.-Glasses} {\large{めがね} \\ \Huge{眼鏡}} 
+\card{Noun \\ 1.-tobacco; cigarette; cigaret; cigar \\ 2.-tobacco plant (Nicotiana tabacum) \\ 3.-Tabaco \\ 4.-Tobacco} {\large{たばこ} \\ \Huge{煙草}} 
+\card{Noun \\ 1.-red; crimson; scarlet \\ 2.-red-containing colour (e.g. brown, pink, orange) \\ 3.-Red (i.e. communist) \\ 4.-red light (traffic) \\ 5.-red ink (i.e. in finance or proof-reading); (in) the red} {\large{あか} \\ \Huge{赤}} 
+\card{Noun, Suru verb, No-adjective \\ 1.-work; job; business; occupation; employment; vocation; task \\ 2.-work \\ 3.-Work} {\large{しごと} \\ \Huge{仕事}} 
+\card{Noun, No-adjective \\ 1.-English (language) \\ 2.-English language} {\large{えいご} \\ \Huge{英語}} 
+\card{Noun \\ 1.-question (e.g. on a test); problem \\ 2.-problem (e.g. societal, political); question; issue; subject (e.g. of research); case; matter \\ 3.-question (i.e. doubt) \\ 4.-public discussion; controversy \\ 5.-trouble; problem; inconvenience; difficulty} {\large{もんだい} \\ \Huge{問題}} 
+\card{Noun \\ 1.-room; chamber \\ 2.-apartment; flat; pad \\ 3.-stable \\ 4.-Room} {\large{へや} \\ \Huge{部屋}} 
+\card{Noun \\ 1.-child \\ 2.-Child} {\large{こども} \\ \Huge{子供}} 
+\card{Noun \\ 1.-time \\ 2.-hour \\ 3.-period; class; lesson \\ 4.-Time} {\large{じかん} \\ \Huge{時間}} 
+\card{Noun, No-adjective \\ 1.-rain \\ 2.-Rain} {\large{あめ} \\ \Huge{雨}} 
+\card{Noun \\ 1.-teacher; instructor; master \\ 2.-Sensei; title or form of address for a teacher, master, doctor, lawyer, etc. \\ 3.-intimate or teasing form of address \\ 4.-one's elder \\ 5.-Sensei} {\large{せんせい} \\ \Huge{先生}} 
+\card{Noun \\ 1.-year \\ 2.-age; years \\ 3.-past one's prime; old age \\ 4.-Year} {\large{とし} \\ \Huge{年}} 
+\card{Noun \\ 1.-letter \\ 2.-Letter (message)} {\large{てがみ} \\ \Huge{手紙}} 
+\card{Noun, Suru verb, No-adjective \\ 1.-telephone call; phone call \\ 2.-telephone (device); phone \\ 3.-Telephony} {\large{でんわ} \\ \Huge{電話}} 
+\card{Noun \\ 1.-water (esp. cool, fresh water, e.g. drinking water) \\ 2.-fluid (esp. in an animal tissue); liquid \\ 3.-flood; floodwaters \\ 4.-water offered to wrestlers just prior to a bout \\ 5.-break granted to wrestlers engaged in a prolonged bout} {\large{みず} \\ \Huge{水}} 
+\card{Noun, No-adjective, Suru verb \\ 1.-illness (usu. excluding minor ailments, e.g. colds); disease; sickness \\ 2.-weirdness; bad habit; bad behaviour; craziness; perversion \\ 3.-Disease} {\large{びょうき} \\ \Huge{病気}} 
+\card{Noun \\ 1.-company; corporation \\ 2.-workplace \\ 3.-Company} {\large{かいしゃ} \\ \Huge{会社}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to raise; to elevate \\ 2.-to do up (one's hair) \\ 3.-to fly (a kite, etc.); to launch (fireworks, etc.); to surface (a submarine, etc.) \\ 4.-to land (a boat) \\ 5.-to deep-fry} {\large{あ} \\ \Huge{上げる}} 
+\card{Noun, No-adjective, Suru verb \\ 1.-marriage \\ 2.-Marriage} {\large{けっこん} \\ \Huge{結婚}} 
+\card{Noun \\ 1.-language; dialect \\ 2.-word; words; phrase; term; expression; remark \\ 3.-speech; (manner of) speaking \\ 4.-learning to speak; language acquisition \\ 5.-Ci (poetry)} {\large{ことば} \\ \Huge{言葉}} 
+\card{Noun \\ 1.-eye; eyeball \\ 2.-eyesight; sight; vision \\ 3.-look; stare; gaze; glance \\ 4.-notice; attention; observation; eyes (of the world, public, etc.) \\ 5.-an experience} {\large{め} \\ \Huge{目}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to run \\ 2.-to travel (movement of vehicles); to drive; to flow (e.g. energy) \\ 3.-to hurry to \\ 4.-to retreat (from battle); to take flight \\ 5.-to run away from home} {\large{はし} \\ \Huge{走る}} 
+\card{Noun \\ 1.-name \\ 2.-given name; first name \\ 3.-Name} {\large{なまえ} \\ \Huge{名前}} 
+\card{Noun, Suru verb \\ 1.-travel; trip; journey; excursion; tour \\ 2.-Travel} {\large{りょこう} \\ \Huge{旅行}} 
+\card{Noun \\ 1.-road; path; street; lane; passage \\ 2.-route; way \\ 3.-distance; journey \\ 4.-road (e.g. to victory); course \\ 5.-way (of living, proper conduct, etc.); moral principles} {\large{みち} \\ \Huge{道}} 
+\card{Noun \\ 1.-aeroplane; airplane; aircraft \\ 2.-Fixed-wing aircraft} {\large{ひこうき} \\ \Huge{飛行機}} 
+\card{Noun, No-adjective \\ 1.-movie; film \\ 2.-Film} {\large{えいが} \\ \Huge{映画}} 
+\card{Noun \\ 1.-music \\ 2.-Music} {\large{おんがく} \\ \Huge{音楽}} 
+\card{Noun \\ 1.-tree; shrub; bush \\ 2.-wood; timber \\ 3.-Tree} {\large{き} \\ \Huge{木}} 
+\card{Noun \\ 1.-university; college \\ 2.-former central university of Kyoto (established under the ritsuryo system for the training of government administrators) \\ 3.-the Great Learning (one of the Four Books) \\ 4.-University} {\large{だいがく} \\ \Huge{大学}} 
+\card{Noun \\ 1.-watch; clock; timepiece \\ 2.-Clock} {\large{とけい} \\ \Huge{時計}} 
+\card{Noun, No-adjective \\ 1.-family; members of a family \\ 2.-Family} {\large{かぞく} \\ \Huge{家族}} 
+\card{Noun \\ 1.-flower; blossom; bloom; petal \\ 2.-cherry blossom \\ 3.-beauty \\ 4.-blooming (esp. of cherry blossoms) \\ 5.-ikebana} {\large{はな} \\ \Huge{花}} 
+\card{Noun \\ 1.-cat (esp. the domestic cat, Felis catus) \\ 2.-shamisen \\ 3.-geisha \\ 4.-wheelbarrow \\ 5.-clay bed-warmer} {\large{ねこ} \\ \Huge{猫}} 
+\card{Adverbial noun, Temporal noun \\ 1.-every day \\ 2.-Every Single Day (band)} {\large{まいにち} \\ \Huge{毎日}} 
+\card{Noun \\ 1.-homework; assignment \\ 2.-pending issue; unresolved problem; open question \\ 3.-Homework} {\large{しゅくだい} \\ \Huge{宿題}} 
+\card{Noun \\ 1.-snow \\ 2.-Snow} {\large{ゆき} \\ \Huge{雪}} 
+\card{Noun, Counter \\ 1.-mountain; hill \\ 2.-mine (e.g. coal mine) \\ 3.-heap; pile \\ 4.-crown (of a hat); thread (of a screw); tread (of a tire); protruding part of an object; high part \\ 5.-climax; peak; critical point} {\large{やま} \\ \Huge{山}} 
+\card{Noun \\ 1.-window \\ 2.-Window} {\large{まど} \\ \Huge{窓}} 
+\card{Noun \\ 1.-animal \\ 2.-Animal} {\large{どうぶつ} \\ \Huge{動物}} 
+\card{Noun \\ 1.-evening; night \\ 2.-dinner \\ 3.-Night} {\large{よる} \\ \Huge{夜}} 
+\card{Noun, Suru verb \\ 1.-cooking; cookery; cuisine \\ 2.-dealing with something; handling; administration; management \\ 3.-Cuisine} {\large{りょうり} \\ \Huge{料理}} 
+\card{Adverbial noun, Temporal noun \\ 1.-summer \\ 2.-Summer} {\large{なつ} \\ \Huge{夏}} 
+\card{Noun \\ 1.-newspaper \\ 2.-Newspaper} {\large{しんぶん} \\ \Huge{新聞}} 
+\card{Noun \\ 1.-(public) park \\ 2.-Park} {\large{こうえん} \\ \Huge{公園}} 
+\card{Noun, Suru verb \\ 1.-meaning; significance; sense \\ 2.-Meaning (linguistics)} {\large{いみ} \\ \Huge{意味}} 
+\card{Noun \\ 1.-bicycle; bike \\ 2.-Bicycle} {\large{じてんしゃ} \\ \Huge{自転車}} 
+\card{Noun \\ 1.-foot; paw; arm (of an octopus, squid, etc.) \\ 2.-leg \\ 3.-gait \\ 4.-pace \\ 5.-bottom structural component (i.e. radical) of a kanji} {\large{あし} \\ \Huge{足}} 
+\card{Noun \\ 1.-train; electric train \\ 2.-Electric multiple unit} {\large{でんしゃ} \\ \Huge{電車}} 
+\card{Noun, Suru verb \\ 1.-walk; stroll \\ 2.-Strolling} {\large{さんぽ} \\ \Huge{散歩}} 
+\card{Noun \\ 1.-voice \\ 2.-singing (of a bird); chirping (of an insect); hoot \\ 3.-voice; opinion (as expressed in words); view; wish; attitude; will \\ 4.-sound \\ 5.-sense (of something's arrival); feeling} {\large{こえ} \\ \Huge{声}} 
+\card{Noun \\ 1.-morning \\ 2.-breakfast \\ 3.-next morning \\ 4.-Morning} {\large{あさ} \\ \Huge{朝}} 
+\card{Noun \\ 1.-song \\ 2.-classical Japanese poetry (esp. tanka) \\ 3.-modern poetry \\ 4.-Song} {\large{うた} \\ \Huge{歌}} 
+\card{Noun \\ 1.-shoe; shoes; boots; footwear; footgear \\ 2.-Shoe} {\large{くつ} \\ \Huge{靴}} 
+\card{Noun \\ 1.-box; case; chest; package; pack; crate \\ 2.-car (of a train, etc.) \\ 3.-shamisen case; shamisen \\ 4.-public building; community building \\ 5.-man who carries a geisha's shamisen} {\large{はこ} \\ \Huge{箱}} 
+\card{Noun \\ 1.-desk \\ 2.-Desk} {\large{つくえ} \\ \Huge{机}} 
+\card{Noun \\ 1.-hat; cap \\ 2.-Headgear} {\large{ぼうし} \\ \Huge{帽子}} 
+\card{Noun \\ 1.-sea; ocean; waters \\ 2.-Sea} {\large{うみ} \\ \Huge{海}} 
+\card{Noun, Suru verb \\ 1.-lesson; class work; teaching; instruction \\ 2.-Lesson} {\large{じゅぎょう} \\ \Huge{授業}} 
+\card{Noun, No-adjective \\ 1.-bank \\ 2.-Bank} {\large{ぎんこう} \\ \Huge{銀行}} 
+\card{Noun \\ 1.-photograph; photo; picture; snapshot; snap \\ 2.-movie \\ 3.-Photography} {\large{しゃしん} \\ \Huge{写真}} 
+\card{Adverbial noun, Temporal noun \\ 1.-winter \\ 2.-Winter} {\large{ふゆ} \\ \Huge{冬}} 
+\card{Noun \\ 1.-village \\ 2.-Village} {\large{むら} \\ \Huge{村}} 
+\card{Noun \\ 1.-umbrella; parasol \\ 2.-something shaped like an umbrella or a conical hat; shade (of a lamp); mushroom cap; pileus \\ 3.-Umbrella} {\large{かさ} \\ \Huge{傘}} 
+\card{Noun \\ 1.-mouth \\ 2.-opening; hole; gap; orifice \\ 3.-mouth (of a bottle); spout; nozzle; mouthpiece \\ 4.-gate; door; entrance; exit \\ 5.-speaking; speech; talk (i.e. gossip)} {\large{くち} \\ \Huge{口}} 
+\card{Noun \\ 1.-bridge \\ 2.-Bridge} {\large{はし} \\ \Huge{橋}} 
+\card{Noun, No-adjective \\ 1.-hospital \\ 2.-Hospital} {\large{びょういん} \\ \Huge{病院}} 
+\card{Noun \\ 1.-library \\ 2.-Library} {\large{としょかん} \\ \Huge{図書館}} 
+\card{Adverbial noun, Temporal noun \\ 1.-spring; springtime \\ 2.-New Year \\ 3.-prime (of one's life, etc.) \\ 4.-adolescence; puberty \\ 5.-sexuality} {\large{はる} \\ \Huge{春}} 
+\card{Noun \\ 1.-shopping; purchased goods \\ 2.-Shopping} {\large{かもの} \\ \Huge{買い物}} 
+\card{Noun \\ 1.-chair; stool \\ 2.-post; office; position \\ 3.-Chair} {\large{いす} \\ \Huge{椅子}} 
+\card{Noun \\ 1.-automobile; motorcar; motor vehicle; car; auto \\ 2.-Automobile} {\large{じどうしゃ} \\ \Huge{自動車}} 
+\card{Noun \\ 1.-colour; color; hue; tint; tinge; shade \\ 2.-complexion; skin colour; skin color \\ 3.-look (on one's face); expression \\ 4.-appearance; air; feeling \\ 5.-personality; character} {\large{いろ} \\ \Huge{色}} 
+\card{Noun \\ 1.-eggs; egg; spawn; roe \\ 2.-(hen's) egg \\ 3.-(an expert) in the making \\ 4.-beginning; origin; infancy \\ 5.-Egg (biology)} {\large{たまご} \\ \Huge{卵}} 
+\card{Noun \\ 1.-flesh \\ 2.-meat \\ 3.-the physical body (as opposed to the spirit) \\ 4.-thickness \\ 5.-ink pad} {\large{にく} \\ \Huge{肉}} 
+\card{Noun \\ 1.-(common) cold; influenza; flu; ague; inflammatory respiratory system illness (in general) \\ 2.-Common cold} {\large{かぜ} \\ \Huge{風邪}} 
+\card{Noun, Suru verb \\ 1.-cleaning; sweeping; dusting; scrubbing \\ 2.-Cleanliness} {\large{そうじ} \\ \Huge{掃除}} 
+\card{Noun \\ 1.-paper \\ 2.-Paper} {\large{かみ} \\ \Huge{紙}} 
+\card{Noun \\ 1.-key \\ 2.-lock \\ 3.-key (to a problem); clue \\ 4.-Key (lock)} {\large{かぎ} \\ \Huge{鍵}} 
+\card{Noun \\ 1.-journal; magazine; periodical \\ 2.-Magazine} {\large{ざっし} \\ \Huge{雑誌}} 
+\card{Noun \\ 1.-ticket \\ 2.-Ticket} {\large{きっぷ} \\ \Huge{切符}} 
+\card{Noun \\ 1.-foreigner; foreign citizen; foreign national; alien; non-Japanese \\ 2.-Alien (law)} {\large{がいこくじん} \\ \Huge{外国人}} 
+\card{Noun \\ 1.-purse; handbag; wallet \\ 2.-Wallet} {\large{さいふ} \\ \Huge{財布}} 
+\card{Noun \\ 1.-pencil \\ 2.-Pencil \\ 3.-エンピツ} {\large{えんぴつ} \\ \Huge{鉛筆}} 
+\card{Noun, No-adjective, Na-adjective \\ 1.-adult \\ 2.-Adult} {\large{おとな} \\ \Huge{大人}} 
+\card{Noun \\ 1.-salt (i.e. sodium chloride); common salt; table salt \\ 2.-salt (e.g. sodium chloride, calcium sulfate, etc.) \\ 3.-hardship; toil; trouble \\ 4.-saltiness \\ 5.-Salt} {\large{しお} \\ \Huge{塩}} 
+\card{Noun \\ 1.-sugar \\ 2.-Sugar} {\large{さとう} \\ \Huge{砂糖}} 
+\card{Noun \\ 1.-summer vacation; summer holiday \\ 2.-Summer vacation} {\large{なつやす} \\ \Huge{夏休み}} 
+\card{Noun \\ 1.-pond \\ 2.-Pond} {\large{いけ} \\ \Huge{池}} 
+\card{Noun \\ 1.-post office \\ 2.-Post office} {\large{ゆうびんきょく} \\ \Huge{郵便局}} 
+\card{Noun \\ 1.-classroom \\ 2.-department; laboratory \\ 3.-single-room school; small school \\ 4.-Classroom} {\large{きょうしつ} \\ \Huge{教室}} 
+\card{Noun \\ 1.-ear \\ 2.-hearing \\ 3.-edge; crust \\ 4.-selvedge (non-fray machined edge of fabrics); selvage \\ 5.-Ear} {\large{みみ} \\ \Huge{耳}} 
+\card{Noun, No-adjective \\ 1.-kitchen \\ 2.-financial situation \\ 3.-Kitchen} {\large{だいどころ} \\ \Huge{台所}} 
+\card{Noun \\ 1.-stamp (postage); merchandise certificate \\ 2.-Postage stamp} {\large{きって} \\ \Huge{切手}} 
+\card{Noun \\ 1.-electricity \\ 2.-(electric) light \\ 3.-Electricity} {\large{でんき} \\ \Huge{電気}} 
+\card{Noun, Suru verb \\ 1.-writing (an essay, prose, etc.); composition \\ 2.-formal writing with little real meaning \\ 3.-Composition (language)} {\large{さくぶん} \\ \Huge{作文}} 
+\card{Noun \\ 1.-tooth \\ 2.-Human tooth} {\large{は} \\ \Huge{歯}} 
+\card{Noun \\ 1.-black tea \\ 2.-Black tea} {\large{こうちゃ} \\ \Huge{紅茶}} 
+\card{Noun, No-adjective \\ 1.-home; family; household \\ 2.-Home} {\large{かてい} \\ \Huge{家庭}} 
+\card{Noun, No-adjective \\ 1.-vegetable \\ 2.-Vegetable} {\large{やさい} \\ \Huge{野菜}} 
+\card{Noun \\ 1.-bath; bathing; bathtub; bathroom \\ 2.-bathhouse; public bath \\ 3.-room for drying lacquerware \\ 4.-base (wooden joint connecting the blade of a hoe, spade, etc., to the handle) \\ 5.-Bathtub} {\large{ふろ} \\ \Huge{風呂}} 
+\card{Noun \\ 1.-entrance; front door; entryway; entranceway; entry hall; vestibule; porch; foyer; mud room \\ 2.-Genkan} {\large{げんかん} \\ \Huge{玄関}} 
+\card{Noun \\ 1.-underground train; subway \\ 2.-Rapid transit} {\large{ちかてつ} \\ \Huge{地下鉄}} 
+\card{Noun \\ 1.-nose \\ 2.-Nose} {\large{はな} \\ \Huge{鼻}} 
+\card{No-adjective, Noun \\ 1.-green \\ 2.-greenery (esp. fresh verdure) \\ 3.-Green} {\large{みどり} \\ \Huge{緑}} 
+\card{Noun \\ 1.-noon; midday \\ 2.-daytime \\ 3.-lunch \\ 4.-Daylight} {\large{ひる} \\ \Huge{昼}} 
+\card{Noun \\ 1.-west \\ 2.-West} {\large{にし} \\ \Huge{西}} 
+\card{Noun \\ 1.-white \\ 2.-innocence; innocent person \\ 3.-blank space \\ 4.-white go stone \\ 5.-white dragon tile} {\large{しろ} \\ \Huge{白}} 
+\card{Noun, Suru verb \\ 1.-washing; laundry \\ 2.-relaxing; taking a break \\ 3.-Laundry} {\large{せんたく} \\ \Huge{洗濯}} 
+\card{Noun \\ 1.-refrigerator; fridge \\ 2.-Refrigerator} {\large{れいぞうこ} \\ \Huge{冷蔵庫}} 
+\card{Adverbial noun, Temporal noun \\ 1.-Tuesday \\ 2.-Tuesday} {\large{かようび} \\ \Huge{火曜日}} 
+\card{Noun \\ 1.-south \\ 2.-South} {\large{みなみ} \\ \Huge{南}} 
+\card{Noun \\ 1.-north \\ 2.-the North; northern territories \\ 3.-North Korea \\ 4.-north wind \\ 5.-North} {\large{きた} \\ \Huge{北}} 
+\card{Noun, No-adjective \\ 1.-light brown; tawny \\ 2.-Brown} {\large{ちゃいろ} \\ \Huge{茶色}} 
+\card{Noun \\ 1.-black \\ 2.-black go stone \\ 3.-guilt; guilty person \\ 4.-Black} {\large{くろ} \\ \Huge{黒}} 
+\card{Noun \\ 1.-coffee shop; tearoom; coffee lounge; coffeehouse; cafe \\ 2.-Kissaten} {\large{きっさてん} \\ \Huge{喫茶店}} 
+\card{Noun, No-adjective \\ 1.-blue; azure \\ 2.-green \\ 3.-green light (traffic) \\ 4.-black (horse coat color) \\ 5.-blue poetry ribbon card (in hanafuda)} {\large{あお} \\ \Huge{青}} 
+\card{Noun \\ 1.-socks; sock; stockings; stocking \\ 2.-Sock} {\large{くつした} \\ \Huge{靴下}} 
+\card{Noun \\ 1.-envelope \\ 2.-Envelope} {\large{ふうとう} \\ \Huge{封筒}} 
+\card{Noun \\ 1.-area; vicinity; region \\ 2.-side; edge \\ 3.-circumstances \\ 4.-Edge (geometry)} {\large{へん} \\ \Huge{辺}} 
+\card{Na-adjective, Noun \\ 1.-yellow; amber \\ 2.-Yellow} {\large{きいろ} \\ \Huge{黄色}} 
+\card{Noun \\ 1.-movie theatre; movie theater; cinema \\ 2.-Movie theater} {\large{えいがかん} \\ \Huge{映画館}} 
+\card{Noun \\ 1.-chopsticks \\ 2.-Chopsticks} {\large{はし} \\ \Huge{箸}} 
+\card{Noun \\ 1.-dining room; dining hall; cafeteria; canteen; messroom \\ 2.-restaurant; eatery; snack bar; diner \\ 3.-Dining room} {\large{しょくどう} \\ \Huge{食堂}} 
+\card{Noun \\ 1.-beef \\ 2.-Beef} {\large{ぎゅうにく} \\ \Huge{牛肉}} 
+\card{Noun \\ 1.-crossing; intersection \\ 2.-Intersection (road)} {\large{こうさてん} \\ \Huge{交差点}} 
+\card{Noun \\ 1.-rice bowl; tea cup; teacup \\ 2.-Chawan} {\large{ちゃわん} \\ \Huge{茶碗}} 
+\card{Noun \\ 1.-cloudiness; cloudy weather \\ 2.-fog (on a mirror, glasses, etc.); cloud (e.g. in marble); blur; mist; shadow; dimness \\ 3.-gloom; dejection \\ 4.-Overcast} {\large{くも} \\ \Huge{曇り}} 
+\card{Noun \\ 1.-kanji; Chinese characters \\ 2.-Chinese characters} {\large{かんじ} \\ \Huge{漢字}} 
+\card{Noun \\ 1.-business suit \\ 2.-Suit (clothing)} {\large{背広せびろ} \\ \Huge{背広}} 
+\card{Noun \\ 1.-ashtray \\ 2.-Ashtray} {\large{はいざら} \\ \Huge{灰皿}} 
+\card{Noun \\ 1.-fountain pen \\ 2.-Fountain pen} {\large{まんねんひつ} \\ \Huge{万年筆}} 
+\card{Noun \\ 1.-embassy \\ 2.-Diplomatic mission} {\large{たいしかん} \\ \Huge{大使館}} 
+\card{Noun \\ 1.-pork \\ 2.-Pork} {\large{ぶたにく} \\ \Huge{豚肉}} 
+\card{Noun, Suru verb \\ 1.-police box; small neighborhood police station \\ 2.-alternation; alternating (e.g. current) \\ 3.-Kōban} {\large{こうばん} \\ \Huge{交番}} 
+\card{Godan verb with mu ending, Transitive verb \\ 1.-to drink; to gulp; to swallow; to take (medicine) \\ 2.-to smoke (tobacco) \\ 3.-to engulf; to overwhelm \\ 4.-to keep down; to suppress \\ 5.-to accept (e.g. demand, condition)} {\large{の} \\ \Huge{飲む}} 
+\card{Noun \\ 1.-head \\ 2.-hair (on one's head) \\ 3.-mind; brains; intellect \\ 4.-leader; chief; boss; captain \\ 5.-top; tip} {\large{あたま} \\ \Huge{頭}} 
+\card{Adverbial noun, Temporal noun \\ 1.-Sunday \\ 2.-Sunday} {\large{にちようび} \\ \Huge{日曜日}} 
+\card{Noun \\ 1.-birthday \\ 2.-Birthday} {\large{たんじょうび} \\ \Huge{誕生日}} 
+\card{I-adjective \\ 1.-cute; adorable; charming; lovely; pretty \\ 2.-dear; precious; darling; pet \\ 3.-innocent; childlike; childish; lovable \\ 4.-dainty; cute little; tiny \\ 5.-Kawaii} {\large{可愛かわい} \\ \Huge{可愛い}} 
+\card{Noun \\ 1.-bag; satchel; briefcase; basket \\ 2.-Paper bag \\ 3.-カバン} {\large{かばん} \\ \Huge{鞄}} 
+\card{Adverbial noun, Temporal noun \\ 1.-Saturday \\ 2.-Saturday} {\large{どようび} \\ \Huge{土曜日}} 
+\card{Adverbial noun, Temporal noun \\ 1.-Monday \\ 2.-Monday} {\large{げつようび} \\ \Huge{月曜日}} 
+\card{Adverbial noun, Temporal noun \\ 1.-Friday \\ 2.-Friday} {\large{きんようび} \\ \Huge{金曜日}} 
+\card{Noun \\ 1.-(flower) vase \\ 2.-Vase} {\large{かびん} \\ \Huge{花瓶}} 
+\card{Adverbial noun, Temporal noun \\ 1.-Thursday \\ 2.-Thursday} {\large{もくようび} \\ \Huge{木曜日}} 
+\card{Noun \\ 1.-bookshelves; bookshelf; bookcase \\ 2.-Bookcase} {\large{ほんだな} \\ \Huge{本棚}} 
+\card{Noun \\ 1.-soap \\ 2.-Soap} {\large{せっけん} \\ \Huge{石鹸}} 
+\card{Adverbial noun, Temporal noun \\ 1.-Wednesday \\ 2.-Wednesday} {\large{すいようび} \\ \Huge{水曜日}} 
+\card{Noun \\ 1.-(hard) candy; toffee \\ 2.-rice-sugar; sugar made from the starch of rice, potatoes, etc. \\ 3.-amber; yellowish-brown \\ 4.-Yeot} {\large{あめ} \\ \Huge{飴}} 
+\card{Noun \\ 1.-greengrocer; fruit and vegetable shop \\ 2.-Greengrocer} {\large{やおや} \\ \Huge{八百屋}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to become; to get; to grow; to be; to reach; to attain \\ 2.-to result in; to prove to be \\ 3.-to consist of; to be composed of \\ 4.-to succeed; to be complete \\ 5.-to change into; to be exchanged for} {\large{な} \\ \Huge{成る}} 
+\card{Particle \\ 1.-than \\ 2.-from; out of; since; at; on \\ 3.-except; but; other than \\ 4.-more \\ 5.-Yori (kana)} {\large{} \\ \Huge{より}} 
+\card{Noun, No-adjective \\ 1.-number one; first; first place \\ 2.-best; most \\ 3.-game; round; bout \\ 4.-as a test; as an experiment; by way of experiment; by way of trial; tentatively \\ 5.-song (e.g. in noh); piece} {\large{いちばん} \\ \Huge{一番}} 
+\card{Pronoun \\ 1.-I; me} {\large{わたし} \\ \Huge{私}} 
+\card{Noun \\ 1.-outside; exterior \\ 2.-the open (air) \\ 3.-other place; somewhere else; outside one's group (family, company, etc.) \\ 4.-To} {\large{そと} \\ \Huge{外}} 
+\card{Noun \\ 1.-older sister; elder sister \\ 2.-Ane} {\large{あね} \\ \Huge{姉}} 
+\card{Numeric \\ 1.-100; hundred \\ 2.-Hyaku} {\large{ひゃく} \\ \Huge{１００}} 
+\card{Godan verb with ru ending (irregular verb), intransitive verb \\ 1.-to be; to exist; to live \\ 2.-to have \\ 3.-to be located \\ 4.-to be equipped with \\ 5.-to happen; to come about} {\large{あ} \\ \Huge{有る}} 
+\card{Pre-noun adjectival \\ 1.-that; the \\ 2.-um...; er...; uh... \\ 3.-そん} {\large{そ} \\ \Huge{其の}} 
+\card{Godan verb with u ending \\ 1.-to say; to utter; to declare \\ 2.-to name; to call \\ 3.-to go (e.g. "the alarm went ping"); to make a noise} {\large{い} \\ \Huge{言う}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to be able (in a position) to do; to be up to the task \\ 2.-to be ready; to be completed \\ 3.-to be made; to be built \\ 4.-to be good at; to be permitted (to do) \\ 5.-to become intimate; to take up (with somebody)} {\large{でき} \\ \Huge{出来る}} 
+\card{I-adjective \\ 1.-good; excellent; fine; nice; pleasant; agreeable \\ 2.-sufficient; enough; ready; prepared \\ 3.-profitable (deal, business offer, etc.); beneficial \\ 4.-OK; all right; fine; no problem} {\large{よ} \\ \Huge{良い}} 
+\card{Expression \\ 1.-please (give me) \\ 2.-please (do for me)} {\large{くだ} \\ \Huge{下さい}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to see; to look; to watch; to view; to observe \\ 2.-to examine; to look over; to assess; to check; to judge \\ 3.-to look after; to attend to; to take care of; to keep an eye on \\ 4.-to experience; to meet with (misfortune, success, etc.) \\ 5.-to try ...; to have a go at ...; to give ... a try} {\large{み} \\ \Huge{見る}} 
+\card{Pre-noun adjectival \\ 1.-this \\ 2.-last (couple of years, etc.); these; past; this \\ 3.-you (as in "you liar")} {\large{こ} \\ \Huge{此の}} 
+\card{Pronoun \\ 1.-myself; yourself; oneself; himself; herself \\ 2.-I; me \\ 3.-you} {\large{じぶん} \\ \Huge{自分}} 
+\card{Godan verb with ru ending, Transitive verb \\ 1.-to be aware of; to know; to be conscious of; to cognize; to cognise \\ 2.-to notice; to feel \\ 3.-to understand; to comprehend; to grasp \\ 4.-to remember; to be acquainted with (a procedure) \\ 5.-to experience; to go through; to learn} {\large{し} \\ \Huge{知る}} 
+\card{Godan verb with tsu ending \\ 1.-to hold (in one's hand); to take; to carry \\ 2.-to possess; to have; to own \\ 3.-to maintain; to keep \\ 4.-to last; to be durable; to keep; to survive \\ 5.-to take charge of; to be in charge of} {\large{も} \\ \Huge{持つ}} 
+\card{Pronoun \\ 1.-what \\ 2.-how many \\ 3.-large number of; many \\ 4.-you-know-what; that \\ 5.-whatsit; what's the expression; what do you call them} {\large{なに} \\ \Huge{何}} 
+\card{Noun \\ 1.-car; automobile; vehicle \\ 2.-wheel} {\large{くるま} \\ \Huge{車}} 
+\card{Godan verb with su ending, Transitive verb \\ 1.-to talk; to speak; to converse; to chat \\ 2.-to tell; to explain; to narrate; to mention; to describe; to discuss \\ 3.-to speak (a language)} {\large{はな} \\ \Huge{話す}} 
+\card{Temporal noun, Adverbial noun, No-adjective \\ 1.-now; the present time; just now; soon; immediately \\ 2.-another; more} {\large{いま} \\ \Huge{今}} 
+\card{Temporal noun \\ 1.-today; this day \\ 2.-these days; recently; nowadays} {\large{きょう} \\ \Huge{今日}} 
+\card{Godan verb with u ending, Transitive verb \\ 1.-to buy; to purchase \\ 2.-to value; to have a high opinion \\ 3.-to stir; to provoke; to draw upon oneself} {\large{か} \\ \Huge{買う}} 
+\card{Godan verb with mu ending, Transitive verb \\ 1.-to read \\ 2.-to count \\ 3.-to guess; to predict; to read (someone's thoughts); to see (e.g. into someone's heart); to divine} {\large{よ} \\ \Huge{読む}} 
+\card{Adverb, Noun \\ 1.-all; everyone; everybody \\ 2.-everything} {\large{みんな} \\ \Huge{皆}} 
+\card{I-adjective \\ 1.-new; novel; fresh; recent; latest; up-to-date; modern} {\large{あたら} \\ \Huge{新しい}} 
+\card{Noun \\ 1.-talk; speech; chat; conversation \\ 2.-topic; subject \\ 3.-discussions; negotiation; argument \\ 4.-rumor; talk; hearsay \\ 5.-tale; story; fable} {\large{はなし} \\ \Huge{話}} 
+\card{Temporal noun \\ 1.-tomorrow \\ 2.-near future} {\large{あした} \\ \Huge{明日}} 
+\card{Adverbial noun, Temporal noun \\ 1.-yesterday} {\large{きのう} \\ \Huge{昨日}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to leave; to exit; to go out; to come out; to get out \\ 2.-to leave (on a journey); to depart; to start out; to set out \\ 3.-to move forward \\ 4.-to come to; to get to; to lead to; to reach \\ 5.-to appear; to come out; to emerge; to surface; to come forth; to turn up; to be found; to be detected; to be discovered; to be exposed; to show; to be exhibited; to be on display} {\large{で} \\ \Huge{出る}} 
+\card{Noun, Suru verb \\ 1.-study \\ 2.-diligence \\ 3.-discount; reduction} {\large{べんきょう} \\ \Huge{勉強}} 
+\card{Godan verb with ru ending, Transitive verb \\ 1.-to take; to pick up; to harvest; to earn; to win; to choose \\ 2.-to steal \\ 3.-to eat; to have (a meal) \\ 4.-to remove (one's glasses, etc.) \\ 5.-to compete (in sumo, cards, etc.); to play} {\large{と} \\ \Huge{取る}} 
+\card{Pronoun \\ 1.-who} {\large{だれ} \\ \Huge{誰}} 
+\card{Noun \\ 1.-money} {\large{かね} \\ \Huge{お金}} 
+\card{Noun, Noun - used as a prefix \\ 1.-man; male \\ 2.-fellow; guy; chap; bloke \\ 3.-male lover; boyfriend; man \\ 4.-manliness; manly honor; manly honour; manly reputation} {\large{おとこ} \\ \Huge{男}} 
+\card{Noun \\ 1.-dog (Canis (lupus) familiaris) \\ 2.-snoop (i.e. a detective, a spy, etc.) \\ 3.-loser; asshole \\ 4.-counterfeit; inferior; useless; wasteful} {\large{いぬ} \\ \Huge{犬}} 
+\card{Godan verb with u ending, Transitive verb \\ 1.-to use (a thing, method, etc.); to make use of; to put to use \\ 2.-to use (a person, animal, puppet, etc.); to employ; to handle; to manage; to manipulate \\ 3.-to use (time, money, etc.); to spend; to consume \\ 4.-to use (language); to speak} {\large{つか} \\ \Huge{使う}} 
+\card{Adverb \\ 1.-very; greatly; terribly; awfully \\ 2.-immense; enormous; great \\ 3.-serious; grave; dreadful; terrible \\ 4.-difficult; hard \\ 5.-major incident; disaster} {\large{たいへん} \\ \Huge{大変}} 
+\card{Godan verb with tsu ending, Transitive verb, intransitive verb \\ 1.-to wait \\ 2.-to await; to look forward to; to anticipate \\ 3.-to depend on; to need} {\large{ま} \\ \Huge{待つ}} 
+\card{Godan verb with ru ending, Transitive verb \\ 1.-to make; to produce; to manufacture; to build; to construct \\ 2.-to prepare (food); to brew (alcohol) \\ 3.-to raise; to grow; to cultivate; to train \\ 4.-to till \\ 5.-to draw up (a document); to make out; to prepare; to write} {\large{つく} \\ \Huge{作る}} 
+\card{Noun, No-adjective \\ 1.-back; behind; rear} {\large{うし} \\ \Huge{後ろ}} 
+\card{Noun \\ 1.-town; block; neighbourhood; neighborhood \\ 2.-downtown; main street \\ 3.-street; road \\ 4.-109.09 m \\ 5.-0.99 hectares} {\large{まち} \\ \Huge{町}} 
+\card{Noun \\ 1.-railway station; train station \\ 2.-staging post on a highway (in pre-modern Japan) \\ 3.-counter for railway stations and bus stations} {\large{えき} \\ \Huge{駅}} 
+\card{Adverb, Noun \\ 1.-small quantity; little; few; something \\ 2.-little while \\ 3.-short distance} {\large{すこ} \\ \Huge{少し}} 
+\card{Pronoun \\ 1.-you (referring to someone of equal or lower status) \\ 2.-dear (what a wife calls a husband)} {\large{あなた} \\ \Huge{貴方}} 
+\card{I-adjective \\ 1.-wanted; wished for; in need of; desired \\ 2.-I want (you) to} {\large{ほ} \\ \Huge{欲しい}} 
+\card{Godan verb - Iku/Yuku special class, intransitive verb \\ 1.-to go; to move (in a direction or towards a specific location); to head (towards); to be transported (towards); to reach \\ 2.-to proceed; to take place \\ 3.-to pass through; to come and go \\ 4.-to walk \\ 5.-to die; to pass away} {\large{い} \\ \Huge{行く}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to get on (train, plane, bus, ship, etc.); to get in; to board; to take; to embark \\ 2.-to get on (e.g. a footstool); to step on; to jump on; to sit on; to mount \\ 3.-to reach; to go over; to pass \\ 4.-to follow; to stay (on track); to go with (the times, etc.) \\ 5.-to take part; to participate; to join} {\large{の} \\ \Huge{乗る}} 
+\card{Pre-noun adjectival \\ 1.-big; large; great} {\large{おお} \\ \Huge{大きな}} 
+\card{Noun \\ 1.-(medical) doctor; physician} {\large{いしゃ} \\ \Huge{医者}} 
+\card{Godan verb with ru ending, intransitive verb, Auxiliary verb \\ 1.-to end; to come to an end; to close; to finish} {\large{お} \\ \Huge{終わる}} 
+\card{Noun \\ 1.-student (esp. a university student)} {\large{がくせい} \\ \Huge{学生}} 
+\card{I-adjective \\ 1.-long (distance) \\ 2.-long (time); lengthy} {\large{なが} \\ \Huge{長い}} 
+\card{Pre-noun adjectival \\ 1.-which; what (way)} {\large{ど} \\ \Huge{何の}} 
+\card{Noun \\ 1.-country; state \\ 2.-region \\ 3.-national government; central government \\ 4.-home (i.e. hometown, home country) \\ 5.-province (of Japan)} {\large{くに} \\ \Huge{国}} 
+\card{Adverb \\ 1.-again; once more; once again; another time; some other time \\ 2.-also; too; as well; likewise \\ 3.-on the other hand; while \\ 4.-and; in addition; besides; moreover; furthermore \\ 5.-or; otherwise} {\large{また} \\ \Huge{又}} 
+\card{I-adjective \\ 1.-high; tall \\ 2.-expensive; high-priced \\ 3.-high (level); above average (in degree, quality, etc.) \\ 4.-loud \\ 5.-high-pitched; shrill} {\large{たか} \\ \Huge{高い}} 
+\card{Noun, No-adjective \\ 1.-remainder; remnant; rest; balance; surplus; remains (of a meal); leftovers \\ 2.-(not) very; (not) much \\ 3.-too much; excessively; overly \\ 4.-extreme; great; severe; tremendous; terrible \\ 5.-more than; over} {\large{あま} \\ \Huge{余り}} 
+\card{I-adjective \\ 1.-difficult; hard; troublesome; complicated; serious (disease, problem, etc.) \\ 2.-impossible; unfeasable \\ 3.-fussy; particular; fastidious; hard to please; displeased \\ 4.-gloomy; glum; sullen; serious (look) \\ 5.-dirty; unclean; filthy; detestable} {\large{むずか} \\ \Huge{難しい}} 
+\card{Noun \\ 1.-friend; companion} {\large{ともだち} \\ \Huge{友達}} 
+\card{Numeric \\ 1.-one \\ 2.-for one thing \\ 3.-only \\ 4.-(not) even \\ 5.-just (e.g. "just try it")} {\large{ひと} \\ \Huge{一つ}} 
+\card{Noun, No-adjective, Na-adjective \\ 1.-truth; reality; actuality; fact \\ 2.-proper; right; correct; official \\ 3.-genuine; authentic; real; natural; veritable} {\large{ほんとう} \\ \Huge{本当}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to lie down \\ 2.-to go to bed; to lie in bed \\ 3.-to sleep (lying down) \\ 4.-to sleep (with someone, i.e. have intercourse) \\ 5.-to lie idle} {\large{ね} \\ \Huge{寝る}} 
+\card{Noun \\ 1.-pupil; student; schoolchild} {\large{せいと} \\ \Huge{生徒}} 
+\card{I-adjective \\ 1.-busy; occupied; hectic \\ 2.-restless; hurried; fidgety} {\large{いそが} \\ \Huge{忙しい}} 
+\card{Noun \\ 1.-parents; both parents} {\large{りょうしん} \\ \Huge{両親}} 
+\card{Godan verb with gu ending, intransitive verb \\ 1.-to swim} {\large{およ} \\ \Huge{泳ぐ}} 
+\card{Godan verb with su ending, Transitive verb \\ 1.-to take out; to get out \\ 2.-to put out; to reveal; to show \\ 3.-to submit (e.g. thesis); to turn in \\ 4.-to publish; to make public \\ 5.-to send (e.g. letter)} {\large{だ} \\ \Huge{出す}} 
+\card{Godan verb with tsu ending, intransitive verb \\ 1.-to stand; to rise; to stand up \\ 2.-to find oneself (e.g. in a difficult position) \\ 3.-to depart (on a plane, train, etc.)} {\large{た} \\ \Huge{立つ}} 
+\card{I-adjective \\ 1.-fast; quick; hasty; brisk \\ 2.-early (in the day, etc.); premature \\ 3.-(too) soon; not yet; (too) early \\ 4.-easy; simple; quick} {\large{はや} \\ \Huge{早い}} 
+\card{I-adjective \\ 1.-enjoyable; fun; pleasant; happy; delightful} {\large{たの} \\ \Huge{楽しい}} 
+\card{I-adjective \\ 1.-interesting; fascinating; intriguing; enthralling \\ 2.-amusing; funny; comical \\ 3.-enjoyable; fun; entertaining; pleasant; agreeable \\ 4.-good; satisfactory; favourable; desirable; encouraging} {\large{おもしろ} \\ \Huge{面白い}} 
+\card{Noun \\ 1.-picture; drawing; painting; sketch \\ 2.-image (TV, film, etc.); picture; footage} {\large{え} \\ \Huge{絵}} 
+\card{Expression, Noun \\ 1.-girl; daughter; baby girl \\ 2.-young woman} {\large{おんなこ} \\ \Huge{女の子}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to wear (in modern Japanese, from the shoulders down); to put on \\ 2.-to bear (guilt, etc.)} {\large{き} \\ \Huge{着る}} 
+\card{Na-adjective, Noun \\ 1.-skillful; skilled; proficient; good (at); adept; clever \\ 2.-flattery} {\large{じょうず} \\ \Huge{上手}} 
+\card{I-adjective \\ 1.-old; aged; ancient; antiquated; antique; timeworn \\ 2.-long; since long ago; time-honored \\ 3.-of the distant past; long-ago \\ 4.-stale; threadbare; hackneyed; corny \\ 5.-old-fashioned; outmoded; out-of-date} {\large{ふる} \\ \Huge{古い}} 
+\card{I-adjective \\ 1.-strong; potent; competent; domineering; tough \\ 2.-strong; brawny; powerful; healthy; rugged \\ 3.-good (at); skilled; knowledgeable \\ 4.-being able to handle; know how to deal (with); durable (against); resistant (to); resilient \\ 5.-firm; rigid; solid} {\large{つよ} \\ \Huge{強い}} 
+\card{Adverbial noun, Temporal noun, No-adjective \\ 1.-all; entire; whole; altogether} {\large{ぜんぶ} \\ \Huge{全部}} 
+\card{Godan verb with bu ending, Transitive verb \\ 1.-to call out (to); to call; to invoke \\ 2.-to summon (a doctor, etc.) \\ 3.-to invite \\ 4.-to designate; to name; to brand \\ 5.-to garner (support, etc.); to gather} {\large{よ} \\ \Huge{呼ぶ}} 
+\card{Adverbial noun, Temporal noun \\ 1.-afternoon; p.m.} {\large{ごご} \\ \Huge{午後}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from); to hoist (e.g. sail); to raise (e.g. flag) \\ 2.-to put on (e.g. a blanket); to put on top of; to cover; to lay; to spread \\ 3.-to put on (glasses, etc.); to wear (a necklace, etc.) \\ 4.-to make (a call) \\ 5.-to spend (time, money); to expend; to use} {\large{か} \\ \Huge{掛ける}} 
+\card{Noun \\ 1.-dictionary; lexicon \\ 2.-letter of resignation} {\large{じしょ} \\ \Huge{辞書}} 
+\card{Noun \\ 1.-weather; the elements \\ 2.-fair weather; fine weather} {\large{てんき} \\ \Huge{天気}} 
+\card{Noun, No-adjective \\ 1.-body \\ 2.-torso; trunk \\ 3.-build; physique; constitution \\ 4.-health \\ 5.-corpse; dead body} {\large{からだ} \\ \Huge{体}} 
+\card{I-adjective \\ 1.-big; large; great \\ 2.-loud \\ 3.-extensive; spacious \\ 4.-important; decisive; valuable \\ 5.-older; grown up} {\large{おお} \\ \Huge{大きい}} 
+\card{Noun, Suru verb, No-adjective \\ 1.-question; inquiry; enquiry} {\large{しつもん} \\ \Huge{質問}} 
+\card{Adverbial noun, Temporal noun \\ 1.-evening \\ 2.-last night; yesterday evening} {\large{ゆう} \\ \Huge{夕べ}} 
+\card{Na-adjective \\ 1.-famous \\ 2.-fame} {\large{ゆうめい} \\ \Huge{有名}} 
+\card{Noun \\ 1.-older brother; elder brother} {\large{あに} \\ \Huge{兄}} 
+\card{Godan verb with u ending, Transitive verb, intransitive verb \\ 1.-to sing \\ 2.-to sing (one's praises in a poem, etc.); to compose a poem; to recite a poem} {\large{うた} \\ \Huge{歌う}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to ascend; to go up; to climb \\ 2.-to ascend (as a natural process, e.g. the Sun); to rise \\ 3.-to go to (the capital) \\ 4.-to be promoted \\ 5.-to add up to} {\large{のぼ} \\ \Huge{上る}} 
+\card{Noun \\ 1.-bird \\ 2.-bird meat (esp. chicken meat); fowl; poultry} {\large{とり} \\ \Huge{鳥}} 
+\card{Noun, Noun - used as a suffix \\ 1.-clothes (esp. Western clothes) \\ 2.-counter for doses of medicine, gulps of tea, drags of a cigarette, etc.} {\large{ふく} \\ \Huge{服}} 
+\card{Adverb, Noun, No-adjective \\ 1.-sometimes; at times} {\large{ときどき} \\ \Huge{時々}} 
+\card{Noun \\ 1.-younger sister} {\large{いもうと} \\ \Huge{妹}} 
+\card{Numeric \\ 1.-two} {\large{ふた} \\ \Huge{二つ}} 
+\card{Godan verb with mu ending, Transitive verb \\ 1.-to request; to beg; to ask \\ 2.-to call; to order; to reserve \\ 3.-to entrust to \\ 4.-to rely on \\ 5.-please; please do} {\large{たの} \\ \Huge{頼む}} 
+\card{Noun \\ 1.-father; dad; papa; pa; pop; daddy; dada \\ 2.-husband \\ 3.-you; he; him} {\large{とう} \\ \Huge{お父さん}} 
+\card{Temporal noun \\ 1.-this morning} {\large{けさ} \\ \Huge{今朝}} 
+\card{I-adjective \\ 1.-slow; time-consuming; sluggish \\ 2.-late (in the day); towards the end (of the day or night); until a time far into the day or night \\ 3.-later (than expected or usual); late; behind schedule; behind time; tardy; overdue; unpunctual \\ 4.-too late; having missed the boat \\ 5.-dull; stupid} {\large{おそ} \\ \Huge{遅い}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to borrow; to have a loan \\ 2.-to rent; to hire} {\large{か} \\ \Huge{借りる}} 
+\card{Noun \\ 1.-medicine; pharmaceuticals; (legal) drugs; pill; ointment; salve \\ 2.-efficacious chemical (gunpowder, pesticide, etc.) \\ 3.-(pottery) glaze \\ 4.-(illegal) drug; narcotic \\ 5.-small bribe} {\large{くすり} \\ \Huge{薬}} 
+\card{Noun \\ 1.-garden; yard; courtyard \\ 2.-field (of action); area} {\large{にわ} \\ \Huge{庭}} 
+\card{Noun, No-adjective \\ 1.-foreign country} {\large{がいこく} \\ \Huge{外国}} 
+\card{Na-adjective, Noun \\ 1.-lively; full of spirit; energetic; vigorous; vital; spirited \\ 2.-healthy; well; fit; in good health} {\large{げんき} \\ \Huge{元気}} 
+\card{I-adjective \\ 1.-small; little; tiny \\ 2.-slight; below average (in degree, amount, etc.); minor; small \\ 3.-low (e.g. sound); soft (e.g. voice) \\ 4.-unimportant; petty; insignificant; trifling; trivial \\ 5.-young; juvenile} {\large{ちい} \\ \Huge{小さい}} 
+\card{Noun \\ 1.-younger brother; little brother; kid brother \\ 2.-brother-in-law (spouse's younger brother or younger sister's husband) \\ 3.-pupil; apprentice} {\large{おとうと} \\ \Huge{弟}} 
+\card{Adverbial noun, Temporal noun \\ 1.-this year} {\large{ことし} \\ \Huge{今年}} 
+\card{Noun \\ 1.-fish} {\large{さかな} \\ \Huge{魚}} 
+\card{Noun \\ 1.-mother; mom; mum; ma \\ 2.-wife} {\large{かあ} \\ \Huge{お母さん}} 
+\card{Expression, Noun \\ 1.-boy; son; baby boy \\ 2.-young man} {\large{おとここ} \\ \Huge{男の子}} 
+\card{Godan verb with bu ending, intransitive verb \\ 1.-to fly; to soar \\ 2.-to jump; to leap; to spring; to bound; to hop \\ 3.-to spatter; to scatter; to splash; to fly (e.g. of sparks) \\ 4.-to hurry; to rush \\ 5.-to flee; to run off; to escape} {\large{と} \\ \Huge{飛ぶ}} 
+\card{Godan verb with ru ending, Transitive verb \\ 1.-to sell} {\large{う} \\ \Huge{売る}} 
+\card{Na-adjective \\ 1.-quiet; silent \\ 2.-slow; unhurried \\ 3.-calm; peaceful} {\large{しず} \\ \Huge{静か}} 
+\card{Godan verb with mu ending, intransitive verb \\ 1.-to be absent; to take a day off \\ 2.-to rest; to have a break \\ 3.-to go to bed; to (lie down to) sleep; to turn in; to retire \\ 4.-to stop doing some ongoing activity for a time; to suspend business} {\large{やす} \\ \Huge{休む}} 
+\card{Noun \\ 1.-food} {\large{たもの} \\ \Huge{食べ物}} 
+\card{Na-adjective, Noun \\ 1.-important; necessary; indispensable \\ 2.-beloved; precious; dear; cherished; valuable \\ 3.-careful} {\large{たいせつ} \\ \Huge{大切}} 
+\card{Adverbial noun, Temporal noun \\ 1.-next week} {\large{らいしゅう} \\ \Huge{来週}} 
+\card{Noun \\ 1.-police officer; policeman; constable} {\large{けいかん} \\ \Huge{警官}} 
+\card{Noun \\ 1.-building} {\large{たてもの} \\ \Huge{建物}} 
+\card{I-adjective \\ 1.-warm; mild; (pleasantly) hot \\ 2.-considerate; kind; genial \\ 3.-warm (of a colour); mellow \\ 4.-having enough money} {\large{あたた} \\ \Huge{暖かい}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to descend (e.g. a mountain); to go down; to come down \\ 2.-to alight (e.g. from bus); to get off; to disembark; to dismount \\ 3.-to step down; to retire; to give up; to quit; to fold \\ 4.-to be granted; to be issued; to be given \\ 5.-to form (of frost, dew, mist, etc.)} {\large{お} \\ \Huge{降りる}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to stop (moving); to come to a stop \\ 2.-to stop (doing, working, being supplied); to come to a halt; to cease; to be stopped; to be suspended \\ 3.-to alight; to perch on} {\large{と} \\ \Huge{止まる}} 
+\card{Adverbial noun, Noun, No-adjective \\ 1.-together \\ 2.-at the same time \\ 3.-same; identical} {\large{いっしょ} \\ \Huge{一緒}} 
+\card{Adverbial noun, Temporal noun \\ 1.-last week; the week before} {\large{せんしゅう} \\ \Huge{先週}} 
+\card{I-adjective \\ 1.-white} {\large{しろ} \\ \Huge{白い}} 
+\card{Numeric \\ 1.-two} {\large{に} \\ \Huge{二}} 
+\card{I-adjective \\ 1.-few; a little; scarce; insufficient; seldom} {\large{すく} \\ \Huge{少ない}} 
+\card{I-adjective \\ 1.-red; crimson; scarlet; vermilion; vermillion \\ 2.-Red; communist \\ 3.-beautiful} {\large{あか} \\ \Huge{赤い}} 
+\card{Godan verb with u ending, Transitive verb \\ 1.-to wash; to cleanse; to rinse \\ 2.-to inquire into; to investigate \\ 3.-to purify (one's heart) \\ 4.-to lave (e.g. shore); to wash over (e.g. deck); to sweep} {\large{あら} \\ \Huge{洗う}} 
+\card{Na-adjective, Noun \\ 1.-disliked; hated; disagreeable \\ 2.-tendency; smack (of); touch (of) \\ 3.-distinction; discrimination} {\large{きら} \\ \Huge{嫌い}} 
+\card{Na-adjective \\ 1.-splendid; fine; handsome; elegant; imposing; prominent \\ 2.-praiseworthy; creditable; worthy \\ 3.-legal; legitimate; lawful \\ 4.-undeniable (e.g. crime); indisputable; solid} {\large{りっぱ} \\ \Huge{立派}} 
+\card{Noun, Na-adjective \\ 1.-spare time; free time; leisure \\ 2.-time (e.g. time it takes to do something) \\ 3.-time off; day off; vacation; holiday; leave \\ 4.-quitting (one's job); firing someone; divorcing (one's spouse) \\ 5.-(being) inactive; (of one's business) slow} {\large{ひま} \\ \Huge{暇}} 
+\card{Noun \\ 1.-tea (usu. green) \\ 2.-tea break (at work) \\ 3.-tea ceremony} {\large{ちゃ} \\ \Huge{お茶}} 
+\card{I-adjective \\ 1.-spacious; vast; wide} {\large{ひろ} \\ \Huge{広い}} 
+\card{Adverbial noun, Temporal noun \\ 1.-last year} {\large{きょねん} \\ \Huge{去年}} 
+\card{Na-adjective \\ 1.-loveable; very likeable; like very much} {\large{だいす} \\ \Huge{大好き}} 
+\card{No-adjective, Noun \\ 1.-next (to); adjoining; adjacent \\ 2.-house next door; neighbouring house; next-door neighbour; next-door neighbor} {\large{となり} \\ \Huge{隣}} 
+\card{Noun, Noun - used as a prefix \\ 1.-female; woman; female sex \\ 2.-female lover; girlfriend; mistress; (someone's) woman} {\large{おんな} \\ \Huge{女}} 
+\card{Godan verb with ru ending, Transitive verb \\ 1.-to cut; to cut through; to perform (surgery) \\ 2.-to sever (connections, ties) \\ 3.-to turn off (e.g. the light) \\ 4.-to terminate (e.g. a conversation); to hang up (the phone); to disconnect \\ 5.-to punch (a ticket); to tear off (a stub)} {\large{き} \\ \Huge{切る}} 
+\card{Adverb \\ 1.-perhaps; probably \\ 2.-generous; many; much; great} {\large{たぶん} \\ \Huge{多分}} 
+\card{Na-adjective, Noun \\ 1.-disagreeable; detestable; unpleasant; reluctant} {\large{いや} \\ \Huge{嫌}} 
+\card{Adverbial noun, Temporal noun \\ 1.-every morning} {\large{まいあさ} \\ \Huge{毎朝}} 
+\card{Noun \\ 1.-luggage; baggage; package \\ 2.-burden \\ 3.-payload (of a packet, cell, etc.)} {\large{にもつ} \\ \Huge{荷物}} 
+\card{Noun \\ 1.-number; series of digits} {\large{ばんごう} \\ \Huge{番号}} 
+\card{Godan verb with su ending, Transitive verb \\ 1.-to return (something); to restore; to put back \\ 2.-to turn over; to turn upside down; to overturn \\ 3.-to pay back; to retaliate; to reciprocate \\ 4.-to respond (with); to retort; to reply; to say back \\ 5.-to do ... back (e.g. speak back, throw back)} {\large{かえ} \\ \Huge{返す}} 
+\card{Adverbial noun, Temporal noun \\ 1.-next year} {\large{らいねん} \\ \Huge{来年}} 
+\card{I-adjective \\ 1.-light; well-lit; well-lighted \\ 2.-bright (of a colour); brightly-coloured; brightly-colored \\ 3.-cheerful; bright; spirited; sunny (e.g. disposition) \\ 4.-encouraging (for the future of a project, etc.); promising; of fair prospects \\ 5.-familiar (with); knowledgeable (about); well versed (in)} {\large{あか} \\ \Huge{明るい}} 
+\card{I-adjective \\ 1.-near; close; short (distance) \\ 2.-close (in time); soon \\ 3.-close (relationship); friendly; intimate \\ 4.-closely related \\ 5.-similar; almost the same; close to; nearly} {\large{ちか} \\ \Huge{近い}} 
+\card{Noun \\ 1.-opposite side; other side; opposite direction \\ 2.-over there; that way; far away; beyond \\ 3.-the other party; the other person \\ 4.-future (starting now)} {\large{む} \\ \Huge{向こう}} 
+\card{Temporal noun, Adverbial noun \\ 1.-beginning; start; outset; opening \\ 2.-first (in line, etc.) \\ 3.-origin \\ 4.-such as ...; not to mention ...} {\large{はじ} \\ \Huge{始め}} 
+\card{I-adjective \\ 1.-painful; sore \\ 2.-cringy; embarrassing \\ 3.-exceeding} {\large{いた} \\ \Huge{痛い}} 
+\card{Noun \\ 1.-rest; recess; respite \\ 2.-vacation; holiday; absence; suspension \\ 3.-dormancy (of a silkworm prior to moulting)} {\large{やす} \\ \Huge{休み}} 
+\card{Noun, Suru verb \\ 1.-practice; training; drill; (an) exercise; workout} {\large{れんしゅう} \\ \Huge{練習}} 
+\card{Numeric \\ 1.-ten \\ 2.-ten years of age} {\large{じゅう} \\ \Huge{十}} 
+\card{Noun \\ 1.-coat; tunic; jacket; outer garment} {\large{うわぎ} \\ \Huge{上着}} 
+\card{Adverbial noun, Temporal noun \\ 1.-last month} {\large{せんげつ} \\ \Huge{先月}} 
+\card{Na-adjective, Adverbial noun, Noun \\ 1.-splendid; nice; wonderful; delicious; sweet \\ 2.-sufficient; fine (in the sense of "I'm fine"); (by implication) no thank you \\ 3.-well enough; OK; tolerable \\ 4.-quite; reasonably; fairly; tolerably \\ 5.-construction; architecture} {\large{けっこう} \\ \Huge{結構}} 
+\card{Noun \\ 1.-siblings; brothers and sisters \\ 2.-brothers \\ 3.-siblings-in-law; brothers-in-law; sisters-in-law \\ 4.-mate; friend} {\large{きょうだい} \\ \Huge{兄弟}} 
+\card{Temporal noun \\ 1.-every year; yearly; annually} {\large{まいとし} \\ \Huge{毎年}} 
+\card{Adverbial noun, Temporal noun \\ 1.-next month} {\large{らいげつ} \\ \Huge{来月}} 
+\card{Numeric \\ 1.-five} {\large{ご} \\ \Huge{五}} 
+\card{Noun \\ 1.-drink; beverage} {\large{のもの} \\ \Huge{飲み物}} 
+\card{I-adjective \\ 1.-weak; frail; delicate; tender; unskilled; weak (wine)} {\large{よわ} \\ \Huge{弱い}} 
+\card{Noun \\ 1.-(cow's) milk} {\large{ぎゅうにゅう} \\ \Huge{牛乳}} 
+\card{Numeric \\ 1.-three \\ 2.-tri-} {\large{さん} \\ \Huge{三}} 
+\card{Na-adjective \\ 1.-safe; secure; sound; problem-free; without fear; all right; alright; OK; okay \\ 2.-certainly; surely; undoubtedly \\ 3.-no thanks; I'm good; that's alright \\ 4.-great man; fine figure of a man} {\large{だいじょうぶ} \\ \Huge{大丈夫}} 
+\card{I-adjective \\ 1.-black \\ 2.-dark; blackish; sun-tanned (skin) \\ 3.-suspicious; criminal; illicit \\ 4.-darkened and dirty; sooty; covered in dirt \\ 5.-evil; wicked; black-hearted} {\large{くろ} \\ \Huge{黒い}} 
+\card{Adverbial noun, Noun \\ 1.-half} {\large{はんぶん} \\ \Huge{半分}} 
+\card{Noun \\ 1.-all; everyone; everybody} {\large{みな} \\ \Huge{皆さん}} 
+\card{Godan verb with su ending, Transitive verb \\ 1.-to push; to press \\ 2.-to apply pressure from above; to press down \\ 3.-to stamp (i.e. a passport); to apply a seal \\ 4.-to affix (e.g. gold leaf) \\ 5.-to press (someone for something); to urge; to compel; to influence} {\large{お} \\ \Huge{押す}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to work (for); to be employed (at); to serve (in) \\ 2.-to serve (as); to act (as); to fill (the position of); to play the role (of) \\ 3.-to conduct a religious service} {\large{つと} \\ \Huge{勤める}} 
+\card{I-adjective \\ 1.-hot (thing) \\ 2.-passionate (feelings, etc.); ardent; hot (e.g. gaze) \\ 3.-hot (e.g. temper) \\ 4.-zealous; enthusiastic; fired up \\ 5.-intense; severe; extreme} {\large{あつ} \\ \Huge{熱い}} 
+\card{Numeric \\ 1.-three \\ 2.-three years of age} {\large{みっ} \\ \Huge{三つ}} 
+\card{Noun \\ 1.-fruit} {\large{くだもの} \\ \Huge{果物}} 
+\card{Adverbial noun, Temporal noun \\ 1.-this week} {\large{こんしゅう} \\ \Huge{今週}} 
+\card{Noun, No-adjective \\ 1.-right; right-hand side \\ 2.-afore-mentioned (esp. in vertical Japanese writing); foregoing; forgoing; above} {\large{みぎ} \\ \Huge{右}} 
+\card{I-adjective \\ 1.-sweet-tasting; sweet; sugary; sugared \\ 2.-fragrant (smelling); sweet (music) \\ 3.-lightly salted; light in salt; not spicy \\ 4.-naive; overly optimistic; soft on; generous; indulgent; easy-going; lenient \\ 5.-half-hearted; not finished properly} {\large{あま} \\ \Huge{甘い}} 
+\card{Adverbial noun, Temporal noun \\ 1.-evening; night \\ 2.-dinner; evening meal \\ 3.-counter for nights} {\large{ばん} \\ \Huge{晩}} 
+\card{Noun, No-adjective \\ 1.-crowd of people; great number of people \\ 2.-in great numbers} {\large{おおぜい} \\ \Huge{大勢}} 
+\card{Noun \\ 1.-stairs; stairway; staircase} {\large{かいだん} \\ \Huge{階段}} 
+\card{Adverb \\ 1.-how many? \\ 2.-how old?} {\large{いく} \\ \Huge{幾つ}} 
+\card{Godan verb with ru ending, Transitive verb \\ 1.-to stick; to paste; to affix \\ 2.-to stretch; to spread; to strain; to tighten; to put up (tent) \\ 3.-to form (e.g. ice on a pond) \\ 4.-to fill; to swell \\ 5.-to stick out; to put; to slap} {\large{は} \\ \Huge{張る}} 
+\card{Adverbial noun, Temporal noun \\ 1.-evening; dusk} {\large{ゆうがた} \\ \Huge{夕方}} 
+\card{I-adjective \\ 1.-low (rank, degree, value, content, quality, etc.) \\ 2.-low (position); close to the ground \\ 3.-short (height) \\ 4.-deep (voice); in a low key; low (volume)} {\large{ひく} \\ \Huge{低い}} 
+\card{Noun, No-adjective \\ 1.-left; left hand side} {\large{ひだり} \\ \Huge{左}} 
+\card{Adverbial noun, Temporal noun \\ 1.-every week} {\large{まいしゅう} \\ \Huge{毎週}} 
+\card{Na-adjective, Noun \\ 1.-unskillful; poor; awkward \\ 2.-imprudent; untactful \\ 3.-ヘタ} {\large{へた} \\ \Huge{下手}} 
+\card{Numeric \\ 1.-1,000; thousand} {\large{せん} \\ \Huge{千}} 
+\card{Adverbial noun, Temporal noun \\ 1.-morning; a.m.} {\large{ごぜん} \\ \Huge{午前}} 
+\card{Godan verb with su ending, Transitive verb \\ 1.-to ferry across (e.g. a river); to carry across; to traverse \\ 2.-to lay across; to build across \\ 3.-to hand over; to hand in; to pass; to give; to transfer} {\large{わた} \\ \Huge{渡す}} 
+\card{Na-adjective \\ 1.-convenient; handy; useful} {\large{べんり} \\ \Huge{便利}} 
+\card{I-adjective \\ 1.-round; circular; spherical \\ 2.-curved; smooth \\ 3.-harmonious; calm; peaceful; amiable; amicable} {\large{まる} \\ \Huge{丸い}} 
+\card{Adverbial noun, Temporal noun \\ 1.-this month} {\large{こんげつ} \\ \Huge{今月}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to dash over oneself (e.g. water); to take (e.g. shower); to bask in (e.g. the sun); to bathe in; to be flooded with (e.g. light); to be covered in \\ 2.-to suffer (e.g. an attack); to draw (e.g. criticism, attention, praise); to have heaped upon; to be showered with} {\large{あ} \\ \Huge{浴びる}} 
+\card{Noun, Noun - used as a prefix \\ 1.-half; semi- \\ 2.-half-past \\ 3.-odd number \\ 4.-unit of land area (595.8 m^2)} {\large{はん} \\ \Huge{半}} 
+\card{Noun \\ 1.-Western-style clothes (cf. traditional Japanese clothes)} {\large{ようふく} \\ \Huge{洋服}} 
+\card{Godan verb with ru ending, Transitive verb \\ 1.-to take (a photo) \\ 2.-to record (video, audio, etc.); to make (a film)} {\large{と} \\ \Huge{撮る}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to tie; to fasten; to tighten \\ 2.-to wear (necktie, belt); to put on \\ 3.-to total; to sum \\ 4.-to be strict with \\ 5.-to economize; to economise; to cut down on} {\large{し} \\ \Huge{締める}} 
+\card{Noun \\ 1.-writing; composition; essay; article; prose; (writing) style \\ 2.-sentence} {\large{ぶんしょう} \\ \Huge{文章}} 
+\card{Numeric \\ 1.-eight} {\large{はち} \\ \Huge{八}} 
+\card{I-adjective \\ 1.-thin \\ 2.-pale; light; faint \\ 3.-watery; thin; dilute \\ 4.-weak (taste, etc.); little (affection, etc.) not much (of a presence) \\ 5.-slim (probability, etc.); small} {\large{うす} \\ \Huge{薄い}} 
+\card{Noun \\ 1.-horizontal (as opposed to vertical); lying down \\ 2.-side-to-side (as opposed to front-to-back); width; breadth \\ 3.-side (of a box, etc.) \\ 4.-beside; aside; next to \\ 5.-unconnected} {\large{よこ} \\ \Huge{横}} 
+\card{Numeric \\ 1.-four \\ 2.-four years of age \\ 3.-ten o'clock (old time system) \\ 4.-cross grips} {\large{よっ} \\ \Huge{四つ}} 
+\card{Numeric \\ 1.-six} {\large{ろく} \\ \Huge{六}} 
+\card{Na-adjective \\ 1.-healthy; robust; strong; solid; durable} {\large{じょうぶ} \\ \Huge{丈夫}} 
+\card{Noun \\ 1.-east} {\large{ひがし} \\ \Huge{東}} 
+\card{Adverbial noun, Temporal noun \\ 1.-every night} {\large{まいばん} \\ \Huge{毎晩}} 
+\card{Numeric \\ 1.-five \\ 2.-five years of age \\ 3.-eight o'clock (old time system)} {\large{いつ} \\ \Huge{五つ}} 
+\card{Noun, No-adjective \\ 1.-clear weather; fine weather \\ 2.-formal; ceremonial; public \\ 3.-cleared of suspicion} {\large{は} \\ \Huge{晴れ}} 
+\card{I-adjective \\ 1.-thin; slender; fine \\ 2.-unlucky} {\large{ほそ} \\ \Huge{細い}} 
+\card{Noun \\ 1.-corridor; hallway; passageway} {\large{ろうか} \\ \Huge{廊下}} 
+\card{I-adjective \\ 1.-fat; thick \\ 2.-deep (of a voice); thick; sonorous \\ 3.-daring; shameless; brazen; audacious} {\large{ふと} \\ \Huge{太い}} 
+\card{Noun \\ 1.-the vertical; height \\ 2.-front-to-back; length \\ 3.-north-to-south \\ 4.-vertical (relationship); hierarchy \\ 5.-(weaving) warp} {\large{たて} \\ \Huge{縦}} 
+\card{Noun \\ 1.-overseas student; exchange student} {\large{りゅうがくせい} \\ \Huge{留学生}} 
+\card{Numeric \\ 1.-seven \\ 2.-seven years of age \\ 3.-four o'clock (old time system)} {\large{なな} \\ \Huge{七つ}} 
+\card{Numeric \\ 1.-nine \\ 2.-nine years of age \\ 3.-twelve o'clock (old time system)} {\large{ここの} \\ \Huge{九つ}} 
+\card{Adverbial noun, Temporal noun \\ 1.-year before last} {\large{おととし} \\ \Huge{一昨年}} 
+\card{Noun \\ 1.-man; person \\ 2.-human being; mankind; people \\ 3.-human (Homo sapiens); humans as a species \\ 4.-character; personality \\ 5.-man of talent; true man} {\large{ひと} \\ \Huge{人}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to be (of animate objects); to exist \\ 2.-to stay \\ 3.-to be ...-ing; to have been ...-ing} {\large{い} \\ \Huge{居る}} 
+\card{Pronoun \\ 1.-that (indicating an item or person near the listener, the action of the listener, or something on their mind); it \\ 2.-that time; then \\ 3.-there (indicating a place near the listener) \\ 4.-you} {\large{そ} \\ \Huge{其れ}} 
+\card{Noun \\ 1.-thing; object; article; stuff; substance \\ 2.-one's things; possessions; property; belongings \\ 3.-things; something; anything; everything; nothing \\ 4.-quality \\ 5.-reason; the way of things} {\large{もの} \\ \Huge{物}} 
+\card{Noun \\ 1.-house; residence; dwelling \\ 2.-family; household \\ 3.-lineage; family name} {\large{いえ} \\ \Huge{家}} 
+\card{Noun \\ 1.-book; volume; script \\ 2.-this; present \\ 3.-main; head \\ 4.-real; regular \\ 5.-counter for long cylindrical things; counter for films, TV shows, etc.; counter for goals, home runs, etc.; counter for telephone calls} {\large{ほん} \\ \Huge{本}} 
+\card{Adverb \\ 1.-very; awfully; exceedingly \\ 2.-(not) at all; by no means; simply (cannot)} {\large{とて} \\ \Huge{迚も}} 
+\card{Godan verb with u ending, intransitive verb \\ 1.-to meet; to encounter; to see \\ 2.-to have an accident; to have a bad experience} {\large{あ} \\ \Huge{会う}} 
+\card{Na-adjective, Noun \\ 1.-liked; well-liked; favourite; favorite \\ 2.-in love (with); loved; romantically interested (in) \\ 3.-faddism; eccentricity \\ 4.-the way one likes; (as) it suits one \\ 5.-refined taste; elegant pursuits} {\large{す} \\ \Huge{好き}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to understand; to comprehend; to grasp; to see; to get; to follow \\ 2.-to become clear; to be known; to be discovered; to be realized; to be realised; to be found out \\ 3.-I know!; I think so too!} {\large{わ} \\ \Huge{分かる}} 
+\card{Godan verb with ku ending, Transitive verb \\ 1.-to hear \\ 2.-to listen (e.g. to music) \\ 3.-to ask; to enquire; to query \\ 4.-to hear about; to hear of; to learn of \\ 5.-to follow (advice, order, etc.); to obey; to listen to; to comply with} {\large{き} \\ \Huge{聞く}} 
+\card{Noun, Suffix \\ 1.-place; spot; scene; site \\ 2.-address \\ 3.-district; area; locality \\ 4.-one's house \\ 5.-point; aspect; side; facet} {\large{ところ} \\ \Huge{所}} 
+\card{Noun, No-adjective, Noun - used as a suffix, Prefix \\ 1.-previous; prior; former; first; earlier; some time ago; preceding \\ 2.-point (e.g. pencil); tip; end; nozzle \\ 3.-head (of a line); front \\ 4.-ahead; the other side \\ 5.-the future; hereafter} {\large{さき} \\ \Huge{先}} 
+\card{Adverb, Noun \\ 1.-always; usually; every time \\ 2.-never} {\large{いつ} \\ \Huge{何時も}} 
+\card{Godan verb with ku ending, Transitive verb \\ 1.-to write; to compose; to pen \\ 2.-to draw; to paint} {\large{か} \\ \Huge{書く}} 
+\card{No-adjective, Na-adjective, Noun, Adverbial noun \\ 1.-a lot; lots; plenty; many; a large number; much; a great deal; a good deal \\ 2.-enough; sufficient \\ 3.-enough; too many; too much} {\large{たくさん} \\ \Huge{沢山}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to enter; to go into \\ 2.-to break into \\ 3.-to join; to enroll \\ 4.-to contain; to hold; to accommodate \\ 5.-to have (an income of)} {\large{はい} \\ \Huge{入る}} 
+\card{Godan verb with ku ending, Transitive verb \\ 1.-to put; to place \\ 2.-to leave (behind) \\ 3.-to establish (an organization, a facility, a position, etc.); to set up \\ 4.-to appoint (someone to a certain position); to hire; to employ \\ 5.-to place (one's trust, one's faith, etc.); to bear (in mind, etc.)} {\large{お} \\ \Huge{置く}} 
+\card{Pronoun \\ 1.-where; what place \\ 2.-how much (long, far); what extent} {\large{どこ} \\ \Huge{何処}} 
+\card{Godan verb with mu ending, intransitive verb \\ 1.-to live (of humans); to reside; to inhabit; to dwell; to abide} {\large{す} \\ \Huge{住む}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to eat \\ 2.-to live on (e.g. a salary); to live off; to subsist on} {\large{た} \\ \Huge{食べる}} 
+\card{Godan verb with ku ending, intransitive verb \\ 1.-to walk} {\large{ある} \\ \Huge{歩く}} 
+\card{Godan verb with ku ending, intransitive verb \\ 1.-to work; to labor; to labour \\ 2.-to function; to operate; to be effective; to work (i.e. ... works); to come into play \\ 3.-to commit (e.g. a crime); to perpetrate; to do; to act; to practise; to practice \\ 4.-to be conjugated} {\large{はたら} \\ \Huge{働く}} 
+\card{Godan verb with ku ending, intransitive verb \\ 1.-to arrive at; to reach \\ 2.-to sit on; to sit at (e.g. the table)} {\large{つ} \\ \Huge{着く}} 
+\card{Noun, No-adjective, Adverbial noun, Noun - used as a suffix \\ 1.-above; up; over; elder (e.g. daughter) \\ 2.-top; summit; head (e.g. of a staircase) \\ 3.-surface \\ 4.-before; previous \\ 5.-superiority; one's superior; one's elder} {\large{うえ} \\ \Huge{上}} 
+\card{I-adjective \\ 1.-bad; poor; undesirable \\ 2.-poor (quality); inferior; insufficient \\ 3.-evil; sinful \\ 4.-ugly; not beautiful \\ 5.-at fault; to blame; in the wrong} {\large{わる} \\ \Huge{悪い}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to teach; to instruct \\ 2.-to tell; to inform \\ 3.-to preach} {\large{おし} \\ \Huge{教える}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to fall (of rain, snow, ash, etc.); to come down \\ 2.-to form (of frost) \\ 3.-to beam down (of sunlight or moonlight); to pour in \\ 4.-to visit (of luck, misfortune, etc.); to come; to arrive} {\large{ふ} \\ \Huge{降る}} 
+\card{Godan verb with nu ending, Irregular nu verb, intransitive verb \\ 1.-to die; to pass away \\ 2.-to lose spirit; to lose vigor; to look dead \\ 3.-to cease; to stop} {\large{し} \\ \Huge{死ぬ}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to return; to come home; to go home; to go back \\ 2.-to leave \\ 3.-to get home; to get to home plate} {\large{かえ} \\ \Huge{帰る}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to forget; to leave carelessly; to be forgetful of; to forget about; to forget (an article)} {\large{わす} \\ \Huge{忘れる}} 
+\card{I-adjective \\ 1.-many; numerous; a lot \\ 2.-large quantity; large amount \\ 3.-frequent; common} {\large{おお} \\ \Huge{多い}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to go out (e.g. on an excursion or outing); to leave; to depart; to start; to set out \\ 2.-to be about to leave; to be just going out} {\large{で} \\ \Huge{出かける}} 
+\card{I-adjective \\ 1.-young; youthful \\ 2.-immature; green \\ 3.-low (number); small} {\large{わか} \\ \Huge{若い}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to take (a resource, e.g. time or money) \\ 2.-to hang \\ 3.-to come into view; to arrive \\ 4.-to come under (a contract, a tax) \\ 5.-to start (engines, motors)} {\large{か} \\ \Huge{掛かる}} 
+\card{Noun or verb acting prenominally, Noun \\ 1.-same; identical; equal; uniform; equivalent; similar; common (origin); changeless; alike \\ 2.-anyway; anyhow; in either case} {\large{おな} \\ \Huge{同じ}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to get up; to rise; to blaze up (fire) \\ 2.-to wake up; to be awake; to stay awake \\ 3.-to occur (usu. of unfavourable incidents); to happen; to take place} {\large{お} \\ \Huge{起きる}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to sit; to squat \\ 2.-to assume (a position) \\ 3.-to hold steady; to hold still} {\large{すわ} \\ \Huge{座る}} 
+\card{Noun \\ 1.-store; shop; establishment; restaurant} {\large{みせ} \\ \Huge{店}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to put in; to let in; to take in; to bring in; to insert; to install (e.g. software); to set (a jewel, etc.); to ink in (e.g. tattoo) \\ 2.-to admit; to accept; to employ; to hire \\ 3.-to accept; to comply; to grant; to adopt (a policy, etc.); to take (advice, etc.); to listen to; to pay attention to \\ 4.-to include \\ 5.-to pay (one's rent, etc.)} {\large{い} \\ \Huge{入れる}} 
+\card{Noun \\ 1.-who?} {\large{どなた} \\ \Huge{何方}} 
+\card{Adverb \\ 1.-a little; a bit; slightly \\ 2.-just a minute; for a moment; briefly \\ 3.-somewhat; rather; fairly; pretty; quite \\ 4.-(not) easily; (not) readily \\ 5.-hey!; come on; excuse me} {\large{一寸ちょっと} \\ \Huge{一寸}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to get tired; to tire \\ 2.-to be worn out (e.g. of well used objects) \\ 3.-to starve} {\large{つか} \\ \Huge{疲れる}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock \\ 2.-to open (for business, etc.) \\ 3.-to empty; to remove; to make space; to make room \\ 4.-to move out; to clear out \\ 5.-to be away from (e.g. one's house); to leave (temporarily)} {\large{あ} \\ \Huge{開ける}} 
+\card{Adverb \\ 1.-why; how} {\large{なぜ} \\ \Huge{何故}} 
+\card{Noun \\ 1.-one day \\ 2.-all day (long); throughout the day \\ 3.-first day of the month} {\large{いちにち} \\ \Huge{一日}} 
+\card{I-adjective \\ 1.-cold (e.g. weather) \\ 2.-uninteresting (esp. joke); lame; dull; weak; corny} {\large{さむ} \\ \Huge{寒い}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to show; to display} {\large{み} \\ \Huge{見せる}} 
+\card{Godan verb with u ending, intransitive verb \\ 1.-to differ (from); to vary \\ 2.-to not be in the usual condition \\ 3.-to not match the correct (answer, etc.) \\ 4.-to be different from promised \\ 5.-isn't it?; wasn't it?} {\large{ちが} \\ \Huge{違う}} 
+\card{Adverb \\ 1.-how; in what way; by what means \\ 2.-why; for what reason; for what purpose; what for \\ 3.-cannot possibly \\ 4.-no way} {\large{どう} \\ \Huge{如何して}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to attach; to join; to add; to append; to affix; to stick; to glue; to fasten; to sew on; to apply (ointment) \\ 2.-to furnish (a house with) \\ 3.-to wear; to put on \\ 4.-to keep a diary; to make an entry \\ 5.-to appraise; to set (a price)} {\large{つ} \\ \Huge{付ける}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to memorize; to memorise; to commit to memory; to learn by heart; to bear in mind; to remember \\ 2.-to learn; to pick up; to acquire \\ 3.-to feel \\ 4.-to think; to regard} {\large{おぼ} \\ \Huge{覚える}} 
+\card{Noun \\ 1.-wind; breeze; draught; draft \\ 2.-manner; behaviour; behavior \\ 3.-cold; influenza} {\large{かぜ} \\ \Huge{風}} 
+\card{Noun, No-adjective, Adverbial noun \\ 1.-near; neighbourhood; neighborhood; vicinity \\ 2.-nearly (e.g. "it took nearly one year"); close to \\ 3.-shortly; soon} {\large{ちか} \\ \Huge{近く}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to be troubled; to have difficulty; to be in a fix; to be at a loss; to be stumped; to be embarrassed \\ 2.-to be bothered; to be inconvenienced; to be annoyed \\ 3.-to be badly off; to be hard up; to be in straitened circumstances} {\large{こま} \\ \Huge{困る}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to be born} {\large{う} \\ \Huge{生まれる}} 
+\card{Adverb \\ 1.-exactly; precisely; just; right \\ 2.-as if; as though; quite} {\large{ちょうど} \\ \Huge{丁度}} 
+\card{Adverb, No-adjective \\ 1.-for the first time \\ 2.-only after ... is it ...; only when ... do you ...} {\large{はじ} \\ \Huge{初めて}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to begin; to start; to commence \\ 2.-to happen (again); to begin (anew) \\ 3.-to date (from); to originate (in)} {\large{はじ} \\ \Huge{始まる}} 
+\card{Godan verb with su ending, Transitive verb \\ 1.-to lend; to loan \\ 2.-to rent out; to hire out} {\large{か} \\ \Huge{貸す}} 
+\card{Na-adjective \\ 1.-pretty; lovely; beautiful; fair \\ 2.-clean; clear; pure; tidy; neat \\ 3.-completely; entirely} {\large{きれい} \\ \Huge{綺麗}} 
+\card{Adverb, Noun \\ 1.-how much?; how many? \\ 2.-even; even if} {\large{いく} \\ \Huge{幾ら}} 
+\card{Noun \\ 1.-sky; the air; the heavens \\ 2.-weather \\ 3.-far-off place; distant place \\ 4.-state of mind; feeling \\ 5.-(from) memory; (by) heart} {\large{そら} \\ \Huge{空}} 
+\card{Godan verb with ku ending, Transitive verb \\ 1.-to play (a stringed or keyboard instrument)} {\large{ひ} \\ \Huge{弾く}} 
+\card{I-adjective \\ 1.-hot; warm; sultry; heated \\ 2.-passionate; impassioned; burning (desire, etc.) \\ 3.-on everybody's mind; on the radar; du jour; interested (gaze, etc.)} {\large{あつ} \\ \Huge{暑い}} 
+\card{Godan verb with bu ending, intransitive verb \\ 1.-to play (games, sports); to enjoy oneself; to have a good time \\ 2.-to mess about (with alcohol, gambling, philandery, etc.) \\ 3.-to be idle; to do nothing; to be unused \\ 4.-to meet up (with friends); to hang out \\ 5.-to give oneself up (to gambling, drinking, etc.)} {\large{あそ} \\ \Huge{遊ぶ}} 
+\card{Conjunction \\ 1.-however; but} {\large{しか} \\ \Huge{然し}} 
+\card{Godan verb with su ending, Transitive verb \\ 1.-to lose (something); to mislay \\ 2.-to get rid of; to eliminate; to remove} {\large{な} \\ \Huge{無くす}} 
+\card{Na-adjective, No-adjective, Adverb, Adverb taking the 'to' particle, Noun \\ 1.-various; all sorts of; variety of \\ 2.-various colors (colours)} {\large{いろいろ} \\ \Huge{色々}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to cross over; to go across \\ 2.-to extend; to cover; to range; to span} {\large{わた} \\ \Huge{渡る}} 
+\card{I-adjective \\ 1.-dark; gloomy; murky \\ 2.-depressed; dispirited; down in the dumps; dark (mood) \\ 3.-dark (in colour); dull \\ 4.-ill-boding; dark (e.g. past); suspicious \\ 5.-unlikely (to succeed); hopeless; unpromising} {\large{くら} \\ \Huge{暗い}} 
+\card{Noun \\ 1.-this way (direction close to the speaker or towards the speaker); this direction \\ 2.-here (place close to the speaker or where the speaker is) \\ 3.-this one (something physically close to the speaker) \\ 4.-I; me; we; us \\ 5.-this person (someone physically close to the speaker and of equal or higher status)} {\large{こちら} \\ \Huge{此方}} 
+\card{I-adjective \\ 1.-heavy; weighty \\ 2.-heavy (feeling); depressed; gloomy; blue; uneasy \\ 3.-slow; sluggish; lumbering; ponderous; clumsy \\ 4.-important (position, responsibility, etc.); serious; grave \\ 5.-serious (punishment, illness, etc.); severe; critical} {\large{おも} \\ \Huge{重い}} 
+\card{Adverbial noun, Temporal noun \\ 1.-tonight; this evening} {\large{こんばん} \\ \Huge{今晩}} 
+\card{I-adjective \\ 1.-delicious; tasty; sweet \\ 2.-attractive; appealing; convenient; favorable; desirable; profitable \\ 3.-オイシイ} {\large{おい} \\ \Huge{美味しい}} 
+\card{Godan verb with su ending, Transitive verb \\ 1.-to erase; to delete; to cross out \\ 2.-to turn off (power); to switch off \\ 3.-to extinguish; to put out \\ 4.-to bump off} {\large{け} \\ \Huge{消す}} 
+\card{I-adjective \\ 1.-easy; plain; simple} {\large{やさ} \\ \Huge{易しい}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to close; to shut} {\large{し} \\ \Huge{閉める}} 
+\card{I-adjective \\ 1.-cheap; inexpensive \\ 2.-calm; peaceful; quiet} {\large{やす} \\ \Huge{安い}} 
+\card{I-adjective \\ 1.-far; distant; far away; a long way off; in the distance \\ 2.-distant (past); remote (in time); remote; far-removed (in time) \\ 3.-distant (relationship or kinship); having little to do (with someone) \\ 4.-far (from something else in quality, degree, etc.); not similar; way off \\ 5.-hard (of hearing)} {\large{とお} \\ \Huge{遠い}} 
+\card{I-adjective \\ 1.-short} {\large{みじか} \\ \Huge{短い}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to bend; to curve; to warp; to wind; to twist \\ 2.-to turn \\ 3.-to be awry; to be askew; to be crooked} {\large{ま} \\ \Huge{曲がる}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to go out; to vanish; to disappear} {\large{き} \\ \Huge{消える}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to clear up; to clear away; to be sunny; to stop raining \\ 2.-to refresh (e.g. spirits) \\ 3.-to be cleared (e.g. of a suspicion) \\ 4.-to be dispelled; to be banished} {\large{は} \\ \Huge{晴れる}} 
+\card{I-adjective \\ 1.-cold (to the touch); chilly; icy; freezing \\ 2.-(emotionally) cold; coldhearted; unfeeling; indifferent; unfriendly; distant} {\large{つめ} \\ \Huge{冷たい}} 
+\card{I-adjective \\ 1.-blue; azure \\ 2.-green \\ 3.-pale; gray; grey \\ 4.-unripe; inexperienced} {\large{あお} \\ \Huge{青い}} 
+\card{Noun, Counter \\ 1.-page} {\large{ページ} \\ \Huge{頁}} 
+\card{Godan verb with ku ending, intransitive verb \\ 1.-to blow (of the wind) \\ 2.-to blow (one's breath); to breathe out; to blow on (hot tea, candles, etc.); to puff \\ 3.-to play (a wind instrument); to blow (a whistle, trumpet, etc.); to whistle (a tune) \\ 4.-to emit (smoke, fire, etc.); to spout; to spew; to puff out \\ 5.-to sprout; to put forth (buds)} {\large{ふ} \\ \Huge{吹く}} 
+\card{Noun \\ 1.-wife; your wife; his wife; married lady; madam} {\large{おく} \\ \Huge{奥さん}} 
+\card{Godan verb with ku ending, Transitive verb \\ 1.-to pull; to tug; to lead (e.g. a horse) \\ 2.-to draw (attention, sympathy, etc.); to attract (e.g. interest) \\ 3.-to draw back (e.g. one's hand); to draw in (one's chin, stomach, etc.); to pull in \\ 4.-to draw (a card, mahjong tile, etc.) \\ 5.-to draw (a line, plan, etc.)} {\large{ひ} \\ \Huge{引く}} 
+\card{Adverb, Adverb taking the 'to' particle \\ 1.-gradually; by degrees; little by little; more and more; increasingly \\ 2.-steps; stairs; staircase; terrace} {\large{だんだん} \\ \Huge{段々}} 
+\card{Godan verb with u ending, Transitive verb \\ 1.-to take lessons in; to be taught; to learn (from a teacher); to study (under a teacher); to get training in} {\large{なら} \\ \Huge{習う}} 
+\card{Pronoun \\ 1.-there (place physically distant from both speaker and listener); over there; that place; yonder; you-know-where \\ 2.-genitals; private parts; nether regions \\ 3.-that far (something psychologically distant from both speaker and listener); that much; that point} {\large{あそこ} \\ \Huge{彼処}} 
+\card{I-adjective \\ 1.-narrow; confined; small; cramped \\ 2.-limited; narrow-minded; confining} {\large{せま} \\ \Huge{狭い}} 
+\card{I-adjective \\ 1.-light (i.e. not heavy); feeling light (i.e. offering little resistance, moving easily) \\ 2.-light (i.e. of foot); effortless; nimble; agile \\ 3.-non-serious; minor; unimportant; trivial \\ 4.-slight; small; gentle; soft; easy; lighthearted (e.g. joke) \\ 5.-easy; simple} {\large{かる} \\ \Huge{軽い}} 
+\card{Godan verb with gu ending, Transitive verb \\ 1.-to take off (clothes, shoes, etc.); to undress} {\large{ぬ} \\ \Huge{脱ぐ}} 
+\card{Numeric \\ 1.-10,000; ten thousand \\ 2.-myriad \\ 3.-everything; all \\ 4.-various} {\large{まん} \\ \Huge{万}} 
+\card{I-adjective \\ 1.-noisy; loud \\ 2.-annoying; troublesome; tiresome; persistent; importunate \\ 3.-fussy; finicky; picky; particular; nagging; fastidious; bossy \\ 4.-shut up!; be quiet!} {\large{うるさ} \\ \Huge{煩い}} 
+\card{Godan verb with bu ending, intransitive verb \\ 1.-to line up; to stand in a line \\ 2.-to rival; to match; to equal} {\large{なら} \\ \Huge{並ぶ}} 
+\card{Godan verb with u ending, Transitive verb \\ 1.-to smoke; to breathe in; to inhale \\ 2.-to suck; to sip; to slurp \\ 3.-to absorb; to soak up \\ 4.-to kiss} {\large{す} \\ \Huge{吸う}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to be shut; to close; to be closed \\ 2.-to be firm (of a body, face, etc.); to be well-knit \\ 3.-to be locked \\ 4.-to tighten; to be tightened \\ 5.-to become sober; to become tense} {\large{し} \\ \Huge{閉まる}} 
+\card{I-adjective \\ 1.-dull; uninteresting; boring; tedious \\ 2.-insignificant; unimportant; trifling; trivial; worthless \\ 3.-absurd; foolish; silly; stupid \\ 4.-useless; pointless; disappointing} {\large{つま} \\ \Huge{詰らない}} 
+\card{Godan verb with ku ending, intransitive verb \\ 1.-to bloom} {\large{さ} \\ \Huge{咲く}} 
+\card{Na-adjective, Adverb, Noun \\ 1.-straight (ahead); direct; upright; erect \\ 2.-straightforward; honest; frank} {\large{ます} \\ \Huge{真っ直ぐ}} 
+\card{Numeric, Prefix \\ 1.-one \\ 2.-best \\ 3.-first; foremost \\ 4.-beginning; start \\ 5.-a (single); one (of many)} {\large{いち} \\ \Huge{一}} 
+\card{Noun \\ 1.-grandmother \\ 2.-old woman; female senior citizen} {\large{ばあ} \\ \Huge{お祖母さん}} 
+\card{I-adjective \\ 1.-cool; refreshing \\ 2.-clear (e.g. eyes); bright \\ 3.-clear; distinct \\ 4.-composed (facial expression); unruffled; unconcerned \\ 5.-pure; upright; innocent} {\large{すず} \\ \Huge{涼しい}} 
+\card{Pronoun \\ 1.-that way (direction distant from the speaker, close to the listener) \\ 2.-there (place distant from the speaker, close to the listener) \\ 3.-that one (something close to the listener) \\ 4.-you; your family; your company \\ 5.-that person (someone close to the listener)} {\large{そちら} \\ \Huge{其方}} 
+\card{I-adjective \\ 1.-thick; deep; heavy \\ 2.-kind; cordial; hospitable; warm; faithful \\ 3.-serious (of an illness) \\ 4.-abundant} {\large{あつ} \\ \Huge{厚い}} 
+\card{Noun \\ 1.-older brother; elder brother \\ 2.-young man; buddy; fella; laddie} {\large{にい} \\ \Huge{お兄さん}} 
+\card{Noun \\ 1.-older sister; elder sister \\ 2.-young lady \\ 3.-miss \\ 4.-ma'am \\ 5.-older girl} {\large{ねえ} \\ \Huge{お姉さん}} 
+\card{I-adjective \\ 1.-dirty; filthy; foul; unclean \\ 2.-disordered; messy; untidy; poor (e.g. handwriting) \\ 3.-indecent (language, etc.); dirty; vulgar; coarse \\ 4.-dastardly; mean; base; underhanded \\ 5.-stingy; greedy} {\large{きたな} \\ \Huge{汚い}} 
+\card{Ichidan verb, Transitive verb \\ 1.-to line up; to set up; to arrange in a line \\ 2.-to enumerate; to itemize \\ 3.-to be equal (to); to compare well (with); to be as good (as)} {\large{なら} \\ \Huge{並べる}} 
+\card{I-adjective \\ 1.-dangerous; risky; hazardous; perilous; precarious \\ 2.-in danger; in jeopardy; critical; grave; at risk \\ 3.-uncertain; unreliable; insecure; unsteady; doubtful \\ 4.-close (call); narrow (escape)} {\large{あぶ} \\ \Huge{危ない}} 
+\card{Noun \\ 1.-belly; abdomen; stomach} {\large{なか} \\ \Huge{お腹}} 
+\card{I-adjective \\ 1.-bad (taste); unpalatable; unsavoury; unsavory; awful; terrible; unpleasant \\ 2.-poor; unskillful; unskilful; bungling; clumsy \\ 3.-ugly; unattractive; homely; plain \\ 4.-awkward; problematic; troublesome; unfavorable; unfavourable; unwise \\ 5.-マズイ、マズい} {\large{まず} \\ \Huge{不味い}} 
+\card{Noun \\ 1.-cooked rice \\ 2.-meal} {\large{はん} \\ \Huge{ご飯}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to get cloudy; to cloud over; to become overcast \\ 2.-to cloud up; to fog up; to mist up; to become dim \\ 3.-to be gloomy; to be clouded (expression); to be downcast \\ 4.-to look slightly downward (of a noh mask; indicating sadness, grief, etc.)} {\large{くも} \\ \Huge{曇る}} 
+\card{I-adjective \\ 1.-yellow \\ 2.-high-pitched (voice); shrill} {\large{きいろ} \\ \Huge{黄色い}} 
+\card{Noun \\ 1.-confections; sweets; candy; cake} {\large{かし} \\ \Huge{お菓子}} 
+\card{Godan verb with ku ending, Transitive verb \\ 1.-to polish; to shine; to brush (e.g. teeth); to grind (e.g. lens) \\ 2.-to refine (e.g. a skill); to improve; to cultivate} {\large{みが} \\ \Huge{磨く}} 
+\card{Na-adjective \\ 1.-bustling; busy; lively} {\large{にぎ} \\ \Huge{賑やか}} 
+\card{Godan verb with ku ending, intransitive verb \\ 1.-to sing (bird) \\ 2.-to make sound (animal); to call; to cry; to chirp \\ 3.-to make a meld call (e.g. pung, kong)} {\large{な} \\ \Huge{鳴く}} 
+\card{Noun \\ 1.-evening meal} {\large{ゆうはん} \\ \Huge{夕飯}} 
+\card{Noun \\ 1.-postcard \\ 2.-memo; note; card} {\large{はがき} \\ \Huge{葉書}} 
+\card{Noun \\ 1.-breakfast} {\large{あさはん} \\ \Huge{朝ご飯}} 
+\card{Noun \\ 1.-shirt; business shirt; dress shirt} {\large{} \\ \Huge{Ｙシャツ}} 
+\card{Numeric \\ 1.-six \\ 2.-six years of age \\ 3.-six o'clock (old time system)} {\large{むっ} \\ \Huge{六つ}} 
+\card{Noun \\ 1.-police officer} {\large{まわ} \\ \Huge{お巡りさん}} 
+\card{Noun \\ 1.-toilet; restroom; lavatory; bathroom} {\large{てあら} \\ \Huge{お手洗い}} 
+\card{Godan verb with su ending, intransitive verb \\ 1.-to shine \\ 2.-to be visible \\ 3.-to be tinged with \\ 4.-to rise (of water levels); to flow in \\ 5.-to be felt (i.e. as an emotion); to come over one} {\large{さ} \\ \Huge{差す}} 
+\card{Noun \\ 1.-zero; nought} {\large{れい} \\ \Huge{零}} 
+\card{Noun \\ 1.-twentieth day of the month \\ 2.-twenty days} {\large{はつか} \\ \Huge{二十日}} 
+\card{Noun \\ 1.-kilometer; kilometre} {\large{粁キロメートル} \\ \Huge{粁}} 
+\card{Numeric \\ 1.-eight \\ 2.-eight years of age \\ 3.-two o'clock (old time system)} {\large{やっ} \\ \Huge{八つ}} 
+\card{Adverbial noun, Temporal noun \\ 1.-year after next} {\large{さらいねん} \\ \Huge{再来年}} 
+\card{Adverb \\ 1.-nicely; properly; well; skillfully; skilfully \\ 2.-frequently; often \\ 3.-I'm glad that you ...; thank you for ... \\ 4.-(you have) quite the nerve to; I don't know how you can ...} {\large{よ} \\ \Huge{良く}} 
+\card{Pronoun \\ 1.-there (place relatively near listener) \\ 2.-there (place just mentioned); that place \\ 3.-then (of some incident just spoken of); that (of point just raised) \\ 4.-you} {\large{そこ} \\ \Huge{其処}} 
+\card{Pre-noun adjectival \\ 1.-small; little; tiny} {\large{ちい} \\ \Huge{小さな}} 
+\card{Ichidan verb, intransitive verb \\ 1.-to answer; to reply} {\large{こた} \\ \Huge{答える}} 
+\card{Expression \\ 1.-once more; again} {\large{いちど} \\ \Huge{もう一度}} 
+\card{Godan verb with ru ending, intransitive verb \\ 1.-to be needed; to be wanted} {\large{い} \\ \Huge{要る}} 
+\card{Noun \\ 1.-back; spine \\ 2.-reverse; rear side \\ 3.-height; stature \\ 4.-ridge (of a mountain)} {\large{せ} \\ \Huge{背}} 
+\card{Noun \\ 1.-bento; Japanese box lunch} {\large{べんとう} \\ \Huge{お弁当}} 
+\card{Noun \\ 1.-dinner; evening meal} {\large{ばんごはん} \\ \Huge{晩御飯}} 
+\card{Noun \\ 1.-lunch; midday meal} {\large{ひるはん} \\ \Huge{昼ご飯}} 
+\card{Conjunction \\ 1.-but; however; though; nevertheless; still; yet; even so; also; as well \\ 2.-even \\ 3.-however; no matter how; even if; even though \\ 4.-... or something \\ 5.-either ... or ...; neither ... nor ...} {\large{} \\ \Huge{でも}} 
+\card{Particle \\ 1.-et cetera; etc.; and the like; and so forth \\ 2.-or something \\ 3.-the likes of} {\large{など} \\ \Huge{等}} 
+\card{Noun \\ 1.-class \\ 2.-Kras (Slovenia); Crass \\ 3.-Class} {\large{} \\ \Huge{クラス}} 
+\card{Noun \\ 1.-(swimming) pool \\ 2.-pool (billiards) \\ 3.-pool (together) \\ 4.-Poole (Britain); Pool \\ 5.-Swimming pool} {\large{} \\ \Huge{プール}} 
+\card{Noun \\ 1.-inside; in \\ 2.-among; within \\ 3.-center (centre); middle \\ 4.-during; while \\ 5.-Naka} {\large{なか} \\ \Huge{中}} 
+\card{Noun \\ 1.-television; TV \\ 2.-TV program; TV programme; TV broadcast \\ 3.-Television} {\large{} \\ \Huge{テレビ}} 
+\card{Noun, No-adjective \\ 1.-coffee \\ 2.-Coffee} {\large{珈琲コーヒー} \\ \Huge{珈琲}} 
+\card{Noun \\ 1.-hotel \\ 2.-Hotel} {\large{} \\ \Huge{ホテル}} 
+\card{Noun \\ 1.-news \\ 2.-News \\ 3.-ニューズ} {\large{} \\ \Huge{ニュース}} 
+\card{Noun, No-adjective \\ 1.-table \\ 2.-Table} {\large{} \\ \Huge{テーブル}} 
+\card{Noun \\ 1.-camera \\ 2.-Camera \\ 3.-キャメラ} {\large{} \\ \Huge{カメラ}} 
+\card{Noun \\ 1.-taxi \\ 2.-Taxicab} {\large{} \\ \Huge{タクシー}} 
+\card{Noun, No-adjective \\ 1.-sport; sports \\ 2.-Sport} {\large{} \\ \Huge{スポーツ}} 
+\card{Noun \\ 1.-radio \\ 2.-Radio \\ 3.-ラヂオ} {\large{} \\ \Huge{ラジオ}} 
+\card{Noun \\ 1.-pen \\ 2.-Pen} {\large{} \\ \Huge{ペン}} 
+\card{Noun \\ 1.-restaurant (esp. Western-style) \\ 2.-Restaurant \\ 3.-レストラント} {\large{} \\ \Huge{レストラン}} 
+\card{Noun, Suru verb \\ 1.-examination; quiz; test \\ 2.-test; tryout; trial \\ 3.-rehearsal (in filming) \\ 4.-Test} {\large{} \\ \Huge{テスト}} 
+\card{Noun \\ 1.-bed \\ 2.-Bed} {\large{} \\ \Huge{ベッド}} 
+\card{Noun \\ 1.-bread; pastries (e.g. croissants); pastry-based products \\ 2.-pan; frying pan \\ 3.-panning (in a film) \\ 4.-Bread} {\large{} \\ \Huge{パン}} 
+\card{Noun \\ 1.-knife \\ 2.-Knife} {\large{} \\ \Huge{ナイフ}} 
+\card{Noun \\ 1.-shirt (underwear); undershirt; singlet \\ 2.-shirt (outerwear, esp. dress shirt) \\ 3.-Shirt} {\large{} \\ \Huge{シャツ}} 
+\card{Noun \\ 1.-tie; necktie \\ 2.-Necktie} {\large{} \\ \Huge{ネクタイ}} 
+\card{Noun \\ 1.-guitar \\ 2.-Guitar} {\large{} \\ \Huge{ギター}} 
+\card{Noun \\ 1.-sweater; jumper \\ 2.-Sweater \\ 3.-スエーター、セエター} {\large{} \\ \Huge{セーター}} 
+\card{Noun \\ 1.-metre; meter \\ 2.-meter; gauge \\ 3.-Rice} {\large{米メートル} \\ \Huge{米}} 
+\card{Noun \\ 1.-apartment building; apartment block; apartment house \\ 2.-apartment \\ 3.-Apartment} {\large{} \\ \Huge{アパート}} 
+\card{Noun \\ 1.-pocket \\ 2.-Pocket} {\large{} \\ \Huge{ポケット}} 
+\card{Noun \\ 1.-butter \\ 2.-Butter} {\large{} \\ \Huge{バター}} 
+\card{Prefix \\ 1.-kilo-; 1000 \\ 2.-kilogram; kilogramme \\ 3.-kilometre; kilometer \\ 4.-kilo-; 1024; 2^10 \\ 5.-Kilo-} {\large{} \\ \Huge{キロ}} 
+\card{Noun \\ 1.-skirt \\ 2.-Skirt} {\large{} \\ \Huge{スカート}} 
+\card{Noun \\ 1.-record (e.g. LP) \\ 2.-record (e.g. in sports) \\ 3.-record (data structure) \\ 4.-Gramophone record} {\large{} \\ \Huge{レコード}} 
+\card{Noun \\ 1.-elevator; lift \\ 2.-elevator (aviation) \\ 3.-Elevator \\ 4.-エレベータ} {\large{} \\ \Huge{エレベーター}} 
+\card{Noun \\ 1.-trousers; pants \\ 2.-Trousers} {\large{} \\ \Huge{ズボン}} 
+\card{Noun \\ 1.-postbox; mail box; pillar box \\ 2.-post; position \\ 3.-post (e.g. goalpost) \\ 4.-post- (e.g. post-Cold War) \\ 5.-Post} {\large{} \\ \Huge{ポスト}} 
+\card{Noun, Suru verb \\ 1.-copy; photocopy \\ 2.-blurb on a book jacket \\ 3.-catch copy \\ 4.-Copy} {\large{} \\ \Huge{コピー}} 
+\card{Noun \\ 1.-shower \\ 2.-Shower} {\large{} \\ \Huge{シャワー}} 
+\card{Noun \\ 1.-handkerchief \\ 2.-Handkerchief \\ 3.-ハンケチ} {\large{} \\ \Huge{ハンカチ}} 
+\card{Adverbial noun, Temporal noun \\ 1.-day before yesterday \\ 2.-Daytime (astronomy)} {\large{おととい} \\ \Huge{一昨日}} 
+\card{Noun \\ 1.-(room) heater; stove \\ 2.-Kitchen stove} {\large{} \\ \Huge{ストーブ}} 
+\card{Noun \\ 1.-tape \\ 2.-Tape} {\large{} \\ \Huge{テープ}} 
+\card{Noun \\ 1.-cup (drinking vessel, measure, brassiere, prize, etc.) \\ 2.-Cup} {\large{} \\ \Huge{カップ}} 
+\card{Noun \\ 1.-tape recorder \\ 2.-Tape recorder \\ 3.-テープレコーダ、テープ・レコーダー、テープ・レコーダ} {\large{} \\ \Huge{テープレコーダー}} 
+\card{Noun \\ 1.-spoon \\ 2.-Spoon \\ 3.-スプン} {\large{} \\ \Huge{スプーン}} 
+\card{Noun \\ 1.-ball-point pen \\ 2.-Ballpoint pen \\ 3.-ボール・ペン} {\large{} \\ \Huge{ボールペン}} 
+\card{Noun \\ 1.-slipper; slippers \\ 2.-Slipper} {\large{} \\ \Huge{スリッパ}} 
+\card{Noun \\ 1.-soy sauce; shoyu \\ 2.-Soy sauce} {\large{しょうゆ} \\ \Huge{醤油}} 
+\card{Wikipedia definition \\ 1.-yes; that is correct \\ 2.-understood; I see; OK; okay \\ 3.-present; here \\ 4.-pardon?; what's that?; come again? \\ 5.-now; here; here you go} {\large{} \\ \Huge{はい}} 
+\card{Noun \\ 1.-pet \\ 2.-trumpet \\ 3.-Pet} {\large{} \\ \Huge{ペット}} 
+\card{Suru verb - irregular \\ 1.-to do; to carry out; to perform \\ 2.-to cause to become; to make (into); to turn (into) \\ 3.-to serve as; to act as; to work as \\ 4.-to wear (clothes, a facial expression, etc.) \\ 5.-to judge as being; to view as being; to think of as; to treat as; to use as} {\large{す} \\ \Huge{為る}} 
+\card{Pronoun \\ 1.-that (indicating something distant from both speaker and listener (in space, time or psychologically), or something understood without naming it directly) \\ 2.-that person \\ 3.-over there \\ 4.-down there (i.e. one's genitals) \\ 5.-period; menses} {\large{あれ} \\ \Huge{彼}} 
+\card{Noun \\ 1.-bus \\ 2.-bath \\ 3.-bass \\ 4.-Bath (Britain); Basse; Buss} {\large{} \\ \Huge{バス}} 
+\card{Noun \\ 1.-first day of the month \\ 2.-first ten days of the lunar month \\ 3.-Tsuitachi} {\large{ついたち} \\ \Huge{一日}} 
+\card{Noun \\ 1.-third day of the month \\ 2.-three days \\ 3.-Mikka} {\large{みっか} \\ \Huge{三日}} 
+\card{Noun \\ 1.-fifth day of the month \\ 2.-five days \\ 3.-Itsuka} {\large{いつか} \\ \Huge{五日}} 
+\card{Noun \\ 1.-second day of the month \\ 2.-two days \\ 3.-Futsuka} {\large{ふつか} \\ \Huge{二日}} 
+\card{Noun \\ 1.-tenth day of the month \\ 2.-ten days \\ 3.-Tooka} {\large{とおか} \\ \Huge{十日}} 
+\card{Noun \\ 1.-sixth day of the month \\ 2.-six days \\ 3.-Muika} {\large{むいか} \\ \Huge{六日}} 
+\card{Noun \\ 1.-eighth day of the month \\ 2.-eight days \\ 3.-Youka} {\large{ようか} \\ \Huge{八日}} 
+\card{Noun \\ 1.-ninth day of the month \\ 2.-nine days \\ 3.-Kokonoka} {\large{ここのか} \\ \Huge{九日}} 
+\card{Kuru verb - special class, intransitive verb \\ 1.-to come (spatially or temporally); to approach; to arrive \\ 2.-to come back; to do ... and come back \\ 3.-to come to be; to become; to get; to grow; to continue \\ 4.-to come from; to be caused by; to derive from \\ 5.-to come to (i.e. "when it comes to spinach ...")} {\large{く} \\ \Huge{来る}} 
+\card{Noun, No-adjective \\ 1.-behind; rear \\ 2.-after; later \\ 3.-remainder; the rest \\ 4.-more (e.g. five more minutes); left \\ 5.-also; in addition} {\large{あと} \\ \Huge{後}} 
+\card{Noun \\ 1.-one person \\ 2.-being alone; being by oneself \\ 3.-being single; being unmarried \\ 4.-by oneself; alone \\ 5.-just; only; simply} {\large{ひとり} \\ \Huge{一人}} 
+\card{Noun \\ 1.-two persons; two people; pair; couple} {\large{ふたり} \\ \Huge{二人}} 
+\card{Noun \\ 1.-near; close; beside; vicinity; proximity; besides; while \\ 2.-third person} {\large{そば} \\ \Huge{側}} 
+\card{Other forms \\ 1.-no; nay \\ 2.-well; er; why \\ 3.-you're welcome; not at all; don't mention it} {\large{いいえ} \\ \Huge{否}} 
+\card{Noun \\ 1.-map \\ 2.-Map} {\large{ちず} \\ \Huge{地図}} 
+\card{I-adjective \\ 1.-spicy; hot \\ 2.-salty \\ 3.-harsh (criticism); severe (punishment); strict \\ 4.-painful; bitter; difficult; tough} {\large{から} \\ \Huge{辛い}} 
+\card{Noun, Noun - used as a suffix \\ 1.-gate \\ 2.-branch of learning based on the teachings of a single master \\ 3.-division; phylum \\ 4.-counter for cannons} {\large{もん} \\ \Huge{門}} 
+\card{Noun \\ 1.-corner; edge \\ 2.-(street) corner; turning \\ 3.-rough edges (of one's character, words, etc.); abrasiveness; harshness; sharpness} {\large{かど} \\ \Huge{角}} 
+\card{Adverbial noun, Noun \\ 1.-every month; each month; monthly} {\large{まいつき} \\ \Huge{毎月}} 
+\card{Numeric \\ 1.-seven \\ 2.-hepta-} {\large{しち} \\ \Huge{七}} 
+\card{Noun \\ 1.-aunt} {\large{おば} \\ \Huge{伯母さん}} 
+\card{Numeric \\ 1.-four} {\large{し} \\ \Huge{四}} 
+\card{Noun \\ 1.-bath} {\large{ふろ} \\ \Huge{お風呂}} 
+\card{Noun \\ 1.-alcohol; sake} {\large{さけ} \\ \Huge{お酒}} 
+\card{Noun, No-adjective \\ 1.-entrance; entry; gate; approach; mouth} {\large{いりぐち} \\ \Huge{入口}} 
+\card{Noun \\ 1.-exit; gateway; way out \\ 2.-outlet; vent; leak} {\large{でぐち} \\ \Huge{出口}} 
+\card{Noun \\ 1.-plate; dish} {\large{さら} \\ \Huge{お皿}} 
+\card{Noun \\ 1.-chicken meat; bird meat} {\large{とりにく} \\ \Huge{鳥肉}} 
+\card{Pronoun \\ 1.-this (indicating an item near the speaker, the action of the speaker, or the current topic) \\ 2.-this person (usu. indicating someone in one's in-group) \\ 3.-now \\ 4.-here \\ 5.-I (me)} {\large{こ} \\ \Huge{此れ}} 
+\card{Pronoun \\ 1.-here (place physically close to the speaker, place pointed by the speaker while explaining); this place \\ 2.-these last (followed by a duration noun and a past sentence: time period before the present time of the speaker) \\ 3.-these next ... (followed by a duration noun and a non past sentence: time period after the present time of the speaker); the next ...} {\large{ここ} \\ \Huge{此処}} 
+\card{Noun, Suffix \\ 1.-in front (of); before (e.g. the house) \\ 2.-ago; before; previously; prior; (minutes) to (the hour) \\ 3.-front (of something); head (e.g. of a line); fore part \\ 4.-front (e.g. seat); previous (e.g. entry in a list); prior; former \\ 5.-(in the) presence (of); in front (of someone)} {\large{まえ} \\ \Huge{前}} 
+\card{Adverb \\ 1.-now; soon; shortly; before long; presently \\ 2.-already; yet; by now; (not) anymore \\ 3.-further; more; again; another; the other \\ 4.-tsk; dammit; jeez; come on; what the hell \\ 5.-もー} {\large{} \\ \Huge{もう}} 
+\card{Adverb \\ 1.-how; in what way; how about} {\large{どう} \\ \Huge{如何}} 
+\card{Noun \\ 1.-direction; way \\ 2.-person; lady; gentleman \\ 3.-method of; manner of; way of \\ 4.-care of ... \\ 5.-person in charge of ...} {\large{かた} \\ \Huge{方}} 
+\card{Adverb \\ 1.-still; as yet; hitherto; only \\ 2.-not yet \\ 3.-more; besides \\ 4.-unfinished; incomplete; not yet finished with} {\large{ま} \\ \Huge{未だ}} 
+\card{Adverb \\ 1.-(some) more; even more; longer; further} {\large{} \\ \Huge{もっと}} 
+\card{Pronoun \\ 1.-when; at what time; how soon \\ 2.-normal times; ordinary days} {\large{いつ} \\ \Huge{何時}} 
+\card{Noun \\ 1.-party (gathering, celebration, etc.) \\ 2.-party (group, political, etc.) \\ 3.-パーティ} {\large{} \\ \Huge{パーティー}} 
+\card{Noun, No-adjective \\ 1.-other (place, thing, person); the rest \\ 2.-outside; beyond \\ 3.-nothing except; nothing but; nothing apart from; nothing aside from; no choice (but to) \\ 4.-besides...; in addition to...} {\large{ほか} \\ \Huge{他}} 
+\card{Noun, No-adjective \\ 1.-next; following; subsequent \\ 2.-stage; station} {\large{つぎ} \\ \Huge{次}} 
+\card{Noun \\ 1.-door (Western-style, car, etc.) \\ 2.-ドアー} {\large{} \\ \Huge{ドア}} 
+\card{Pronoun \\ 1.-which way; which direction; where \\ 2.-which one (esp. of two alternatives) \\ 3.-who} {\large{どちら} \\ \Huge{何方}} 
+\card{Pronoun \\ 1.-someone; somebody} {\large{だれ} \\ \Huge{誰か}} 
+\card{Godan verb with ku ending, intransitive verb \\ 1.-to open (e.g. doors) \\ 2.-to open (e.g. business, etc.) \\ 3.-to be empty \\ 4.-to be vacant; to be available; to be free \\ 5.-to be open (e.g. neckline, etc.)} {\large{あ} \\ \Huge{開く}} 
+\card{Adverb \\ 1.-please; kindly; I beg of you \\ 2.-by all means; feel free; you are welcome \\ 3.-here you are} {\large{} \\ \Huge{どうぞ}} 
+\card{Pre-noun adjectival \\ 1.-this sort of; this kind of; like this; such} {\large{} \\ \Huge{こんな}} 
+\card{Noun \\ 1.-below; down; under; younger (e.g. daughter) \\ 2.-bottom \\ 3.-beneath; underneath \\ 4.-just after; right after \\ 5.-inferiority; one's inferior (i.e. one's junior)} {\large{した} \\ \Huge{下}} 
+\card{Conjunction \\ 1.-and; and then; thus; and now; and finally} {\large{そ} \\ \Huge{然して}} 
+\card{Adverb, Adverb taking the 'to' particle, Suru verb \\ 1.-slowly; unhurriedly; without haste; leisurely; at one's leisure \\ 2.-easily (e.g. in time); well; sufficiently; amply; with time to spare \\ 3.-well (e.g. sleep); comfortably} {\large{} \\ \Huge{ゆっくり}} 
+\card{Noun \\ 1.-coat \\ 2.-coating} {\large{} \\ \Huge{コート}} 
+\card{Conjunction \\ 1.-come; come now; come along; go on; hurry up \\ 2.-well; who knows; I don't know...; uh; hmm \\ 3.-well now; let's see; there we go; all right \\ 4.-about that; you see \\ 5.-さー、さぁ} {\large{} \\ \Huge{さあ}} 
+\card{Adverb \\ 1.-thank you; thanks \\ 2.-much (thanks); very (sorry); quite (regret) \\ 3.-quite; really; mostly \\ 4.-somehow \\ 5.-in spite of oneself; try as one might; no matter how hard one may try (to, not to)} {\large{} \\ \Huge{どうも}} 
+\card{Conjunction \\ 1.-then; well; so; well then \\ 2.-be; is \\ 3.-じゃ} {\large{} \\ \Huge{じゃあ}} 
+\card{Noun \\ 1.-glass (drinking vessel); tumbler \\ 2.-cop (police officer)} {\large{} \\ \Huge{コップ}} 
+\card{Expression \\ 1.-and then; after that} {\large{そ} \\ \Huge{其れから}} 
+\card{Noun or verb acting prenominally \\ 1.-yes; that is correct; right \\ 2.-um; errr \\ 3.-huh? \\ 4.-grrr; gah; Must I? \\ 5.-good} {\large{} \\ \Huge{ええ}} 
+\card{Noun \\ 1.-notebook; copy-book; exercise book \\ 2.-note; noting down \\ 3.-(musical) note \\ 4.-notebook computer; laptop} {\large{} \\ \Huge{ノート}} 
+\card{Noun \\ 1.-button} {\large{} \\ \Huge{ボタン}} 
+\card{Noun \\ 1.-department store \\ 2.-department} {\large{} \\ \Huge{デパート}} 
+\card{Noun \\ 1.-toilet; restroom; bathroom; lavatory} {\large{} \\ \Huge{トイレ}} 
+\card{Expression \\ 1.-well then ... \\ 2.-in that situation; in which case} {\large{そ} \\ \Huge{其れでは}} 
+\card{Noun \\ 1.-fork \\ 2.-folk; folk song \\ 3.-hawk \\ 4.-ホーク} {\large{} \\ \Huge{フォーク}} 
+\card{Adverbial noun, Temporal noun \\ 1.-day after tomorrow} {\large{あさって} \\ \Huge{明後日}} 
+\card{Pronoun \\ 1.-which (of three or more) \\ 2.-whichever; any \\ 3.-well; now; let me see} {\large{ど} \\ \Huge{何れ}} 
+\card{Noun \\ 1.-20 years old \\ 2.-twenty} {\large{はたち} \\ \Huge{二十歳}} 
+\card{Pronoun \\ 1.-that way (direction distant from both speaker and listener); over there; yonder \\ 2.-that one (something physically distant from both speaker and listener, or something not visible but known by both speaker and listener); that \\ 3.-that person (someone physically distant from both speaker and listener, or someone not present but known by both speaker and listener) \\ 4.-there (place distant from both speaker and listener); over there; foreign country (esp. a Western nation)} {\large{あちら} \\ \Huge{彼方}} 
+\card{Conjunction \\ 1.-then; well; so; well then \\ 2.-if not ...; unless ...} {\large{} \\ \Huge{では}} 
+\card{Noun \\ 1.-film \\ 2.-フイルム} {\large{} \\ \Huge{フィルム}} 
+\card{I-adjective \\ 1.-lukewarm; tepid \\ 2.-lenient \\ 3.-slow; stupid} {\large{ぬる} \\ \Huge{温い}} 
+\card{Noun \\ 1.-calendar \\ 2.-calender (machine for flattening things) \\ 3.-カレンダ} {\large{} \\ \Huge{カレンダー}} 
+\card{Noun \\ 1.-fourth day of the month \\ 2.-four days} {\large{よっか} \\ \Huge{四日}} 
+\card{Adverbial noun \\ 1.-seventh day of the month \\ 2.-seven days} {\large{なのか} \\ \Huge{七日}} 
+\card{Conjunction \\ 1.-and; like that} {\large{そ} \\ \Huge{然うして}} 
+\card{Noun \\ 1.-gram; gramme} {\large{グラム} \\ \Huge{瓦}} 
+\card{Noun \\ 1.-kilogram; kilogramme} {\large{瓩キログラム} \\ \Huge{瓩}} 
+\card{Adverb \\ 1.-immediately; right away; at once; instantly} {\large{す} \\ \Huge{直ぐに}} 
+\card{Noun \\ 1.-one month} {\large{ひとつき} \\ \Huge{一月}} 
+\card{Other forms \\ 1.-say; well; um; er \\ 2.-あのー、あのう} {\large{} \\ \Huge{あの}} 
+\card{Noun \\ 1.-match (contest) \\ 2.-to match with; to go well with \\ 3.-Match} {\large{} \\ \Huge{マッチ}} 
+\card{Temporal noun \\ 1.-autumn; fall} {\large{あき} \\ \Huge{秋}} 
+\card{Noun \\ 1.-curry (esp. Japanese curry) \\ 2.-rice and curry} {\large{咖哩カレー} \\ \Huge{咖哩}} 
+\card{Noun \\ 1.-dictionary} {\large{じびき} \\ \Huge{字引}} 
+\card{Noun \\ 1.-match (to light fire with)} {\large{燐寸マッチ} \\ \Huge{燐寸}} 
+\card{Numeric \\ 1.-three} {\large{サン} \\ \Huge{三}} 
+\card{Noun \\ 1.-radio-cassette player} {\large{} \\ \Huge{ラジカセ}} 
+\card{Noun \\ 1.-polyethylene terephthalate; PET \\ 2.-positron emission tomography; PET} {\large{} \\ \Huge{ＰＥＴ}} 
+
+\end{document}

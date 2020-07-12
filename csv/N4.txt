@@ -1,0 +1,579 @@
+0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31
+JLPT-N4	1	上げる	あ	Ichidan verb, Transitive verb	1.-to raise; to elevate	2.-to do up (one's hair)	3.-to fly (a kite, etc.); to launch (fireworks, etc.); to surface (a submarine, etc.)	4.-to land (a boat)	5.-to deep-fry	6.-to show someone (into a room)	7.-to give	8.-to send someone (away)	9.-to enrol (one's child in school); to enroll	10.-to increase (price, quality, status, etc.); to develop (talent, skill); to improve	11.-to make (a loud sound); to raise (one's voice)	12.-to earn (something desirable)	13.-to praise	14.-to give (an example, etc.); to cite	15.-to summon up (all of one's energy, etc.)	16.-to arrest	17.-to nominate	18.-to summon (for geishas, etc.)	19.-to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)	20.-to bear (a child)	21.-to conduct (a ceremony, esp. a wedding)	22.-(of the tide) to come in	23.-to vomit	24.-to do for (the sake of someone else)	25.-to complete ...	26.-to humbly do ...	27.-Deep frying
+JLPT-N4	2	腕	うで	Noun	1.-arm	2.-skill; efforts; ability	3.-Ude	4.-Arm																							
+JLPT-N4	3	人形	にんぎょう	Noun	1.-doll; puppet; figure	2.-Ningyou	3.-Doll																								
+JLPT-N4	4	文化	ぶんか	Noun	1.-culture; civilization; civilisation	2.-Bunka era (1804.2.11-1818.4.22)	3.-Bunka	4.-Culture																							
+JLPT-N4	5	海岸	かいがん	Noun, No-adjective	1.-coast; beach	2.-Kaigan	3.-Coast																								
+JLPT-N4	6	産業	さんぎょう	Noun, No-adjective	1.-industry	2.-livelihood; occupation	3.-Sangyou	4.-Industry																							
+JLPT-N4	7	動物園	どうぶつえん	Noun	1.-zoo; zoological gardens	2.-Doubutsuen	3.-Zoo																								
+JLPT-N4	8	美術館	びじゅつかん	Noun	1.-art gallery; art museum	2.-Bijutsukan	3.-Art museum																								
+JLPT-N4	9	水道	すいどう	Noun	1.-water supply; water service; waterworks	2.-channel; strait	3.-water course; waterway	4.-Suidou	5.-Water supply																						
+JLPT-N4	10	飛行場	ひこうじょう	Noun	1.-airfield; airport	2.-Hikoujou	3.-Aerodrome																								
+JLPT-N4	11	葡萄	ぶどう	Noun	1.-grape; grapevine	2.-Budou	3.-Grape																								
+JLPT-N4	12	事故	じこ	Noun	1.-accident; incident; trouble	2.-circumstances; reasons	3.-Accident																								
+JLPT-N4	13	息子	むすこ	Noun	1.-son	2.-penis	3.-Son																								
+JLPT-N4	14	生活	せいかつ	Noun, Suru verb	1.-living; life (one's daily existence); livelihood	2.-Seikatsu																									
+JLPT-N4	15	注意	ちゅうい	Noun, Suru verb	1.-caution; being careful; attention (heed); warning; advice	2.-Attention																									
+JLPT-N4	16	生きる	い	Ichidan verb, intransitive verb	1.-to live; to exist	2.-to make a living; to subsist	3.-to be in effect; to be in use; to function	4.-to come to life; to be enlivened	5.-to be safe (in baseball, go, etc.)	6.-To Live (film)																					
+JLPT-N4	17	女性	じょせい	Noun, No-adjective	1.-woman; female	2.-feminine gender	3.-Woman																								
+JLPT-N4	18	船	ふね	Noun	1.-ship; boat; watercraft; vessel; seaplane	2.-tank; tub; vat; trough	3.-counter for boat-shaped containers (e.g. of sashimi)	4.-Ship																							
+JLPT-N4	19	説明	せつめい	Noun, Suru verb, No-adjective	1.-explanation; exposition	2.-Explanation																									
+JLPT-N4	20	警察	けいさつ	Noun, No-adjective	1.-police	2.-police officer	3.-police station	4.-Police																							
+JLPT-N4	21	危険	きけん	Noun, Na-adjective	1.-danger; peril; hazard	2.-risk	3.-Danger																								
+JLPT-N4	22	世界	せかい	Noun	1.-the world; society; the universe	2.-sphere; circle; world	3.-renowned; world-famous; well-known outside of Japan	4.-realm governed by one Buddha; space	5.-World																						
+JLPT-N4	23	戦争	せんそう	Noun, Suru verb	1.-war	2.-fighting; fierce competition	3.-War																								
+JLPT-N4	24	小説	しょうせつ	Noun, No-adjective	1.-novel; (short) story	2.-Novel																									
+JLPT-N4	25	関係	かんけい	Noun, Suru verb, No-adjective	1.-relation; relationship; connection	2.-participation; involvement; concern	3.-influence; effect	4.-sexual relations; sexual relationship	5.-related to; connected to	6.-Relation																					
+JLPT-N4	26	研究	けんきゅう	Noun, Suru verb	1.-study; research; investigation	2.-Research																									
+JLPT-N4	27	会議	かいぎ	Noun, Suru verb, No-adjective	1.-meeting; conference; session; assembly; council; convention; congress	2.-Meeting																									
+JLPT-N4	28	音	おと	Noun, Noun - used as a suffix	1.-sound; noise; report	2.-note	3.-fame	4.-Chinese-derived character reading	5.-Sound																						
+JLPT-N4	29	普通	ふつう	No-adjective	1.-general; ordinary; usual	2.-normally; generally; usually	3.-really	4.-local train; train that stops at every station	5.-Normality (behavior)																						
+JLPT-N4	30	湖	みずうみ	Noun	1.-lake	2.-Lake																									
+JLPT-N4	31	夢	ゆめ	Noun	1.-dream	2.-Dream																									
+JLPT-N4	32	空港	くうこう	Noun	1.-airport	2.-Airport																									
+JLPT-N4	33	数学	すうがく	Noun	1.-mathematics; arithmetic	2.-Mathematics																									
+JLPT-N4	34	教育	きょういく	Noun, Suru verb	1.-education; schooling; training; instruction; teaching; upbringing	2.-culture; cultivation; education	3.-Education																								
+JLPT-N4	35	赤ちゃん	あか	Noun	1.-baby; infant	2.-Infant																									
+JLPT-N4	36	自由	じゆう	Expression, Na-adjective, Noun	1.-freedom; liberty; as it pleases you	2.-Liberty																									
+JLPT-N4	37	火	ひ	Noun, Noun - used as a suffix	1.-fire; flame; blaze	2.-Fire																									
+JLPT-N4	38	森	もり	Noun	1.-forest	2.-shrine grove	3.-Mori																								
+JLPT-N4	39	法律	ほうりつ	Noun, No-adjective	1.-law	2.-Statute																									
+JLPT-N4	40	気分	きぶん	Noun	1.-feeling; mood	2.-Mood (psychology)																									
+JLPT-N4	41	壁	かべ	Noun	1.-wall; partition	2.-barrier; obstacle	"3.-Chinese ""Wall"" constellation (one of the 28 mansions)"	4.-Wall																							
+JLPT-N4	42	田舎	いなか	Noun, No-adjective	1.-rural area; countryside; the sticks	2.-hometown	3.-Rural area																								
+JLPT-N4	43	気	き	Noun	1.-spirit; mind; heart	2.-nature; disposition	3.-motivation; intention	4.-mood; feelings	5.-ambience; atmosphere; mood	6.-Qi																					
+JLPT-N4	44	男性	だんせい	Noun, No-adjective	1.-man; male	2.-masculine gender	3.-Man																								
+JLPT-N4	45	地震	じしん	Noun	1.-earthquake	2.-Earthquake																									
+JLPT-N4	46	人口	じんこう	Noun	1.-population	2.-common talk	3.-Population																								
+JLPT-N4	47	故障	こしょう	Noun, Suru verb	1.-breakdown; failure; fault; accident; out of order	2.-damage; hurt	3.-objection; protest	4.-Failure																							
+JLPT-N4	48	残念	ざんねん	Na-adjective, Noun	1.-deplorable; regrettable; disappointing; vexing; unfortunate	2.-Regret (emotion)																									
+JLPT-N4	49	島	しま	Noun	1.-island	2.-territory (of a sex worker, organized crime gang, etc.); turf	3.-Island																								
+JLPT-N4	50	歴史	れきし	Noun, No-adjective	1.-history	2.-History																									
+JLPT-N4	51	教会	きょうかい	Noun	1.-church; congregation	2.-Christian Church																									
+JLPT-N4	52	社会	しゃかい	Noun	1.-society; public; community; the world	2.-social studies	3.-Society																								
+JLPT-N4	53	住所	じゅうしょ	Noun	1.-address (e.g. of house); residence; domicile	2.-Address (geography)																									
+JLPT-N4	54	工場	こうじょう	Noun	1.-factory; plant; mill; workshop	2.-Factory																									
+JLPT-N4	55	趣味	しゅみ	Noun	1.-hobby; pastime	2.-tastes; preference; liking	3.-Hobby																								
+JLPT-N4	56	経済	けいざい	Noun, Suru verb	1.-economics; business; finance; economy	2.-Economy																									
+JLPT-N4	57	台風	たいふう	Noun	1.-typhoon; hurricane	2.-Typhoon																									
+JLPT-N4	58	卒業	そつぎょう	Noun, Suru verb	1.-graduation; completion (of a course)	2.-moving on (from); outgrowing (something); leaving (a group, company, etc.); quitting	3.-Graduation																								
+JLPT-N4	59	雲	くも	Noun	1.-cloud	2.-Cloud																									
+JLPT-N4	60	科学	かがく	Noun	1.-science	2.-Science																									
+JLPT-N4	61	科学	かがく	Noun	1.-science	2.-Science																									
+JLPT-N4	62	光	ひかり	Noun	1.-light	2.-illumination; ray; beam; gleam; glow	3.-happiness; hope	4.-influence; power	5.-vision; eyesight	6.-Light																					
+JLPT-N4	63	政治	せいじ	Noun	1.-politics; government	2.-Politics																									
+JLPT-N4	64	特別	とくべつ	Na-adjective, No-adjective, Adverb, Noun	1.-special; particular; extraordinary; exceptional; especial	2.-Particular																									
+JLPT-N4	65	水泳	すいえい	Noun, Suru verb, No-adjective	1.-swimming	2.-Human swimming																									
+JLPT-N4	66	講義	こうぎ	Noun, Suru verb	1.-lecture	2.-Lecture																									
+JLPT-N4	67	指	ゆび	Noun	1.-finger; toe; digit	2.-Finger																									
+JLPT-N4	68	生産	せいさん	Noun, Suru verb	1.-production; manufacture	2.-Outline of industrial organization																									
+JLPT-N4	69	会話	かいわ	Noun, Suru verb	1.-conversation	2.-Conversation																									
+JLPT-N4	70	玩具	おもちゃ	Noun	1.-toy; plaything	2.-Toy																									
+JLPT-N4	71	季節	きせつ	Noun, No-adjective	1.-season; time of year	2.-Season																									
+JLPT-N4	72	翻訳	ほんやく	Noun, Suru verb	1.-translation	2.-deciphering; decoding	3.-translation	4.-Translation																							
+JLPT-N4	73	貿易	ぼうえき	Noun, Suru verb	1.-trade (foreign)	2.-International trade																									
+JLPT-N4	74	文学	ぶんがく	Noun	1.-literature	2.-Literature																									
+JLPT-N4	75	葉	は	Noun	1.-leaf; blade (of grass); (pine) needle	2.-Leaf																									
+JLPT-N4	76	交通	こうつう	Noun, Suru verb	1.-traffic; transportation; communication; exchange (of ideas, etc.); intercourse	2.-Transport																									
+JLPT-N4	77	遊び	あそ	Noun, Noun - used as a suffix	1.-playing	2.-play (margin between on and off, gap before pressing button or lever has an effect)	3.-Play (activity)																								
+JLPT-N4	78	道具	どうぐ	Noun	1.-tool; implement; instrument; utensil; apparatus; device	2.-means	3.-furniture	4.-Tool																							
+JLPT-N4	79	入学	にゅうがく	Noun, Suru verb	1.-entry to school or university; matriculation; enrolment (in university, etc.) (enrollment)	2.-Matriculation																									
+JLPT-N4	80	背中	せなか	Noun	1.-back (of body)	2.-Human back																									
+JLPT-N4	81	発音	はつおん	Noun, Suru verb	1.-pronunciation	2.-production of sound	3.-Pronunciation																								
+JLPT-N4	82	指輪	ゆびわ	Noun	1.-(finger) ring	2.-Ring (jewellery)																									
+JLPT-N4	83	医学	いがく	Noun	1.-medical science; medicine	2.-Medicine																									
+JLPT-N4	84	漫画	まんが	Noun	1.-cartoon; comic; comic strip; manga	2.-Comics	3.-マンガ																								
+JLPT-N4	85	鏡	かがみ	Noun	1.-mirror; looking-glass	2.-barrel head	3.-page added at the beginning of a document mentioning its purpose, date, author, etc.	4.-mirror-shaped mochi	5.-Mirror																						
+JLPT-N4	86	電報	でんぽう	Noun	1.-telegram	2.-Telegraphy																									
+JLPT-N4	87	校長	こうちょう	Noun	1.-principal; headmaster	2.-Head teacher																									
+JLPT-N4	88	市民	しみん	Noun	1.-citizen; citizenry; public	2.-city inhabitant; townspeople	3.-bourgeoisie; middle class	4.-Citizenship																							
+JLPT-N4	89	郊外	こうがい	Noun	1.-suburb; residential area on the outskirt of a city; commuter belt	2.-Suburb																									
+JLPT-N4	90	砂	すな	Noun	1.-sand; grit	2.-gold dust; silver dust	3.-Sand																								
+JLPT-N4	91	手袋	てぶくろ	Noun	1.-glove; mitten; mitt	2.-Glove																									
+JLPT-N4	92	絹	きぬ	Noun	1.-silk	2.-Silk																									
+JLPT-N4	93	日記	にっき	Noun	1.-diary; journal	2.-Diary																									
+JLPT-N4	94	文法	ぶんぽう	Noun, No-adjective	1.-grammar; syntax	2.-Grammar																									
+JLPT-N4	95	糸	いと	Noun, Noun - used as a suffix	1.-thread; yarn; string	2.-Yarn																									
+JLPT-N4	96	神社	じんじゃ	Noun	1.-Shinto shrine	2.-Shinto shrine																									
+JLPT-N4	97	小学校	しょうがっこう	Noun	1.-primary school; elementary school; grade school	2.-Primary school																									
+JLPT-N4	98	展覧会	てんらんかい	Noun	1.-exhibition	2.-Art exhibition																									
+JLPT-N4	99	駐車場	ちゅうしゃじょう	Noun	1.-parking lot; car park; carpark; parking garage	2.-Parking lot																									
+JLPT-N4	100	先輩	せんぱい	Noun	1.-senior (at work or school); superior; elder; older graduate; progenitor; old-timer	2.-Senpai and kōhai																									
+JLPT-N4	101	西洋	せいよう	Noun	1.-the West; the Occident; Western countries	2.-Western world																									
+JLPT-N4	102	坂	さか	Noun	1.-slope; hill	2.-Grade (slope)																									
+JLPT-N4	103	注射	ちゅうしゃ	Noun, Suru verb	1.-injection	2.-Injection (medicine)																									
+JLPT-N4	104	乗り物	のもの	Noun	1.-vehicle; conveyance; transport	2.-ride (playground, fair, carnival); playground facility	3.-Vehicle																								
+JLPT-N4	105	旅館	りょかん	Noun	1.-ryokan; traditional inn; Japanese-style lodging, usu. professionally-run	2.-Ryokan (Japanese inn)																									
+JLPT-N4	106	林	はやし	Noun	1.-woods; forest; copse; thicket	2.-bunch; line (of something); collection	3.-Hayashi																								
+JLPT-N4	107	布団	布団ふとん	Noun	1.-futon; Japanese bedding consisting of a mattress and a duvet	2.-round cushion used for Zen meditation (traditionally made of woven bulrush leaves)	3.-Futon																								
+JLPT-N4	108	研究室	けんきゅうしつ	Noun	1.-laboratory	2.-seminar room	3.-professor's office	4.-Laboratory																							
+JLPT-N4	109	会議室	かいぎしつ	Noun	1.-conference room; council room	2.-Conference hall																									
+JLPT-N4	110	柔道	じゅうどう	Noun	1.-judo	2.-Judo																									
+JLPT-N4	111	中学校	ちゅうがっこう	Noun	1.-junior high school; middle school; lower secondary school	2.-Middle school																									
+JLPT-N4	112	高等学校	こうとうがっこう	Noun	1.-senior high school; high school	2.-High school																									
+JLPT-N4	113	公務員	こうむいん	Noun	1.-government worker; public servant; civil servant	2.-Civil service																									
+JLPT-N4	114	花見	はなみ	Noun, Suru verb	1.-cherry blossom viewing; flower viewing	2.-Hanami																									
+JLPT-N4	115	辞典	じてん	Noun	1.-dictionary; lexicon	2.-Dictionary																									
+JLPT-N4	116	心	こころ	Noun	1.-mind; heart; spirit	2.-the meaning of a phrase (riddle, etc.)	3.-Mind																								
+JLPT-N4	117	力	ちから	Noun	1.-force; strength; might; vigour (vigor); energy	2.-capability; ability; proficiency; capacity; faculty	3.-efficacy; effect	4.-effort; endeavours (endeavors); exertions	5.-power; authority; influence; good offices; agency	6.-support; help; aid; assistance	7.-stress; emphasis	8.-means; resources	9.-Force																		
+JLPT-N4	118	喧嘩	けんか	Noun, Suru verb	1.-quarrel; brawl; fight; squabble; scuffle; argument	2.-Brawling (legal definition)																									
+JLPT-N4	119	天気予報	てんきよほう	Noun	1.-weather forecast; weather report	2.-Weather forecasting																									
+JLPT-N4	120	髭	ひげ	Noun	1.-moustache; beard; whiskers	2.-whiskers (on a cat, etc.); feelers (on an insect, etc.); (chin) tuft	3.-extremely short pulse appearing on an electrical signal	4.-Beard																							
+JLPT-N4	121	押し入れ	おい	Noun	1.-closet	2.-Closet																									
+JLPT-N4	122	味噌	みそ	Noun	1.-miso; fermented condiment usu. made from soybeans	2.-innards (from crabs, shrimps, etc.) resembling miso	3.-key (main) point; good part (of something)	4.-weakling; weak person	5.-try	6.-Miso																					
+JLPT-N4	123	皆	みんな	Adverb, Noun	1.-all; everyone; everybody	2.-everything																									
+JLPT-N4	124	明日	あした	Temporal noun	1.-tomorrow	2.-near future																									
+JLPT-N4	125	掛ける	か	Ichidan verb, Transitive verb	1.-to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from); to hoist (e.g. sail); to raise (e.g. flag)	2.-to put on (e.g. a blanket); to put on top of; to cover; to lay; to spread	3.-to put on (glasses, etc.); to wear (a necklace, etc.)	4.-to make (a call)	5.-to spend (time, money); to expend; to use	6.-to pour (liquid) onto; to sprinkle (powder or spices) onto; to splash; to throw (e.g. water) onto	7.-to turn on (an engine, radio, etc.); to set (a dial, an alarm clock, etc.); to put on (a DVD, a song, etc.)	8.-to cause (somebody inconvenience, trouble, etc.); to burden (someone); to impose	9.-to multiply (arithmetic operation)	10.-to secure (e.g. lock)	11.-to take a seat; to sit; to rest (something on something else); to support (something on something else)	12.-to bind	13.-to wager; to bet; to risk; to stake; to gamble	14.-to put an effect (spell, anaesthetic, etc.) on	15.-to hold (a play, festival, etc.)	16.-to hold an emotion for (pity, hope, etc.)	17.-to argue (in court); to deliberate (in a meeting); to present (e.g. idea to a conference, etc.)	18.-to increase further	19.-to catch (in a trap, etc.)	20.-to set atop	21.-to erect (a makeshift building)	22.-to apply (insurance)	23.-to pun (on a word); to use (a word) as a pivot word; to play on words	24.-to be partway doing ...; to begin (but not complete) ...; to be about to ...	25.-to address (someone); to direct (something, to someone); to do (something, to someone)		
+JLPT-N4	126	降りる	お	Ichidan verb, intransitive verb	1.-to descend (e.g. a mountain); to go down; to come down	2.-to alight (e.g. from bus); to get off; to disembark; to dismount	3.-to step down; to retire; to give up; to quit; to fold	4.-to be granted; to be issued; to be given	5.-to form (of frost, dew, mist, etc.)	6.-to be passed (from the body; e.g. of a roundworm)																					
+JLPT-N4	127	彼	かれ	Pronoun	1.-he; him	2.-boyfriend																									
+JLPT-N4	128	客	きゃく	Noun	1.-guest; visitor	2.-customer; client; shopper; spectator; audience; tourist; sightseer; passenger	3.-counter for containers used to entertain guests	4.-Kyaku																							
+JLPT-N4	129	祖父	そふ	Noun, No-adjective	1.-grandfather	2.-old man	3.-kyogen mask used for the role of an old man	4.-Sofu																							
+JLPT-N4	130	高校	こうこう	Noun	1.-senior high school; high school	2.-Koukou																									
+JLPT-N4	131	近所	きんじょ	Noun, No-adjective	1.-neighbourhood; neighborhood	2.-Kinjo																									
+JLPT-N4	132	番組	ばんぐみ	Noun	1.-program (e.g. TV); programme	2.-Bangumi																									
+JLPT-N4	133	見物	けんぶつ	Noun, Suru verb	1.-sightseeing; watching; viewing	2.-sightseer; watcher; spectator	3.-Kenbutsu																								
+JLPT-N4	134	亜米利加	亜米利加アメリカ	Noun	1.-America	2.-United States of America	3.-America																								
+JLPT-N4	135	彼女	かのじょ	Pronoun	1.-she; her	2.-girlfriend																									
+JLPT-N4	136	思う	おも	Godan verb with u ending, Transitive verb	1.-to think; to consider; to believe; to reckon	2.-to think (of doing); to plan (to do)	3.-to judge; to assess; to regard	4.-to imagine; to suppose; to dream	5.-to expect; to look forward to	6.-to feel; to be (in a state of mind); to desire; to want	7.-to recall; to remember																				
+JLPT-N4	137	僕	ぼく	Pronoun	1.-I; me	2.-you	3.-manservant																								
+JLPT-N4	138	必要	ひつよう	Na-adjective	1.-necessary; needed; essential; indispensable	2.-necessity; need; requirement																									
+JLPT-N4	139	見える	み	Ichidan verb, intransitive verb	1.-to be seen; to be in sight	2.-to look; to seem; to appear	3.-to come																								
+JLPT-N4	140	考える	かんが	Ichidan verb, Transitive verb	1.-to think (about, of); to think over; to ponder; to contemplate; to reflect (on); to meditate (on)	2.-to consider; to bear in mind; to allow for; to take into consideration	3.-to think (that); to believe; to hold (a view); to judge; to conclude; to suspect	4.-to intend (to do); to think of (doing); to plan	5.-to predict; to anticipate; to expect; to imagine	6.-to come up with; to think up; to contrive; to devise	7.-to consider (as); to regard (as); to look on (as); to take; to view																				
+JLPT-N4	141	為	ため	Noun	1.-good; advantage; benefit; welfare	2.-sake; purpose; objective; aim	3.-consequence; result; effect	4.-affecting; regarding; concerning																							
+JLPT-N4	142	始める	はじ	Ichidan verb, Transitive verb	1.-to start; to begin; to commence; to initiate; to originate	2.-to start up (a business, society, etc.); to open (e.g. a store); to establish	3.-to start ...; to begin to ...																								
+JLPT-N4	143	受ける	う	Ichidan verb, Transitive verb	1.-to receive; to get	2.-to catch (e.g. a ball)	3.-to be struck by (wind, waves, sunlight, etc.)	4.-to sustain (damage); to incur (a loss); to suffer (an injury); to feel (influence)	5.-to undergo (e.g. surgery); to take (a test); to accept (a challenge)	6.-to be given (e.g. life, talent)	7.-to find funny; to find humorous; to be amused (by)	8.-to follow; to succeed; to be descended from	9.-to face (south, etc.)	10.-to be modified by	11.-to obtain (a pawned item, etc.) by paying a fee	12.-to be well-received; to become popular; to go down well															
+JLPT-N4	144	美しい	うつく	I-adjective	1.-beautiful; pretty; lovely; sweet; pure (heart, friendship, etc.)																										
+JLPT-N4	145	試験	しけん	Noun, Suru verb	1.-examination; exam; test	2.-trial; experiment; test																									
+JLPT-N4	146	親切	しんせつ	Na-adjective, Noun	1.-kind; gentle; considerate; generous; friendly; nice																										
+JLPT-N4	147	失敗	しっぱい	Noun, No-adjective, Suru verb	1.-failure; mistake; blunder																										
+JLPT-N4	148	以上	いじょう	Adverbial noun, Temporal noun	1.-not less than; ... and more; ... and upwards	2.-beyond ... (e.g. one's means); further (e.g. nothing further to say); more than ... (e.g. cannot pay more than that)	3.-above-mentioned; foregoing	4.-since ...; seeing that ...	5.-this is all; that is the end; the end																						
+JLPT-N4	149	意見	いけん	Noun, Suru verb, No-adjective	1.-opinion; view; comment																										
+JLPT-N4	150	決して	けっ	Adverb	1.-(not) ever; (not) by any means; (not) in the least; (not) in any way; (not) at all																										
+JLPT-N4	151	十分	じゅうぶん	Na-adjective	1.-enough; sufficient; plenty; adequate; satisfactory	2.-sufficiently; fully; thoroughly; well; perfectly	3.-division into ten																								
+JLPT-N4	152	試合	試合しあい	Noun, Suru verb	1.-match; game; bout; contest																										
+JLPT-N4	153	一生懸命	いっしょうけんめい	Na-adjective, Adverbial noun, Noun	1.-very hard; with utmost effort; with all one's might; for dear life																										
+JLPT-N4	154	子	こ	Noun, Noun - used as a suffix	1.-child	2.-young (animal)	3.-young woman; young geisha	4.-offshoot	5.-interest	6.-new shares	7.-player who is not a dealer (in cards, mahjong, etc.)	8.-bird egg	9.--er (often of young women)																		
+JLPT-N4	155	探す	さが	Godan verb with su ending, Transitive verb	1.-to search (for something desired, needed); to look for	2.-to search (for something lost); to seek (a suspect in a crime)																									
+JLPT-N4	156	急ぐ	いそ	Godan verb with gu ending, intransitive verb, Transitive verb	1.-to hurry; to rush; to hasten; to make something happen sooner																										
+JLPT-N4	157	選ぶ	えら	Godan verb with bu ending, Transitive verb	1.-to choose; to select																										
+JLPT-N4	158	送る	おく	Godan verb with ru ending, Transitive verb	1.-to send (a thing); to dispatch; to despatch; to transmit	2.-to take or escort (a person somewhere); to see off (a person)	3.-to bid farewell (to the departed); to bury	4.-to spend (time); to live one's life	5.-to pass (down the line)	6.-to affix okurigana																					
+JLPT-N4	159	必ず	かなら	Adverb	1.-always; without exception; necessarily; certainly; without fail; positively; invariably																										
+JLPT-N4	160	怒る	おこ	Godan verb with ru ending, intransitive verb	1.-to get angry; to get mad	2.-to tell someone off; to scold	3.-to be angular; to be square																								
+JLPT-N4	161	最近	さいきん	Adverbial noun, Temporal noun, No-adjective	1.-recently; lately; these days; nowadays; right now	2.-nearest; closest																									
+JLPT-N4	162	払う	はら	Godan verb with u ending, Transitive verb	1.-to pay (e.g. money, bill)	2.-to brush off; to wipe away; to clear away; to dust off; to cut off (e.g. branches)	3.-to drive away (e.g. one's competitors)	4.-to sell off (something unneeded); to dispose of	5.-to pay (e.g. attention); to show (e.g. respect, concern)	6.-to make (e.g. effort, sacrifice); to expend; to exert	7.-to move out (of one's own place); to vacate	8.-to sweep (e.g. one's legs); to knock aside	9.-to make a sweeping stroke (in Japanese calligraphy)	10.-to reset (an abacus)																	
+JLPT-N4	163	合う	あ	Godan verb with u ending, intransitive verb	1.-to come together; to merge; to unite; to meet	2.-to fit; to match; to suit; to agree with; to be correct	3.-to be profitable; to be equitable	4.-to do ... to each other; to do ... together																							
+JLPT-N4	164	点	てん	Noun	1.-dot; spot; point; speck; mark	2.-mark (in an exam, etc.); grade; score; points	3.-point (in a game); score; goal; run	4.-point (in geometry)	5.-point; aspect; matter; detail; part; respect; way; viewpoint	6.-(punctuation) mark (e.g. comma, period, decimal point); dot	"7.-""dot"" stroke (in a Chinese character)"	8.-counter for points, marks, goals, etc.	9.-counter for goods, items, articles of clothing, works of art, etc.																		
+JLPT-N4	165	決める	き	Ichidan verb, Transitive verb	1.-to decide; to choose; to determine; to make up one's mind; to resolve; to set one's heart on; to settle; to arrange; to set; to appoint; to fix	2.-to clinch (a victory); to decide (the outcome of a match)	3.-to persist in doing; to go through with	4.-to always do; to have made a habit of	5.-to take for granted; to assume	6.-to dress up; to dress to kill; to dress to the nines	7.-to carry out successfully (a move in sports, a pose in dance, etc.); to succeed in doing	8.-to immobilize with a double-arm lock (in sumo, judo, etc.)	9.-to eat or drink something; to take illegal drugs																		
+JLPT-N4	166	笑う	わら	Godan verb with u ending, intransitive verb	1.-to laugh	2.-to smile	3.-to sneer; to ridicule	4.-to be dumbfounded; to be flabbergasted																							
+JLPT-N4	167	最初	さいしょ	No-adjective, Adverbial noun, Temporal noun	1.-beginning; outset; first; onset																										
+JLPT-N4	168	反対	はんたい	Noun, Suru verb, No-adjective, Na-adjective	1.-opposition; resistance; antagonism; hostility; objection; dissent	2.-reverse; opposite; inverse; contrary																									
+JLPT-N4	169	妻	つま	Noun	1.-wife	2.-my dear; dear; honey	3.-garnish (esp. one served with sashimi)	4.-embellishment																							
+JLPT-N4	170	娘	むすめ	Noun	1.-daughter	2.-girl (i.e. a young, unmarried woman)																									
+JLPT-N4	171	理由	りゆう	Noun	1.-reason; pretext; motive																										
+JLPT-N4	172	喜ぶ	よろこ	Godan verb with bu ending	1.-to be delighted; to be glad; to be pleased	2.-to congratulate	3.-to gratefully accept																								
+JLPT-N4	173	昔	むかし	No-adjective, Adverbial noun, Temporal noun	1.-olden days; former																										
+JLPT-N4	174	約束	やくそく	Noun, Suru verb	1.-promise; agreement; arrangement; one's word; contract; pact; appointment; engagement; date	2.-convention; rule	3.-destiny; fate																								
+JLPT-N4	175	思い出す	おもだ	Godan verb with su ending, Transitive verb	1.-to recall; to remember; to recollect																										
+JLPT-N4	176	正しい	ただ	I-adjective	1.-right; correct	2.-proper; righteous; just; honest; truthful; lawful																									
+JLPT-N4	177	落ちる	お	Ichidan verb, intransitive verb	1.-to fall down; to drop; to fall (e.g. rain); to sink (e.g. sun or moon); to fall onto (e.g. light or one's gaze); to be used in a certain place (e.g. money)	2.-to be omitted; to be missing	3.-to decrease; to sink	4.-to fail (e.g. exam or class); to lose (contest, election, etc.)	5.-to crash; to degenerate; to degrade; to fall behind	6.-to become indecent (of a conversation)	7.-to be ruined; to go under	8.-to fade; to come out (e.g. a stain); to come off (e.g. makeup); to be removed (e.g. illness, possessing spirit, name on a list)	9.-to fall (into someone's hands); to become someone's possession	10.-to fall (into a trap); to fall (for a trick)	11.-to give in; to give up; to confess; to flee	12.-to fall; to be defeated; to surrender	13.-to come to (in the end); to end in	14.-to fall (in love, asleep, etc.)	15.-to swoon (judo)	16.-to consent; to understand	17.-to go down (of a website, server, etc.); to crash	18.-to log out (of an online game, chat room, etc.); to drop out; to leave; to go offline	19.-to die	20.-to move to the depths	21.-to go down (of a website, server, etc.)						
+JLPT-N4	178	場所	ばしょ	Noun	1.-place; location; spot; position	2.-room; space	3.-basho; wrestling tournament																								
+JLPT-N4	179	楽しむ	たの	Godan verb with mu ending	1.-to enjoy (oneself)																										
+JLPT-N4	180	利用	りよう	Noun, Suru verb	1.-use; utilization; utilisation; application																										
+JLPT-N4	181	間に合う	まあ	Godan verb with u ending, intransitive verb	1.-to be in time (for)	2.-to serve (suit, meet) the purpose; to be good enough; to be enough; to manage; to make do																									
+JLPT-N4	182	今度	こんど	Adverbial noun, Temporal noun	1.-this time; now	2.-next time; another time; shortly; soon	3.-recently; lately; the other day																								
+JLPT-N4	183	予定	よてい	Noun, Suru verb	1.-plans; arrangement; schedule; program; programme; expectation; estimate																										
+JLPT-N4	184	訪ねる	たず	Ichidan verb, Transitive verb	1.-to visit; to call on; to pay a visit to																										
+JLPT-N4	185	進む	すす	Godan verb with mu ending, intransitive verb	1.-to advance; to go forward	2.-to precede; to go ahead (of)	3.-to make progress; to improve	4.-to deepen; to heighten	5.-to be fast (of a clock); to be ahead	6.-to do of one's own free will																					
+JLPT-N4	186	赤ん坊	あかぼう	Noun	1.-baby; infant																										
+JLPT-N4	187	最後	さいご	Noun	1.-end; conclusion	2.-last; final; latest; most recent	3.-no sooner than; once; right after (often having negative consequences)	4.-one's final moments																							
+JLPT-N4	188	向かう	む	Godan verb with u ending, intransitive verb	1.-to face	2.-to go towards; to head towards																									
+JLPT-N4	189	通る	とお	Godan verb with ru ending, intransitive verb	1.-to go by; to go past; to go along; to travel along; to pass through; to use (a road); to take (a route); to go via; to go by way of	2.-to run (between; of a rail service, bus route, etc.); to operate (between); to connect	3.-to go indoors; to go into a room; to be admitted; to be shown in; to be ushered in; to come in	4.-to penetrate; to pierce; to skewer; to go through; to come through	5.-to permeate; to soak into; to spread throughout	6.-to carry (e.g. of a voice); to reach far	7.-to be passed on (e.g. of a customer's order to the kitchen); to be relayed; to be conveyed	8.-to pass (a test, a bill in the House, etc.); to be approved; to be accepted	9.-to go by (a name); to be known as; to be accepted as; to have a reputation for	10.-to be coherent; to be logical; to be reasonable; to be comprehensible; to be understandable; to make sense	11.-to get across (e.g. of one's point); to be understood	12.-to pass for; to come across as; to seem like	13.-to be straight (e.g. wood grain)	14.-to be well-informed; to be wise	15.-to do ... completely; to do ... thoroughly												
+JLPT-N4	190	興味	きょうみ	Noun	1.-interest (in something); curiosity (about something); zest (for)																										
+JLPT-N4	191	時代	じだい	Temporal noun, Noun	1.-period; epoch; era; age	2.-the times; those days	3.-oldness; ancientness; antiquity	4.-antique; period piece																							
+JLPT-N4	192	途中	とちゅう	Noun, Adverbial noun	1.-on the way; en route; halfway	2.-in the middle of; midway																									
+JLPT-N4	193	返事	へんじ	Noun, Suru verb	1.-reply; answer; response																										
+JLPT-N4	194	気持ち	きも	Noun	1.-feeling; sensation; mood; state of mind	2.-preparedness; readiness; attitude	3.-thought; sentiment; consideration; solicitude; gratitude	4.-slightly; a bit; a little																							
+JLPT-N4	195	簡単	かんたん	Na-adjective, Noun	1.-simple; easy; uncomplicated	2.-brief; quick; light																									
+JLPT-N4	196	深い	ふか	I-adjective	1.-deep	2.-profound	3.-dense; thick	4.-close (relationship)	5.-intense; strong	6.-late																					
+JLPT-N4	197	起こす	お	Godan verb with su ending, Transitive verb	1.-to raise; to raise up; to set up; to pick up	2.-to wake; to wake up; to waken; to awaken	3.-to cause; to bring about; to lead to; to trigger; to give rise to; to create; to generate (e.g. heat, electricity); to produce	4.-to start; to begin; to launch; to establish; to found; to set up; to open	5.-to plough; to plow; to till	6.-to fall ill with	7.-to transcribe; to write down (what is spoken)	8.-to turn over (a card)																			
+JLPT-N4	198	夫	おっと	Noun	1.-husband																										
+JLPT-N4	199	場合	ばあい	Adverbial noun, Noun	1.-case; situation																										
+JLPT-N4	200	一度	いちど	Adverbial noun	1.-once; one time; on one occasion	2.-temporarily; for a moment	3.-one degree; one tone; one musical interval																								
+JLPT-N4	201	運ぶ	はこ	Godan verb with bu ending, Transitive verb	1.-to carry; to transport; to move; to convey	2.-to come; to go	3.-to wield (a tool, etc.); to use	4.-to go (well, etc.); to proceed; to progress																							
+JLPT-N4	202	今夜	こんや	Adverbial noun, Temporal noun	1.-this evening; tonight																										
+JLPT-N4	203	盗む	ぬす	Godan verb with mu ending, Transitive verb	1.-to steal																										
+JLPT-N4	204	習慣	しゅうかん	Noun	1.-habit	2.-(social) custom; practice; convention																									
+JLPT-N4	205	大抵	たいてい	Na-adjective, Adverb, Noun	1.-mostly; ordinarily; usually; generally	2.-probably	3.-most; almost all	4.-ordinary	5.-proper; appropriate; moderate																						
+JLPT-N4	206	残る	のこ	Godan verb with ru ending, intransitive verb	1.-to remain; to be left																										
+JLPT-N4	207	上がる	あ	Godan verb with ru ending, intransitive verb	1.-to rise; to go up; to come up; to ascend; to be raised	2.-to enter (esp. from outdoors); to come in; to go in	3.-to enter (a school); to advance to the next grade	4.-to get out (of water); to come ashore	5.-to increase	6.-to improve; to make progress	7.-to be promoted; to advance	8.-to be made (of profit, etc.)	9.-to occur (esp. of a favourable result)	10.-to be adequate (to cover expenses, etc.)	11.-to be finished; to be done; to be over	12.-(of rain) to stop; to lift	13.-to stop (working properly); to cut out; to give out; to die	14.-to win (in a card game, etc.)	15.-to be arrested	16.-to turn up (of evidence, etc.)	17.-to be deep fried	18.-to be spoken loudly	19.-to get nervous; to get stage fright	20.-to be offered (to the gods, etc.)	21.-to go; to visit	22.-to eat; to drink	23.-to be listed (as a candidate)	24.-to serve (in one's master's home)	25.-to go north	26.-to be complete; to finish	
+JLPT-N4	208	席	せき	Noun	1.-seat	2.-location (of a gathering, etc.); place	3.-position; post																								
+JLPT-N4	209	値段	ねだん	Noun	1.-price; cost																										
+JLPT-N4	210	将来	しょうらい	Adverbial noun, Temporal noun	1.-future (usually near); prospects																										
+JLPT-N4	211	優しい	やさ	I-adjective	1.-tender; kind; gentle; graceful; affectionate; amiable																										
+JLPT-N4	212	致す	いた	Godan verb with su ending, Transitive verb	1.-to do																										
+JLPT-N4	213	逃げる	に	Ichidan verb, intransitive verb	1.-to escape; to run away																										
+JLPT-N4	214	空気	くうき	Noun	1.-air; atmosphere	2.-mood; situation	3.-someone with no presence; someone who doesn't stand out at all																								
+JLPT-N4	215	役に立つ	やくた	Expression, Godan verb with tsu ending	1.-to be helpful; to be useful																										
+JLPT-N4	216	答え	こた	Noun	1.-answer; reply; response; solution																										
+JLPT-N4	217	予約	よやく	Noun, Suru verb	1.-reservation; appointment; booking; advance order	2.-contract; subscription; pledge	3.-programming (e.g. a device); setting (e.g. a timer)																								
+JLPT-N4	218	機会	きかい	Noun	1.-chance; opportunity																										
+JLPT-N4	219	原因	げんいん	Noun, Suru verb	1.-cause; origin; source																										
+JLPT-N4	220	火事	かじ	Noun	1.-fire; conflagration																										
+JLPT-N4	221	泥棒	どろぼう	Noun	1.-thief; burglar; robber	2.-theft; burglary; robbery																									
+JLPT-N4	222	髪	かみ	Noun	1.-hair (on the head)																										
+JLPT-N4	223	規則	きそく	Noun	1.-rule; regulation																										
+JLPT-N4	224	行う	おこな	Godan verb with u ending, Transitive verb	1.-to perform; to do; to conduct oneself; to carry out																										
+JLPT-N4	225	代わり	か	Noun, No-adjective	1.-substitute; replacement; substituting; replacing	2.-stand-in; proxy; alternate; deputy; relief; successor	3.-compensation; exchange; return	4.-another helping; second helping; seconds; refill	5.-upcoming program; upcoming programme																						
+JLPT-N4	226	見つかる	み	Godan verb with ru ending, intransitive verb	1.-to be found; to be discovered																										
+JLPT-N4	227	打つ	う	Godan verb with tsu ending, Transitive verb	1.-to hit; to strike; to knock; to beat; to punch; to slap; to tap; to bang; to clap; to pound	2.-to strike (noon, etc.); to sound (cymbals, etc.); to beat (a drum, etc.)	3.-to beat (rhythmically, e.g. pulse, waves, etc.)	4.-to move; to impress; to touch	5.-to drive in; to hammer in; to put in; to inject	6.-to type; to send; to transmit	7.-to insert; to write in; to mark	8.-to make (noodles, etc.); to prepare	9.-to till (soil)	10.-to sprinkle; to throw; to cast	11.-to do; to carry out; to play; to perform; to engage in (gambling, etc.)	12.-to pay (a deposit, etc.)	13.-to visit (on a pilgrimage)	14.-to line (a coat)	15.-to bind (a criminal)												
+JLPT-N4	228	増える	ふ	Ichidan verb, intransitive verb	1.-to increase; to multiply																										
+JLPT-N4	229	厳しい	きび	I-adjective	1.-severe; strict; rigid; unsparing; relentless	2.-hard (to do); difficult; tricky	3.-intense (e.g. cold); harsh (weather); inclement																								
+JLPT-N4	230	迎える	むか	Ichidan verb, Transitive verb	1.-to go out to meet	2.-to receive; to welcome; to greet; to salute; to hail; to reach; to approach; to enter (a phase, era, etc.)	3.-to accept (e.g. as a member of a group or family)	4.-to call for; to summon; to invite	5.-to approach (a certain time, a point in one's life, etc.)																						
+JLPT-N4	231	怖い	こわ	I-adjective	1.-scary; frightening; eerie; dreadful																										
+JLPT-N4	232	社長	しゃちょう	Noun	1.-company president; manager; director																										
+JLPT-N4	233	紹介	しょうかい	Noun, Suru verb, No-adjective	1.-introduction; presentation; referral; listing																										
+JLPT-N4	234	集める	あつ	Ichidan verb, Transitive verb	1.-to collect; to assemble; to gather																										
+JLPT-N4	235	星	ほし	Noun	1.-star (usu. not including the Sun); planet (usu. not including Earth); heavenly body	2.-star (glyph, symbol, shape)	3.-star (actor, player, etc.)	4.-small dot; spot; fleck	5.-star point (in go); hoshi; intersection marked with a dot	6.-perp; perpetrator; mark; offender; suspect	7.-bullseye	8.-one's star (that determines one's fate); one's fortune	9.-point; score																		
+JLPT-N4	236	事務所	じむしょ	Noun	1.-office																										
+JLPT-N4	237	特に	とく	Adverb	1.-particularly; especially; in particular; expressly																										
+JLPT-N4	238	集まる	あつ	Godan verb with ru ending, intransitive verb	1.-to gather; to collect; to assemble																										
+JLPT-N4	239	比べる	くら	Ichidan verb, Transitive verb	1.-to compare; to make a comparison	2.-to compete; to vie																									
+JLPT-N4	240	無理	むり	Na-adjective, Noun	1.-unreasonable; unnatural; unjustifiable	2.-impossible	3.-forcible; forced; compulsory	4.-excessive (work, etc.); immoderate	5.-to work too hard; to try too hard	6.-no way; not a chance; never; dream on	7.-irrational	8.-ムリ																			
+JLPT-N4	241	用意	ようい	Noun, Suru verb	1.-preparation; arrangements; provision; getting ready; laying out (e.g. a meal)																										
+JLPT-N4	242	落とす	お	Godan verb with su ending, Transitive verb	1.-to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid); to leave behind	2.-to clean off (dirt, makeup, paint, etc.); to remove (e.g. stains or facial hair); to lose; to spend money at a certain place; to omit; to leave out; to secretly let escape	3.-to lose (a match); to reject (an applicant); to fail (a course); to defeat (in an election)	4.-to lower (e.g. shoulders or voice); to lessen (e.g. production or body weight); to worsen (quality); to reduce (e.g. rank or popularity); to speak badly of; to make light of; to fall into straitened circumstances	5.-to fall into (e.g. a dilemma or sin); to make one's own; to have one's bid accepted; to force surrender; to take (e.g. an enemy camp or castle); to forcefully convince; to press for a confession; to deal with	6.-to download; to copy from a computer to another medium	7.-to make someone swoon (judo)	8.-to finish a story (e.g. with the punch line)	9.-to finish (a period, e.g. of fasting)																		
+JLPT-N4	243	壊れる	こわ	Ichidan verb, intransitive verb	1.-to be broken; to break	2.-to fall through; to come to nothing																									
+JLPT-N4	244	具合	ぐあい	Noun	1.-condition; state	2.-health; state (of health)	3.-way; manner	4.-circumstance; luck	5.-face; dignity; decency; propriety																						
+JLPT-N4	245	倒れる	たお	Ichidan verb, intransitive verb	1.-to fall (over, down); to collapse; to take a fall; to topple	2.-to be destroyed (in a collapse); to collapse; to cave in; to crumble; to give away	3.-to be confined to bed (with an illness); to come down with; to break down (e.g. from overwork)	4.-to die; to be killed	5.-to go bankrupt (of a company, bank, etc.); to fail; to collapse; to go under	6.-to be defeated (in a game); to lose	7.-to fall (of a government, dictator, etc.); to be overthrown																				
+JLPT-N4	246	味	あじ	Noun	1.-flavor; flavour; taste	2.-charm; appeal; uniqueness; attractiveness	3.-experience; taste (e.g. of victory)	4.-smart; clever; witty; strange																							
+JLPT-N4	247	安全	あんぜん	Noun, Na-adjective	1.-safety; security																										
+JLPT-N4	248	変	へん	Na-adjective, Noun	1.-strange; odd; peculiar; weird; curious; queer; eccentric; funny; suspicious; fishy	2.-unexpected	3.-change	4.-incident; disturbance; disaster; accident	5.-flat																						
+JLPT-N4	249	連絡	れんらく	Suru verb, No-adjective	1.-to contact; to get in touch	2.-contacting; getting in touch; communication; call; message	3.-connection; coordination; junction	4.-intercalary; intercalaris; internuncial																							
+JLPT-N4	250	祖母	そぼ	Noun, No-adjective	1.-grandmother																										
+JLPT-N4	251	大事	だいじ	Na-adjective	1.-important; serious; crucial	2.-valuable; precious	3.-serious matter; major incident; matter of grave concern; crisis	4.-great undertaking; great enterprise; great thing	5.-safe; OK																						
+JLPT-N4	252	壊す	こわ	Godan verb with su ending, Transitive verb	1.-to break; to destroy; to demolish	2.-to wreck; to ruin; to spoil; to damage	3.-to break (a bill, etc.)																								
+JLPT-N4	253	下がる	さ	Godan verb with ru ending, intransitive verb	1.-to come down; to go down; to fall; to drop; to sink; to get lower	2.-to hang; to dangle	3.-to move back; to step back; to withdraw; to retire	4.-to deteriorate; to fall off; to be downgraded	5.-to get closer to the present day	6.-to go south																					
+JLPT-N4	254	決まる	き	Godan verb with ru ending, intransitive verb	1.-to be decided; to be settled	2.-to look good in (clothes)																									
+JLPT-N4	255	汽車	きしゃ	Noun	1.-train (esp. long distance train)	2.-steam train																									
+JLPT-N4	256	確か	たし	Na-adjective, Noun	1.-sure; certain; positive; definite	2.-reliable; trustworthy; safe; sound; firm; accurate; correct; exact	3.-If I'm not mistaken; If I remember correctly; If I remember rightly																								
+JLPT-N4	257	楽しみ	たの	Na-adjective, Noun	1.-enjoyment; pleasure; diversion; amusement; hobby	2.-anticipation; looking forward to																									
+JLPT-N4	258	可笑しい	おか	I-adjective	1.-funny; amusing; comical; laughable; ridiculous	2.-strange; odd; funny; peculiar; weird; unusual; eccentric	3.-improper; unsuitable; unbecoming	4.-suspicious																							
+JLPT-N4	259	隅	すみ	Noun, Noun - used as a suffix	1.-corner; nook; recess	2.-downstage right (on a noh stage)																									
+JLPT-N4	260	競争	きょうそう	Noun, Suru verb	1.-competition; contest; rivalry; race	2.-competition (between organisms or species)																									
+JLPT-N4	261	入院	にゅういん	Noun, Suru verb	1.-hospitalization; hospitalisation																										
+JLPT-N4	262	形	かたち	Noun	1.-form; shape; figure	2.-visage																									
+JLPT-N4	263	仕方	しかた	Noun	1.-way; method; means; resource; course																										
+JLPT-N4	264	留守	るす	Noun, Suru verb, No-adjective	1.-absence; being away from home	2.-house-sitting; house-sitter	3.-being left unattended to (of one's studies, etc.); neglecting																								
+JLPT-N4	265	景色	けしき	Noun, No-adjective	1.-scenery; scene; landscape																										
+JLPT-N4	266	首	くび	Noun	1.-neck	2.-head	3.-dismissal; discharge; firing (from a job)																								
+JLPT-N4	267	君	きみ	Pronoun	1.-you; buddy; pal	2.-monarch; ruler; sovereign; (one's) master																									
+JLPT-N4	268	血	ち	Noun	1.-blood	2.-blood; ancestry; lineage; stock	3.-(the) blood; feelings; passions																								
+JLPT-N4	269	以内	いない	Noun, Noun - used as a suffix	1.-within; inside of; less than																										
+JLPT-N4	270	例えば	たと	Adverb	1.-for example; for instance; e.g.																										
+JLPT-N4	271	別れる	わか	Ichidan verb, intransitive verb	1.-to part (usu. of people); to part from; to part with; to be apart from	2.-to separate (of a couple); to break up; to divorce	3.-to lose (e.g. one's mother); to be bereaved																								
+JLPT-N4	272	棚	たな	Noun	1.-shelf; ledge; rack	2.-trellis																									
+JLPT-N4	273	複雑	ふくざつ	Na-adjective, Noun	1.-complex; complicated; intricate; mixed (feelings)																										
+JLPT-N4	274	申し上げる	もうあ	Ichidan verb, Transitive verb	1.-to say; to tell; to state; to express; to offer; to extend (greetings, congratulations, etc.)	2.-to do																									
+JLPT-N4	275	引っ越す	ひこ	Godan verb with su ending, intransitive verb	1.-to move (house); to change residence																										
+JLPT-N4	276	品物	しなもの	Noun	1.-goods; article; thing																										
+JLPT-N4	277	技術	ぎじゅつ	Noun	1.-technology; engineering	2.-technique; skill	3.-art; craft																								
+JLPT-N4	278	ご存じ	ぞん	Noun	1.-knowing	2.-(an) acquaintance																									
+JLPT-N4	279	草	くさ	Noun	1.-grass; weed; herb; thatch	2.-ninja	3.-not genuine; substandard	4.-LOL; haha																							
+JLPT-N4	280	以下	いか	Noun	1.-not exceeding; and downward; ... and below	2.-below (e.g. standard); under (e.g. a level)	3.-the below-mentioned; the following; the rest																								
+JLPT-N4	281	倍	ばい	Noun	1.-twice; double	2.-times; -fold	3.-1-nth; 1 to n; 1 in n																								
+JLPT-N4	282	両方	りょうほう	Noun, No-adjective	1.-both; both sides; both parties																										
+JLPT-N4	283	港	みなと	Noun	1.-harbour; harbor; port																										
+JLPT-N4	284	安心	あんしん	Na-adjective, Noun, Suru verb	1.-relief; peace of mind																										
+JLPT-N4	285	大体	だいたい	Noun, No-adjective	1.-outline; main points; gist; substance; essence	2.-generally; on the whole; mostly; almost; nearly; approximately; roughly; about	3.-general; rough	4.-in the first place; first and foremost; from the start; to begin with																							
+JLPT-N4	286	線	せん	Noun, Noun - used as a suffix	1.-line; stripe; stria	2.-line (e.g. telephone line); wire	3.-ray (e.g. X-ray); beam	4.-line (e.g. of a railroad); track; route; lane	5.-outline; contours; form	6.-level	7.-division	8.-line (of action); position; approach; policy; principle	9.-impression one leaves; air one gives off																		
+JLPT-N4	287	下げる	さ	Ichidan verb, Transitive verb	1.-to hang; to suspend; to wear (e.g. decoration)	2.-to lower; to reduce; to bring down	3.-to demote; to move back; to pull back	4.-to clear (plates); to remove (food, etc. from table or altar)																							
+JLPT-N4	288	虫	むし	Noun	1.-insect; bug; cricket; moth	2.-worm; roundworm	3.-one's emotions; one's feelings	4.-nervousness; fretfulness	5.-person devoted to one thing; single-minded person	6.-valve core																					
+JLPT-N4	289	小鳥	ことり	Noun	1.-small bird; little bird																										
+JLPT-N4	290	高校生	こうこうせい	Noun	1.-senior high school student																										
+JLPT-N4	291	乗り換える	のか	Ichidan verb, Transitive verb	1.-to transfer (trains); to change (bus, train)	2.-to change (to another ideology, party, company, etc.); to switch (to a different system, method, etc.); to move on to (e.g. a new love interest)																									
+JLPT-N4	292	枝	えだ	Noun	1.-branch; bow; bough; twig; limb																										
+JLPT-N4	293	寺	てら	Noun	1.-temple (Buddhist)																										
+JLPT-N4	294	通う	かよ	Godan verb with u ending, intransitive verb	1.-to go to and from (a place); to go back and forth between; to run between (e.g. bus, train, etc.); to ply between	2.-to go to (school, work, etc.); to attend; to commute; to frequent	3.-to circulate (e.g. blood, electricity); to be communicated (e.g. thought)	4.-to resemble																							
+JLPT-N4	295	着物	きもの	Noun	1.-kimono; Japanese traditional clothing (esp. full-length)	2.-clothing; clothes																									
+JLPT-N4	296	店員	てんいん	Noun	1.-employee (of a store); shop assistant; clerk; salesperson																										
+JLPT-N4	297	帰り	かえ	Noun	1.-return; coming back																										
+JLPT-N4	298	終わり	お	Noun	1.-the end																										
+JLPT-N4	299	柔らかい	やわ	I-adjective	1.-soft; tender; pliant; supple; limber; limp	2.-gentle; mild; mellow	3.-informal; light; flexible (e.g. thinking)																								
+JLPT-N4	300	騒ぐ	さわ	Godan verb with gu ending, intransitive verb	1.-to make noise; to make racket; to be noisy	2.-to rustle; to swoosh	3.-to make merry	4.-to clamor; to clamour; to make a fuss; to kick up a fuss	5.-to lose one's cool; to panic; to act flustered	6.-to feel tense; to be uneasy; to be excited																					
+JLPT-N4	301	丁寧	ていねい	Na-adjective, Noun	1.-polite; courteous; civil	2.-careful; close; thorough; conscientious																									
+JLPT-N4	302	踏む	ふ	Godan verb with mu ending, Transitive verb	1.-to step on; to tread on; to trample on	2.-to set foot on (e.g. foreign soil); to stand on; to visit	3.-to experience; to undergo	4.-to follow (rules, principles, etc.); to go through (e.g. formalities); to complete	5.-to estimate; to guess; to judge; to value; to appraise	6.-to rhyme	7.-to succeed to (e.g. the throne)																				
+JLPT-N4	303	真ん中	まなか	Noun	1.-middle; centre; center; midpoint; heart																										
+JLPT-N4	304	裏	うら	Noun	1.-opposite side; bottom; other side; side hidden from view; undersurface; reverse side	2.-rear; back; behind	3.-lining; inside	4.-in the shadows; behind the scenes; offstage; behind (someone's) back	5.-more (to something than meets the eye); hidden side (e.g. of one's personality); unknown circumstances; different side	6.-proof	7.-opposite (of a prediction, common sense, etc.); contrary	8.-inverse (of a hypothesis, etc.)	9.-bottom (of an inning); last half (of an inning)																		
+JLPT-N4	305	冷える	ひ	Ichidan verb, intransitive verb	1.-to grow cold (from room temperature, e.g. in refrigerator); to get chilly; to cool down																										
+JLPT-N4	306	遠慮	えんりょ	Noun, Suru verb	1.-reserve; constraint; restraint; modesty; diffidence; hesitation; holding back; discretion; tact; thoughtfulness	2.-declining; refraining	3.-forethought; foresight																								
+JLPT-N4	307	表	おもて	Noun	1.-surface	2.-face (i.e. the visible side of an object)	"3.-front (of a building, etc.); obverse side (i.e. ""head"") of a coin"	4.-outside; exterior	5.-appearance	6.-public	7.-first half (of an inning); top (of an inning)	8.-cover (for tatami mats, etc.)	9.-foreground																		
+JLPT-N4	308	飾る	かざ	Godan verb with ru ending, Transitive verb	1.-to decorate; to ornament; to adorn	2.-to display; to exhibit; to put on show; to arrange	3.-to mark (e.g. the day with a victory); to adorn (e.g. the front page); to grace (e.g. the cover)	4.-to affect (a manner); to keep up (appearances); to embellish; to dress up; to be showy; to be pretentious																							
+JLPT-N4	309	都合	つごう	Adverb, Noun	1.-circumstances; condition; convenience	2.-to arrange; to manage	3.-to lend money; to raise money	4.-in all; in total; all told																							
+JLPT-N4	310	暮れる	く	Ichidan verb, intransitive verb	1.-to get dark; to grow dark	2.-to end (of a day, year, season, etc.); to come to an end; to close	3.-to be sunk in (e.g. despair); to be lost in (e.g. thought); to be overcome with																								
+JLPT-N4	311	部長	ぶちょう	Noun	1.-head (chief, director) of a section or department	2.-head of a (school) club; head of a (school) team																									
+JLPT-N4	312	昼間	ひるま	Adverbial noun, Temporal noun	1.-daytime; during the day; time from sunrise until sunset; diurnal period																										
+JLPT-N4	313	引き出し	ひだ	Noun	1.-drawer	2.-withdrawal (of money from an account)	3.-variety of knowledge and experience useful for handling things impromptu																								
+JLPT-N4	314	急	きゅう	Na-adjective	1.-sudden; abrupt; unexpected	2.-urgent; pressing	3.-steep; sharp; precipitous	4.-rapid; swift; fast	5.-emergency; crisis; danger	6.-urgency; hurrying; haste	7.-(in gagaku or noh) end of a song																				
+JLPT-N4	315	会場	かいじょう	Noun	1.-assembly hall; meeting place; venue; grounds																										
+JLPT-N4	316	地理	ちり	Noun	1.-geography																										
+JLPT-N4	317	電灯	でんとう	Noun	1.-electric light																										
+JLPT-N4	318	踊り	おど	Noun	1.-dance																										
+JLPT-N4	319	又は	また	Conjunction	1.-or; either ... or ...																										
+JLPT-N4	320	急行	きゅうこう	Noun, Suru verb, No-adjective	1.-hurrying (to somewhere); rushing; hastening	2.-express (train)																									
+JLPT-N4	321	細かい	こま	I-adjective	1.-small	2.-fine; minute	3.-minor; trivial	4.-sensitive; attentive																							
+JLPT-N4	322	適当	てきとう	Na-adjective, Noun	1.-suitable; proper; appropriate; adequate; fit; fair	2.-perfunctory; half-minded; sloppy; lazy; careless; noncommittal; unreliable; irresponsible	3.-テキトー																								
+JLPT-N4	323	課長	かちょう	Noun	1.-section manager; section chief																										
+JLPT-N4	324	盛ん	さか	Na-adjective	1.-prosperous; flourishing; thriving; successful	2.-popular; widespread	3.-active; lively; energetic; vigorous; brisk; strong	4.-enthusiastic; eager; hearty; frequent; repeated																							
+JLPT-N4	325	割合	わりあい	Noun	1.-rate; ratio; percentage; proportion	2.-comparatively	3.-contrary to expectations																								
+JLPT-N4	326	引き出す	ひだ	Godan verb with su ending, Transitive verb	1.-to pull out; to take out; to draw out; to withdraw																										
+JLPT-N4	327	暖房	だんぼう	Noun, Suru verb	1.-(indoor) heating																										
+JLPT-N4	328	申す	もう	Godan verb with su ending, Transitive verb	1.-to say; to be called	2.-to do																									
+JLPT-N4	329	売り場	うば	Noun	1.-selling area; counter; section; department; sales floor	2.-favorable time to sell; good time to sell																									
+JLPT-N4	330	退院	たいいん	Noun, Suru verb	1.-leaving hospital; discharge from hospital																										
+JLPT-N4	331	下宿	げしゅく	Noun, Suru verb	1.-boarding; lodging; board and lodging; room and board	2.-boarding house; lodging house; lodgings																									
+JLPT-N4	332	苦い	にが	I-adjective	1.-bitter																										
+JLPT-N4	333	講堂	こうどう	Noun	1.-auditorium; lecture hall																										
+JLPT-N4	334	不便	ふべん	Na-adjective, Noun	1.-inconvenience; inexpediency; unhandiness																										
+JLPT-N4	335	受付	うけつけ	Noun	1.-reception (desk); information desk	2.-receipt; acceptance																									
+JLPT-N4	336	食料品	しょくりょうひん	Noun	1.-foodstuff; groceries																										
+JLPT-N4	337	新聞社	しんぶんしゃ	Noun	1.-newspaper company																										
+JLPT-N4	338	湯	ゆ	Noun	1.-hot water	2.-hot bath; hot spring	3.-molten iron																								
+JLPT-N4	339	写す	うつ	Godan verb with su ending, Transitive verb	1.-to transcribe; to duplicate; to reproduce; to imitate; to trace	2.-to describe	3.-to film; to picture; to photograph																								
+JLPT-N4	340	工業	こうぎょう	Noun	1.-(manufacturing) industry																										
+JLPT-N4	341	工業	こうぎょう	Noun	1.-(manufacturing) industry																										
+JLPT-N4	342	下着	したぎ	Noun	1.-underwear																										
+JLPT-N4	343	冷房	れいぼう	Noun, Suru verb	1.-cooling; air-conditioning																										
+JLPT-N4	344	畳	たたみ	Noun	1.-tatami mat; Japanese straw floor coverings																										
+JLPT-N4	345	沸かす	わ	Godan verb with su ending, Transitive verb	1.-to boil; to heat	2.-to excite	3.-to melt (metal)																								
+JLPT-N4	346	お嬢さん	じょう	Noun	1.-(another's) daughter	2.-young lady																									
+JLPT-N4	347	特急	とっきゅう	Noun	1.-limited express (train for which a limited-express ticket is required)	2.-limited express (train making a limited no. of stops)	3.-great hurry																								
+JLPT-N4	348	漬ける	つ	Ichidan verb, Transitive verb	1.-to soak (in); to steep; to dip; to dunk	2.-to pickle; to preserve (in salt, vinegar, etc.)																									
+JLPT-N4	349	呉れる	く	Ichidan verb (kureru special class), Transitive verb	1.-to give; to let (one) have	2.-to give	3.-to do for one; to take the trouble to do	4.-to do to someone's disadvantage																							
+JLPT-N4	350	過ぎる	す	Ichidan verb, intransitive verb	1.-to pass through; to pass by; to go beyond	2.-to pass (i.e. of time); to elapse	3.-to have expired; to have ended; to be over	4.-to exceed; to surpass; to be above	5.-to be no more than ...	6.-to be excessive; to be too much; to be too ...																					
+JLPT-N4	351	積もり	つ	Noun	1.-intention; plan	2.-conviction; belief																									
+JLPT-N4	352	殆ど	ほとん	Adverbial noun, Temporal noun	1.-mostly; nearly; practically; well-nigh; almost invariably; all but; just about; almost																										
+JLPT-N4	353	止める	と	Ichidan verb, Transitive verb	1.-to stop; to turn off	2.-to park	3.-to prevent; to suppress (a cough); to hold back (tears); to hold (one's breath); to relieve (pain)	4.-to stop (someone from doing something); to dissuade; to forbid; to prohibit	5.-to notice; to be aware of; to concentrate on; to pay attention to; to remember; to bear in mind	6.-to fix (in place); to fasten; to tack; to pin; to nail; to button; to staple	7.-to detain; to keep in custody																				
+JLPT-N4	354	酷い	ひど	I-adjective	1.-cruel; heartless; hard; harsh; severe	2.-violent; intense; strong; heavy; extreme	3.-very bad; terrible; awful	4.-excessive; exorbitant; unreasonable; outrageous; unfair; unjust																							
+JLPT-N4	355	遅れる	おく	Ichidan verb, intransitive verb	1.-to be late; to be delayed; to fall behind schedule; to be overdue; to fall behind	2.-to fall behind (in school, etc.); to struggle (with a subject)	3.-to be outdated; to fall behind (the times); to be out of touch (with)																								
+JLPT-N4	356	続ける	つづ	Ichidan verb, Transitive verb, Auxiliary verb	1.-to continue; to keep up; to keep on																										
+JLPT-N4	357	手伝う	てつだ	Godan verb with u ending, Transitive verb	1.-to help; to assist; to aid	2.-to contribute to; to be a factor in																									
+JLPT-N4	358	見つける	み	Ichidan verb, Transitive verb	1.-to discover; to find (e.g. an error in a book); to come across; to detect; to spot	2.-to locate; to find (e.g. something missing); to find fault	3.-to be used to seeing; to be familiar with																								
+JLPT-N4	359	驚く	おどろ	Godan verb with ku ending, intransitive verb	1.-to be surprised; to be astonished																										
+JLPT-N4	360	開く	ひら	Godan verb with ku ending, intransitive verb, Transitive verb	1.-to open; to undo; to unseal; to unpack	2.-to bloom; to unfold; to spread out	3.-to open (for business, e.g. in the morning)	4.-to be wide (gap, etc.); to widen	5.-to hold (meeting, party, etc.); to give; to open	6.-to found (nation, dynasty, sect, etc.); to open (a new business); to set up; to establish; to start	7.-to open (ports, borders, etc.)	8.-to open (an account)	9.-to open up (new land, path, etc.); to clear; to develop	10.-to open (a file, etc.)	11.-to extract (root); to reduce (equation)	12.-to cut open (fish)	13.-to change (kanji into hiragana)	14.-to flare (e.g. skirt)	15.-to slacken (into a poor posture)												
+JLPT-N4	361	眠る	ねむ	Godan verb with ru ending, intransitive verb	1.-to sleep (not necessarily lying down)	2.-to die	3.-to lie idle (e.g. of resources); to be dormant; to be unused	4.-to close one's eyes																							
+JLPT-N4	362	勝つ	か	Godan verb with tsu ending, intransitive verb	1.-to win; to gain victory																										
+JLPT-N4	363	聞こえる	き	Ichidan verb, intransitive verb	1.-to be heard; to be audible	2.-to be said to be; to be reputed																									
+JLPT-N4	364	尋ねる	たず	Ichidan verb, Transitive verb	1.-to ask; to enquire; to inquire	2.-to search; to look for; to look into; to investigate																									
+JLPT-N4	365	慣れる	な	Ichidan verb, intransitive verb	1.-to get used to; to grow accustomed to; to become familiar with	2.-to become skilled in; to become experienced at	3.-to become tame; to become domesticated	4.-to get used to doing																							
+JLPT-N4	366	泣く	な	Godan verb with ku ending	1.-to cry; to weep; to sob; to howl																										
+JLPT-N4	367	屹度	屹度きっと	Adverb	1.-surely; undoubtedly; almost certainly; most likely (e.g. 90 percent)	2.-sternly; severely	3.-having no slack; rigid; stiff; tight	4.-suddenly; abruptly; instantly																							
+JLPT-N4	368	似る	に	Ichidan verb, intransitive verb	1.-to resemble; to look like; to take after	2.-to be similar (in status, condition, etc.); to be close; to be alike; to be like																									
+JLPT-N4	369	戻る	もど	Godan verb with ru ending, intransitive verb	1.-to turn back (e.g. half-way)	2.-to return; to go back	3.-to recover (e.g. something lost); to be returned	4.-to rebound; to spring back																							
+JLPT-N4	370	調べる	しら	Ichidan verb, Transitive verb	1.-to examine; to look up; to investigate; to check up; to sense; to study; to inquire; to search																										
+JLPT-N4	371	伝える	つた	Ichidan verb, Transitive verb	1.-to convey; to report; to transmit; to communicate; to tell; to impart; to propagate; to teach; to bequeath																										
+JLPT-N4	372	筈	はず	Auxiliary	1.-should (be); bound (to be); expected (to be); must (be)	2.-nock (of a bow)	3.-nock (of an arrow)	4.-nock-shaped grip (between thumb and forefinger)	5.-wooden frame on the tip of the mast of a Japanese ship that prevents the hawser from falling out																						
+JLPT-N4	373	無くなる	な	Godan verb with ru ending, intransitive verb	1.-to be lost (e.g. luggage); to be missing	2.-to be used up; to be run out; to be exhausted; to be consumed; to be reduced to zero; to not occur any more	3.-to disappear (e.g. pain); to be lost (e.g. a dream, confidence)																								
+JLPT-N4	374	動く	うご	Godan verb with ku ending, intransitive verb	1.-to move; to stir; to shift; to shake; to swing	2.-to operate; to run; to go; to work	3.-to make a move; to take action; to act; to go into action	4.-to be touched; to be influenced	5.-to change; to vary; to fluctuate; to waver	6.-to be transferred																					
+JLPT-N4	375	知らせる	し	Ichidan verb, Transitive verb	1.-to notify; to advise; to inform																										
+JLPT-N4	376	続く	つづ	Godan verb with ku ending, intransitive verb	1.-to continue; to last; to go on	2.-to continue (without a break); to be unbroken	3.-to occur again and again	4.-to lead to; to connect to; to adjoin	5.-to come after; to follow; to succeed; to rank next to	6.-to hold out; to keep; to last																					
+JLPT-N4	377	別	べつ	Noun	1.-distinction; difference; discrimination	2.-separate; different; another; extra	3.-exception; exclusion	4.-classified by; ranked by; according to																							
+JLPT-N4	378	鳴る	な	Godan verb with ru ending, intransitive verb	1.-to sound; to ring; to resound; to echo; to roar; to rumble																										
+JLPT-N4	379	市	し	Noun, Noun - used as a suffix	1.-city																										
+JLPT-N4	380	負ける	ま	Ichidan verb, intransitive verb	1.-to lose; to be defeated	2.-to succumb; to give in; to surrender; to yield	3.-to be inferior to	4.-to break out in a rash due to (e.g. lacquer, shaving, etc.)	5.-to reduce the price; to give a discount; to throw in (something extra) for free																						
+JLPT-N4	381	悲しい	かな	I-adjective	1.-sad; miserable; unhappy; sorrowful	2.-sad; lamentable; deplorable; grievous																									
+JLPT-N4	382	亡くなる	な	Godan verb with ru ending, intransitive verb	1.-to die																										
+JLPT-N4	383	以外	いがい	Adverbial noun	1.-with the exception of; excepting																										
+JLPT-N4	384	治す	なお	Godan verb with su ending, Transitive verb	1.-to cure; to heal	2.-to fix; to correct; to repair	3.-to do over again	4.-to replace; to put back as it was	5.-to convert (into a different state); to transform																						
+JLPT-N4	385	暫く	しばら	Adverb, Suru verb	1.-for a moment; for a minute	2.-for a while; for some time	3.-for the time being; for now	4.-it's been a long time; long time no see																							
+JLPT-N4	386	間違える	まちが	Ichidan verb, Transitive verb	1.-to make a mistake (in); to commit an error (e.g. in calculation)	2.-to confuse; to mistake something for something else																									
+JLPT-N4	387	回る	まわ	Godan verb with ru ending, intransitive verb	1.-to turn; to revolve	2.-to visit several places	3.-to function well	4.-to pass a certain time																							
+JLPT-N4	388	捨てる	す	Ichidan verb, Transitive verb	1.-to throw away; to cast away; to dump; to discard	2.-to abandon; to desert; to leave	3.-to give up; to resign																								
+JLPT-N4	389	確り	しっか	Adverb, Adverb taking the 'to' particle, Suru verb	1.-tightly (holding on); firmly; securely	2.-strongly (built); solidly; sturdily; steadily	3.-properly; well; sufficiently; hard (working, etc.); fully; completely	4.-reliably; dependably; levelheadedly; shrewdly; wisely; cleverly																							
+JLPT-N4	390	育てる	そだ	Ichidan verb, Transitive verb	1.-to raise; to rear; to bring up	2.-to train; to teach; to educate	3.-to promote the growth of; to nurture; to foster; to develop																								
+JLPT-N4	391	褒める	ほ	Ichidan verb, Transitive verb	1.-to praise; to admire; to speak well of someone																										
+JLPT-N4	392	石	いし	Noun	1.-stone	2.-gem; jewel																									
+JLPT-N4	393	恥ずかしい	は	I-adjective	1.-embarrassing; embarrassed; ashamed; humiliated; shy	2.-disgraceful; shameful																									
+JLPT-N4	394	塗る	ぬ	Godan verb with ru ending, Transitive verb	1.-to paint; to plaster; to lacquer; to varnish; to spread; to smear; to put up (wallpaper)																										
+JLPT-N4	395	泊まる	と	Godan verb with ru ending, intransitive verb	1.-to stay at (e.g. hotel)	2.-to be docked; to be berthed; to be moored																									
+JLPT-N4	396	片付ける	かたづ	Ichidan verb, Transitive verb	1.-to tidy up; to put in order; to straighten up; to put away	2.-to settle (problem); to clear (dispute)	3.-to finish; to bring something to an end	4.-to marry off (e.g. a daughter)	5.-to do away with someone; to bump someone off																						
+JLPT-N4	397	止む	や	Godan verb with mu ending, intransitive verb	1.-to cease; to stop; to be over																										
+JLPT-N4	398	遠く	とお	No-adjective, Adverbial noun, Noun	1.-far away; distant; at a distance; distant place; by far																										
+JLPT-N4	399	済む	す	Godan verb with mu ending, intransitive verb	1.-to finish; to end; to be completed	2.-to merely result in something less severe than expected	3.-to feel at ease	4.-to feel unease or guilt for troubling someone; to be sorry																							
+JLPT-N4	400	到頭	とうとう	Adverb	1.-finally; at last; ultimately; in the end																										
+JLPT-N4	401	捕まえる	つか	Ichidan verb, Transitive verb	1.-to catch; to capture; to arrest; to seize; to restrain	2.-to grab; to clutch; to grasp; to seize; to hold on to	3.-to catch hold of (someone); to stop (e.g. a stranger in the street); to hail (a taxi, waiter, etc.); to hold (someone) back; to detain	4.-towards (someone); at (someone)																							
+JLPT-N4	402	踊る	おど	Godan verb with ru ending, intransitive verb	1.-to dance (orig. a hopping dance)																										
+JLPT-N4	403	足りる	た	Ichidan verb, intransitive verb	1.-to be sufficient; to be enough	2.-to be worth doing; to be worthy of; to deserve	3.-to do (the job); to serve; to answer																								
+JLPT-N4	404	治る	なお	Godan verb with ru ending, intransitive verb	1.-to be cured; to get well; to be healed	2.-to get mended; to be repaired; to be fixed																									
+JLPT-N4	405	為さる	な	Godan verb - aru special class, Transitive verb	1.-to do																										
+JLPT-N4	406	硬い	かた	I-adjective	1.-hard; solid; tough	2.-stiff; tight; wooden; unpolished (e.g. writing)	3.-strong; firm (not viscous or easily moved)	4.-safe; steady; honest; steadfast	5.-obstinate; stubborn	6.-bookish; formal; stuffy																					
+JLPT-N4	407	建てる	た	Ichidan verb, Transitive verb	1.-to build; to construct																										
+JLPT-N4	408	凄い	すご	I-adjective	1.-terrible; dreadful	2.-amazing (e.g. of strength); great (e.g. of skills); wonderful; terrific	3.-to a great extent; vast (in numbers)	4.-awfully; very; immensely	5.-スゴイ、スゴい																						
+JLPT-N4	409	謝る	あやま	Godan verb with ru ending	1.-to apologize; to apologise																										
+JLPT-N4	410	此れから	こ	Temporal noun	1.-after this																										
+JLPT-N4	411	立てる	た	Ichidan verb, Transitive verb	1.-to stand up; to put up; to set up; to erect; to raise	2.-to thrust into; to bury into; to dig into	3.-to make (a noise); to start (a rumour); to raise (a cloud of dust, etc.); to cause	4.-to make; to establish; to set up; to develop; to formulate	5.-to put up (a political candidate); to make (one's leader)	6.-to treat with respect; to give (someone) their due; to make (someone) look good; to avoid embarrassing (someone)	7.-to sharpen; to make clear	8.-to shut; to close	9.-to make tea (matcha); to perform the tea ceremony	10.-to divide by	11.-to do ... vigorously																
+JLPT-N4	412	寂しい	さび	I-adjective	1.-lonely; lonesome; solitary; desolate																										
+JLPT-N4	413	濡れる	ぬ	Ichidan verb, intransitive verb	1.-to get wet																										
+JLPT-N4	414	投げる	な	Ichidan verb, Transitive verb	1.-to throw; to hurl; to fling; to toss; to cast	2.-to give up; to abandon; to throw away	3.-to cast (a glance, shadow, doubt, etc.)																								
+JLPT-N4	415	太る	ふと	Godan verb with ru ending, intransitive verb	1.-to put on weight; to gain weight; to grow fat; to get stout																										
+JLPT-N4	416	寄る	よ	Godan verb with ru ending, intransitive verb	1.-to approach; to draw near; to come near; to be close to	2.-to gather (in one place); to come together; to meet	3.-to stop by (while on one's way to another place); to drop by; to make a short visit	4.-to grow old; to grow high (number, etc.)	5.-to grow (wrinkly)	6.-to lean against; to recline on	7.-to push one's opponent while holding their belt	8.-to decide on a price and come to a deal	9.-to be swayed by (a person); to yield to																		
+JLPT-N4	417	歯医者	はいしゃ	Noun	1.-dentist																										
+JLPT-N4	418	参る	まい	Godan verb with ru ending, intransitive verb	1.-to go; to come; to call	2.-to be defeated; to collapse; to die	3.-to be annoyed; to be nonplussed	4.-to be madly in love	5.-to visit (shrine, grave)																						
+JLPT-N4	419	召し上がる	めあ	Godan verb with ru ending, Transitive verb	1.-to eat; to drink																										
+JLPT-N4	420	珍しい	めずら	I-adjective	1.-unusual; rare; curious	2.-new; novel	3.-fine (e.g. gift)																								
+JLPT-N4	421	揺れる	ゆ	Ichidan verb, intransitive verb	1.-to shake; to sway; to waver																										
+JLPT-N4	422	祈る	いの	Godan verb with ru ending, Transitive verb	1.-to pray; to wish																										
+JLPT-N4	423	込む	こ	Godan verb with mu ending, intransitive verb	1.-to be crowded; to be packed	2.-to be complex	3.-to go into; to put into; to remain (seated); to be plunged into (silence); to do thoroughly	4.-to do intently	5.-to continue in the same state																						
+JLPT-N4	424	硝子	ガラス	Noun	1.-glass; pane	2.-vitreous																									
+JLPT-N4	425	折る	お	Godan verb with ru ending, Transitive verb	1.-to break; to fracture; to break off; to snap off; to pick (e.g. flowers)	2.-to fold; to bend	3.-to make (origami)	4.-to interrupt; to end																							
+JLPT-N4	426	お礼	れい	Noun	1.-thanks; gratitude	2.-manners; etiquette	3.-bow	4.-reward; gift	5.-ceremony; ritual																						
+JLPT-N4	427	眠い	ねむ	I-adjective	1.-sleepy; drowsy; somnolent																										
+JLPT-N4	428	大学生	だいがくせい	Noun	1.-university student; college student																										
+JLPT-N4	429	それ程	ほど	Adverb	1.-to that degree; to that extent; that much																										
+JLPT-N4	430	痩せる	や	Ichidan verb, intransitive verb	1.-to become thin; to lose weight; to reduce (one's) weight; to slim	2.-to be barren; to be infertile; to be sterile																									
+JLPT-N4	431	偶に	たま	Adverb	1.-occasionally; once in a while; now and then; rarely; seldom																										
+JLPT-N4	432	噛む	か	Godan verb with mu ending, Transitive verb	1.-to bite	2.-to chew; to gnaw; to masticate	3.-to fumble one's words (esp. during a play, broadcast, etc.); to falter with one's words; to stutter; to stammer	4.-to crash against (e.g. of waves); to break onto (shore)	5.-to engage (of cogs, zippers, etc.); to mesh; to fit together	6.-to be involved in	7.-to convince; to persuade																				
+JLPT-N4	433	億	おく	Numeric	1.-10^8; 100,000,000; hundred million																										
+JLPT-N4	434	瓦斯	瓦斯ガス	Noun	1.-gas (state of matter, e.g. poison gas, natural gas)	2.-gasoline; gas; petrol	3.-dense fog; thick fog	4.-gas stove; gas cooker; gas range	5.-flatulence; gas; wind; fart																						
+JLPT-N4	435	触る	さわ	Godan verb with ru ending, intransitive verb, Transitive verb	1.-to touch; to feel	2.-to get involved (with); to approach	3.-to be harmful to; to hinder; to interfere with; to irritate																								
+JLPT-N4	436	掏摸	すり	Noun	1.-pickpocket																										
+JLPT-N4	437	拾う	ひろ	Godan verb with u ending, Transitive verb	1.-to pick up; to find; to gather																										
+JLPT-N4	438	焼く	や	Godan verb with ku ending, Transitive verb	1.-to burn	2.-to roast; to broil; to grill; to bake; to toast; to barbecue	3.-to heat; to heat up	4.-to make (charcoal, pottery, bricks, etc.); to bake; to fire; to burn	5.-to tan (i.e. suntan); to burn	6.-to print (a photo); to burn (an optical disc)	7.-to be jealous of; to be envious of; to envy																				
+JLPT-N4	439	なる程	ほど	Expression, Adverb	1.-I see; that's right; indeed																										
+JLPT-N4	440	割れる	わ	Ichidan verb, intransitive verb	1.-to break; to be smashed	2.-to split; to crack; to fissure; to be torn	3.-to be divided (opinion, vote, etc.); to split (e.g. of a party)	4.-to come to light; to become clear; to be identified; to be revealed	5.-to be distorted (of a sound)	6.-to be divisible (without a remainder)	7.-to go below a minimum																				
+JLPT-N4	441	滑る	すべ	Godan verb with ru ending, intransitive verb	1.-to glide; to slide (e.g. on skis); to slip	2.-to fail (an examination); to bomb (when telling a joke)	3.-to drop; to go down; to come down; to fall (e.g. in status)																								
+JLPT-N4	442	些とも	ちっ	Adverb	1.-(not) at all; (not) a bit; (not) in the least; (not) in the slightest																										
+JLPT-N4	443	お宅	たく	Noun	1.-your house; your home; your family	2.-your husband	3.-your organization	4.-you																							
+JLPT-N4	444	折れる	お	Ichidan verb, intransitive verb	1.-to break; to be broken; to snap; to fracture	2.-to be folded	3.-to give in; to back down; to yield; to submit	4.-to turn (a corner)																							
+JLPT-N4	445	移る	うつ	Godan verb with ru ending, intransitive verb	1.-to move (house); to transfer (department)	2.-to change the target of interest or concern	3.-to elapse (passage of time)	4.-to be permeated by a colour or scent	5.-to be infected; to be contagious; to spread (as in fire)																						
+JLPT-N4	446	光る	ひか	Godan verb with ru ending, intransitive verb	1.-to shine; to glitter; to be bright																										
+JLPT-N4	447	植える	う	Ichidan verb, Transitive verb	1.-to plant; to grow; to raise	2.-to insert; to transplant; to implant; to set (type)	3.-to inoculate (e.g. an infectious agent)	4.-to instill (idea, value, etc.); to instil; to inculcate																							
+JLPT-N4	448	差し上げる	さあ	Auxiliary verb, Ichidan verb, Transitive verb	1.-to give; to offer	2.-to lift up; to hold up; to raise																									
+JLPT-N4	449	字	じ	Noun	1.-character (esp. kanji); letter; written text	2.-handwriting; penmanship	"3.-the ... word (e.g. ""the L word"" = ""love"")"																								
+JLPT-N4	450	焼ける	や	Ichidan verb, intransitive verb	1.-to burn; to be roasted; to be heated; to be sunburnt; to fade (in the sun); to glow red (i.e. of the sky at sunset)	2.-to be jealous; to be envious																									
+JLPT-N4	451	お祝い	いわ	Noun, Suru verb	1.-congratulation; congratulations; celebration; festival	2.-congratulatory gift; present																									
+JLPT-N4	452	取り替える	とか	Ichidan verb, Transitive verb	1.-to exchange; to swap; to barter	2.-to replace; to substitute																									
+JLPT-N4	453	釣る	つ	Godan verb with ru ending, Transitive verb	1.-to fish; to angle; to catch	2.-to lure in; to tempt; to attract; to entice; to allure																									
+JLPT-N4	454	乾く	かわ	Godan verb with ku ending, intransitive verb	1.-to get dry																										
+JLPT-N4	455	用事	ようじ	Noun	1.-tasks; things to do; errand; business (to take care of); affairs; engagement																										
+JLPT-N4	456	成るべく	な	Adverb	1.-as much as possible; wherever practicable; if possible																										
+JLPT-N4	457	届ける	とど	Ichidan verb, Transitive verb	1.-to deliver; to forward; to send	2.-to report; to notify; to file notice (to the authorities); to give notice; to register																									
+JLPT-N4	458	浅い	あさ	I-adjective	1.-shallow; superficial	2.-slight (wound); light (sleep); pale (colour); inadequate (knowledge)	3.-short (time); early; young																								
+JLPT-N4	459	苛める	いじ	Ichidan verb, Transitive verb	1.-to ill-treat; to bully; to torment; to pick on; to tease; to be cruel to; to persecute	2.-to be tough on (e.g. one's body); to treat harshly																									
+JLPT-N4	460	床屋	とこや	Noun	1.-barbershop; barber shop; barber																										
+JLPT-N4	461	お土産	みやげ	Noun	1.-local specialty or souvenir bought as a gift while travelling	2.-present brought by a visitor	3.-something unpleasant that one is given (e.g. an illness while on vacation); unwelcome gift; disservice																								
+JLPT-N4	462	床屋	とこや	Noun	1.-barbershop; barber shop; barber																										
+JLPT-N4	463	予習	よしゅう	Noun, Suru verb	1.-preparation for a lesson																										
+JLPT-N4	464	お釣り	つ	Noun	1.-change (for a purchase)																										
+JLPT-N4	465	足す	た	Godan verb with su ending, Transitive verb	1.-to add (numbers)	2.-to add (something); to top up (with something)	3.-to take care of (e.g. one's business)																								
+JLPT-N4	466	寝坊	ねぼう	Noun, Suru verb, Na-adjective, No-adjective	1.-sleeping in late; oversleeping	2.-late riser; sleepyhead																									
+JLPT-N4	467	沸く	わ	Godan verb with ku ending, intransitive verb	1.-to grow hot (e.g. water); to boil	2.-to get excited (at); to erupt (in applause, cheering, etc.); to be in a ferment; to take place energetically	3.-to ferment	4.-to melt (of metal)																							
+JLPT-N4	468	忘れ物	わすもの	Noun	1.-lost article; something forgotten																										
+JLPT-N4	469	復習	ふくしゅう	Noun, Suru verb	1.-review (of learned material); revision																										
+JLPT-N4	470	再来月	さらいげつ	Adverbial noun, Temporal noun	1.-month after next																										
+JLPT-N4	471	再来週	さらいしゅう	Adverbial noun, Temporal noun	1.-week after next																										
+JLPT-N4	472	ご主人	しゅじん	Noun	1.-your husband; her husband																										
+JLPT-N4	473	付く	つ	Godan verb with ku ending, intransitive verb	1.-to be attached; to be connected with; to adhere; to stick; to cling	2.-to remain imprinted; to scar; to stain; to dye	3.-to bear (fruit, interest, etc.)	4.-to be acquired (of a habit, ability, etc.); to increase (of strength, etc.)	5.-to take root	6.-to accompany; to attend; to follow; to study with	7.-to side with; to belong to	8.-to possess; to haunt	9.-to be lit; to be lighted	10.-to be settled; to be resolved; to be decided	11.-to be given (of a name, price, etc.)	12.-to be sensed; to be perceived	13.-to be lucky	14.-to become (a state, condition, etc.)													
+JLPT-N4	474	変える	か	Ichidan verb, Transitive verb	1.-to change; to alter; to transform; to convert; to turn; to vary	2.-to reform; to revise; to amend																									
+JLPT-N4	475	阿弗利加	阿弗利加アフリカ	Noun, No-adjective	1.-Africa																										
+JLPT-N4	476	看護師	かんごし	Noun	1.-(hospital) nurse; registered nurse; RN																										
+JLPT-N4	477	降り出す	ふだ	Godan verb with su ending, intransitive verb	1.-to begin to rain; to begin to snow																										
+JLPT-N4	478	けど		Conjunction, Particle	1.-but; however; although	2.-けれど、けれども、けども、けんど																									
+JLPT-N4	479	日	ひ	Adverbial noun, Temporal noun	1.-day; days	2.-sun; sunshine; sunlight	3.-case (esp. unfortunate); event	4.-Hi	5.-Day																						
+JLPT-N4	480	大分	だいぶ	Adverb	1.-considerably; greatly; a lot	2.-Daibu	3.-Oita																								
+JLPT-N4	481	間	あいだ	Adverbial noun, Noun	1.-space (between); gap; interval; distance	2.-time (between); pause; break	3.-span (temporal or spatial); stretch; period (while)	4.-relationship (between, among)	5.-members (within, among)	6.-due to; because of	7.-Ma (negative space)																				
+JLPT-N4	482	親	おや	Noun	1.-parent; parents; mother and father	2.-dealer (in cards, mahjong, etc.); banker	3.-founder; inventor	4.-(pet) owner	5.-key; parent (organization); main	6.-ancestor; forefather	7.-Parent																				
+JLPT-N4	483	熱	ねつ	Noun	1.-heat	2.-fever; temperature	3.-zeal; passion; enthusiasm; mania; craze; rage	4.-Heat																							
+JLPT-N4	484	運転手	うんてんしゅ	Noun	1.-driver; chauffeur	2.-Chauffeur																									
+JLPT-N4	485	木綿	もめん	Noun	1.-cotton (material)	2.-red silk-cotton tree (Bombax ceiba)	3.-Cotton																								
+JLPT-N4	486	消しゴム	け	Noun	1.-eraser; India rubber	2.-Eraser																									
+JLPT-N4	487	テニス		Noun	1.-tennis	2.-Tennis																									
+JLPT-N4	488	ピアノ		Noun	1.-piano	2.-Piano	3.-ピヤノ																								
+JLPT-N4	489	コンピュータ		Noun	1.-computer	2.-Computer	3.-コンピューター																								
+JLPT-N4	490	周り	まわ	Noun	1.-circumference; girth	2.-surroundings; neighbourhood; neighborhood; vicinity																									
+JLPT-N4	491	ケーキ		Noun	1.-cake	2.-Cake																									
+JLPT-N4	492	ビル		Noun	1.-multi-floor building; multi-storey building	2.-bill	3.-Bill																								
+JLPT-N4	493	カーテン		Noun	1.-curtain; curtains	2.-Curtain																									
+JLPT-N4	494	ガソリン		Noun	1.-gasoline; petrol	2.-Gasoline																									
+JLPT-N4	495	アルコール		Noun	1.-alcohol	2.-(alcohol-based) hand sanitizer	3.-Alcohol	4.-アルコホル																							
+JLPT-N4	496	サンドイッチ		Noun	1.-sandwich	2.-Sandwich	3.-サンドウィッチ																								
+JLPT-N4	497	オートバイ		Noun	1.-motorcycle	2.-Motorcycle																									
+JLPT-N4	498	サラダ		Noun	1.-salad	2.-Salad																									
+JLPT-N4	499	ソフト		Na-adjective, No-adjective	1.-soft	2.-software	3.-soft hat; felt hat	4.-soft serve ice cream	5.-softball	6.-Soft																					
+JLPT-N4	500	テキスト		Noun	1.-text	2.-textbook	3.-Text (literary theory)	4.-テクスト																							
+JLPT-N4	501	ガソリンスタンド		Noun	1.-gas station; petrol station	2.-Filling station	3.-ガソリン・スタンド																								
+JLPT-N4	502	ステレオ		Noun	1.-stereo	2.-Stereophonic sound																									
+JLPT-N4	503	ジャム		Noun	1.-jam	2.-Fruit preserves																									
+JLPT-N4	504	アナウンサー		Noun	1.-announcer; presenter; broadcaster; reporter	2.-in-house television talent who does on-location fluff pieces for variety shows	3.-Announcer	4.-アナウンサ																							
+JLPT-N4	505	パート		Noun	1.-part	2.-part-timer	3.-part-time (work)	4.-Part																							
+JLPT-N4	506	アクセサリー		Noun	1.-accessory	2.-Accessory	3.-アクセサリ																								
+JLPT-N4	507	エスカレーター		Noun	1.-escalator	2.-Escalator	3.-エスカレータ																								
+JLPT-N4	508	あっ		Wikipedia definition	1.-ah; oh	2.-hey!	3.-A (kana)	4.-アッ、アっ、あ、ア																							
+JLPT-N4	509	スーツケース		Noun	1.-suitcase	2.-Suitcase																									
+JLPT-N4	510	ステーキ		Noun	1.-steak	2.-Steak																									
+JLPT-N4	511	亜細亜	あじあ	Noun, No-adjective	1.-Asia	2.-Asia	3.-アジア																								
+JLPT-N4	512	チェック		Noun, No-adjective	1.-check; plaid; checkered	2.-checking; monitoring; looking over; scrutinizing; inspecting	3.-check (banking); cheque; bill (restaurant)	4.-check (chess)	5.-Check																						
+JLPT-N4	513	スクリーン		Noun	1.-screen	2.-Projection screen																									
+JLPT-N4	514	サンダル		Noun	1.-sandal	2.-Sandal																									
+JLPT-N4	515	開く	あ	Godan verb with ku ending, intransitive verb	1.-to open (e.g. doors)	2.-to open (e.g. business, etc.)	3.-to be empty	4.-to be vacant; to be available; to be free	5.-to be open (e.g. neckline, etc.)	6.-to have been opened (of one's eyes, mouth, etc.)	7.-to come to an end	8.-to open (one's eyes, mouth, etc.)	9.-to have a hole; to form a gap; to have an interval (between events)																		
+JLPT-N4	516	一杯	いっぱい	Noun, No-adjective	1.-amount necessary to fill a container (e.g. cupful, spoonful, etc.); drink (usu. alcoholic)	2.-full	3.-one squid, octopus, crab, etc.; one boat	4.-fully; to capacity	5.-a lot; much	6.-all of ...; the entire ...	7.-Ippai																				
+JLPT-N4	517	用	よう	Noun	1.-business; task; errand; engagement	2.-use; purpose	3.-for the use of ...; used for ...; made for ...	4.-call of nature; excretion	5.-You																						
+JLPT-N4	518	レジ		Noun	1.-(cash) register	2.-cashier	3.-Rezh (Russia); Reg																								
+JLPT-N4	519	内	うち	Noun	1.-inside; within	2.-while (e.g. one is young); during; within (e.g. a day); in the course of	3.-among; amongst; (out) of; between	4.-in (secret, chaos, poverty, etc.); amidst; with (e.g. success)	5.-within oneself; one's feelings; inner thoughts	6.-we; our company; our organization	7.-one's home; one's family	8.-my spouse; my husband; my wife	9.-signed on behalf of (husband's name) by his wife	10.-I; me	11.-imperial palace grounds	12.-emperor															
+JLPT-N4	520	訳	わけ	Noun	1.-conclusion from reasoning, judgement or calculation based on something read or heard; reason; cause; meaning; circumstances; situation																										
+JLPT-N4	521	お蔭	かげ	Noun	1.-grace (of God); benevolence (of Buddha); blessing	2.-assistance; help; aid	3.-effects; influence																								
+JLPT-N4	522	もう直ぐ	す	Expression, Adverb	1.-soon; shortly; before long; nearly; almost																										
+JLPT-N4	523	君	くん	Suffix	1.-Mr (junior); master; boy																										
+JLPT-N4	524	包む	つつ	Godan verb with mu ending, Transitive verb	1.-to wrap up; to tuck in; to pack; to do up; to cover with; to dress in	2.-to conceal; to hide; to be engulfed in; to be enveloped by																									
+JLPT-N4	525	国際	こくさい	No-adjective, Noun	1.-international	2.-diplomatic intercourse	3.-International																								
+JLPT-N4	526	毛	け	Noun	1.-hair	2.-fur; wool	3.-down; plumage; feathers																								
+JLPT-N4	527	泳ぎ方	およかた	Noun	1.-way of swimming																										
+JLPT-N4	528	都	と	Noun	1.-Metropolis (of Tokyo); (Tokyo) Metropolitan District; metropolitan prefecture	2.-counter for cities and towns	3.-capital																								
+JLPT-N4	529	家内	かない	Noun	1.-(my) wife	2.-inside the home; one's family																									
+JLPT-N4	530	お見舞い	みま	Noun	1.-calling on someone who is ill; enquiry; inquiry																										
+JLPT-N4	531	そう		Adverb	1.-so; really; seeming	2.-appearing that; seeming that; looking like; having the appearance of																									
+JLPT-N4	532	そんな		Pre-noun adjectival	1.-such (about the actions of the listener, or about ideas expressed or understood by the listener); like that; that sort of	2.-no way!; never!																									
+JLPT-N4	533	若し	も	Adverb	1.-if; in case; supposing																										
+JLPT-N4	534	止める	や	Ichidan verb, Transitive verb	1.-to stop (an activity); to cease; to discontinue; to end; to quit	2.-to cancel; to abandon; to give up; to abolish; to abstain; to refrain																									
+JLPT-N4	535	非常に	ひじょう	Adverb	1.-very; extremely; exceedingly																										
+JLPT-N4	536	だから		Conjunction	1.-so; therefore; accordingly; consequently; on those grounds; that is why; for that reason																										
+JLPT-N4	537	はっきり		Adverb, Adverb taking the 'to' particle	1.-clearly; plainly; distinctly	2.-to be clear; to be definite; to be certain; to be exact; to become clear; to clear up	3.-ハッキリ																								
+JLPT-N4	538	すっかり		Adverb, Adverb taking the 'to' particle	1.-all; completely; totally; entirely; thoroughly																										
+JLPT-N4	539	コンサート		Noun	1.-concert																										
+JLPT-N4	540	やっと		Adverb	1.-at last; at length	2.-barely; narrowly; just; by the skin of one's teeth																									
+JLPT-N4	541	あんな		Pre-noun adjectival	1.-such; so; that sort of; that kind of; like that																										
+JLPT-N4	542	プレゼント		Noun	1.-present; gift	2.-to give a present or gift																									
+JLPT-N4	543	タイプ		Noun	1.-type; kind; sort; style	2.-type (of person); (ideal) type; one's type	3.-typewriter	4.-typing																							
+JLPT-N4	544	レポート		Noun, Suru verb	1.-report; paper	2.-reportage	3.-リポート																								
+JLPT-N4	545	そろそろ		Adverb, Adverb taking the 'to' particle	1.-slowly; quietly; steadily; gradually; gingerly	2.-soon; momentarily; before long; any time now	3.-ソロソロ																								
+JLPT-N4	546	米	こめ	Noun	1.-(husked grains of) rice	2.-88 years old																									
+JLPT-N4	547	ベル		Noun	1.-bell	2.-bel; B																									
+JLPT-N4	548	いらっしゃる		Godan verb - aru special class, intransitive verb	1.-to come; to go; to be (somewhere)	2.-to be (doing)																									
+JLPT-N4	549	其れで	そ	Conjunction	1.-and; thereupon; because of that																										
+JLPT-N4	550	どんどん		Adverb, Adverb taking the 'to' particle	1.-drumming (noise); beating; pounding; banging; booming; stamping	2.-rapidly; quickly; steadily	3.-continuously; one after the other; in succession	4.-ドンドン																							
+JLPT-N4	551	スーツ		Noun	1.-suit (clothing)	2.-suit (playing cards)																									
+JLPT-N4	552	ワープロ		Noun	1.-word processor																										
+JLPT-N4	553	ちゃん		Suffix	1.-suffix for familiar person																										
+JLPT-N4	554	汚れる	よご	Ichidan verb, intransitive verb	1.-to get dirty; to become dirty	2.-to become sullied; to become corrupted; to lose one's chastity																									
+JLPT-N4	555	パソコン		Noun, No-adjective	1.-personal computer																										
+JLPT-N4	556	ご馳走	ちそう	Noun	1.-feast; treating (someone)	2.-to treat (someone, e.g. to a meal)																									
+JLPT-N4	557	この頃	ごろ	Adverbial noun, Temporal noun	1.-these days; nowadays; now; at present; recently; lately																										
+JLPT-N4	558	ハンドバッグ		Noun	1.-handbag; purse																										
+JLPT-N4	559	アルバイト		Noun, Suru verb	1.-part-time job; side job	2.-part-time worker	3.-albite																								
+JLPT-N4	560	すると		Conjunction	1.-thereupon; hereupon																										
+JLPT-N4	561	先	さっき	Adverbial noun, Temporal noun	1.-a short while ago; a moment ago; just now; some time ago																										
+JLPT-N4	562	其れに	そ	Conjunction	1.-besides; in addition; also; moreover																										
+JLPT-N4	563	この間	あいだ	Temporal noun, Adverbial noun	1.-the other day; lately; recently; during this period	2.-meanwhile; in the meantime																									
+JLPT-N4	564	ＦＡＸ		Noun, Suru verb	1.-fax; facsimile	2.-fax machine																									
+JLPT-N4	565	すっと		Adverb, Suru verb	1.-straight; quickly; directly; all of a sudden	2.-quietly; gently; softly	3.-to feel refreshed; to feel satisfied	4.-スッと、スーッと、すうっと																							
+JLPT-N4	566	そんなに		Adverb	1.-so much; so; like that																										
+JLPT-N4	567	仰る	おっしゃ	Godan verb - aru special class, Transitive verb	1.-to say; to speak; to tell; to talk																										
+JLPT-N4	568	うん		Other forms	1.-yes; yeah; uh huh	2.-hum; hmmm; well; erm	3.-oof	4.-うむ、ううむ																							
+JLPT-N4	569	ああ		Adverb	1.-like that (used for something or someone distant from both speaker and listener); so																										
+JLPT-N4	570	ご覧になる	らん	Expression, Godan verb with ru ending	1.-to see; to look; to watch	2.-to try to																									
+JLPT-N4	571	変わる	か	Godan verb with ru ending, intransitive verb	1.-to change; to be transformed; to be altered; to vary	2.-to move to	3.-to be different; to be uncommon; to be unusual																								
+JLPT-N4	572	久しぶり	ひさ	Na-adjective, No-adjective, Noun	1.-a long time (since the last time); first in a long time																										
+JLPT-N4	573	昼休み	ひるやす	Adverbial noun, Temporal noun	1.-lunch break; noon recess; noon rest period																										
+JLPT-N4	574	二階建て	にかいだ	Noun	1.-two-storied building																										
+JLPT-N4	575	斯う	こ	Adverb	1.-in this way; thus; such	2.-uh...																									
+JLPT-N4	576	お出でになる	い	Expression, Godan verb with ru ending	1.-to be	2.-to come	3.-to go																								
+JLPT-N4	577	お祭り	まつ	Noun	1.-festival; feast; carnival																										
+JLPT-N4	578	端	つま	Noun	1.-edge; tip; end	2.-gable wall	3.-gable																								
